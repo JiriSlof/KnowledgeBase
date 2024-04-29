@@ -22,7 +22,7 @@ or
 ## License unit restriction
 1. min. 8 Core licenses per processor.
 2. min. 16 Core licenses per server.
-For example, a single processor server with 4 cores requires 16 Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Core licenses.
+[^1]For example, a single processor server with 4 cores requires 16 Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Core licenses.
 
 ## License mobility
 1. License Mobility is not available for Windows Server
