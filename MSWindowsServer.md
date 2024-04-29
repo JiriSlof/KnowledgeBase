@@ -62,19 +62,19 @@ Set-Up licese costs just price difference between STD+SA and DC+SA.
 
 ## Licensing virtual machines (VMs)/containers
 - Windows Server Datacenter
-	=> The server must be fully licensed with Core licenses (as described inthe Core-based Licensing section)
-	=> An unlimited number of virtual machines may be run on the server.
+	- The server must be fully licensed with Core licenses (as described inthe Core-based Licensing section)
+	- An unlimited number of virtual machines may be run on the server.
 - Windows Server Standard
-	=> The server must be fully licensed with Core licenses (as described inthe Core-based Licensing section)
-	=> 2 virtual machines may be run on the server.
-	=> The server must be licensed again to run a further 2 virtual machines. *
+	- The server must be fully licensed with Core licenses (as described inthe Core-based Licensing section)
+	- 2 virtual machines may be run on the server.
+	- The server must be licensed again to run a further 2 virtual machines. *
 	
 	* For example, a single processor server with 8 cores requires 16 Core
 	licenses to run 2 VMs. A further 16 Core licenses must be assigned to
 	the server to run another 2 VMs.
 - Windows Server Essentials
-	=> Host virtualization rights and rights to run in a single physical or virtual OSE
-	=> Restricted to 25 user accounts and 50 devices
+	- Host virtualization rights and rights to run in a single physical or virtual OSE
+	- Restricted to 25 user accounts and 50 devices
 - License for Virtual Machine (only with SA)
 
 ## Volume Activation
