@@ -20,24 +20,24 @@ or
 - Service Provider License Agreement (SPLA) - program for service providers
 
 ## License unit restriction
-• min. 8 Core licenses per processor.
-• min. 16 Core licenses per server.
+1. min. 8 Core licenses per processor.
+2. min. 16 Core licenses per server.
 For example, a single processor server with 4 cores requires 16 Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Core licenses.
 
 ## License mobility
-• License Mobility is not available for Windows Server
-• Licenses can be reassigned to servers no more frequently than once every 90 days
+1. License Mobility is not available for Windows Server
+2. Licenses can be reassigned to servers no more frequently than once every 90 days
 
 ## License Suites
 - Core Infrastructure Server (CIS) Suite Standard
 - Core Infrastructure Server (CIS) Suite Datacenter
 
 ## Software assurance
-• 24x7 Problem Resolution Support
-• Disaster Recovery Rights (SA required for both Serverlicenses and CALs)
-• E-Learning
-• Planning Services
-• Self-Hosting Use Rights
+1. 24x7 Problem Resolution Support
+2. Disaster Recovery Rights (SA required for both Serverlicenses and CALs)
+3. E-Learning
+4. Planning Services
+5. Self-Hosting Use Rights
 
 ## Licensing external users
 - Windows Server - User / Device CAL 
