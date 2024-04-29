@@ -49,11 +49,11 @@ For example, a single processor server with 4 cores requires 16 Core licenses, a
 - External Connector (for external users / devices)
 
 ## Downgrading versions and editions
-- Windows Server Datacenter 
+- Windows Server Datacenter<br>
 May be downgraded to any version of Windows Server Datacenter, Enterprise, Standard or Essentials.
-- Windows Server Standard
+- Windows Server Standard<br>
 May be downgraded to any version of Windows Server Enterprise, Standard or Essentials.
-- Windows Server Essentials
+- Windows Server Essentials<br>
 May be downgraded to any previous version of Windows Server Essentials.
 
 ## Step-Ups
