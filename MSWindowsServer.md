@@ -19,8 +19,8 @@ or
 - Service Provider License Agreement (SPLA) - program for service providers
 
 ## License unit restriction
-1. min. 8 Core licenses per processor.
-2. min. 16 Core licenses per server.
+1. Minimum 8 Core licenses per processor.
+2. Minimum 16 Core licenses per server.
 
 For example, a single processor server with 4 cores requires 16 Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Core licenses.
 
