@@ -7,9 +7,9 @@
 - Windows Server Enterprise (obsolte)
 
 ## Versions
-- Windows Server 2016
-- Windows Server 2019
-- Windows Server 2022
+- Windows Server 2016 (Mainstream End - 11Jan2022 | Extended End - 12Jan2027)
+- Windows Server 2019 (Mainstream End - 9Jan2024 | Extended End - 9Jan2029)
+- Windows Server 2022 (Mainstream End - 13Oct2026 | Extended End - 14Oct2031)
 
 ## License model
 - Datacenter => Core-based + CAL
