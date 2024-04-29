@@ -49,11 +49,12 @@ For example, a single processor server with 4 cores requires 16 Core licenses, a
 - External Connector (for external users / devices)
 
 ## Downgrading versions and editions
-| Licensed edition          | Down editions                                                                                                  | Versions               |
-|---------------------------|----------------------------------------------------------------------------------------------------------------|------------------------|
-| Windows Server Datacenter | Windows Server Datacenter<br>Windows Server Enterprise<br>Windows Server Standard<br>Windows Server Essentials | same<br>or<br>prevuios |
-| Windows Server Standard   | Windows Server Enterprise<br>Windows Server Standard<br>Windows Server Essentials                              | same<br>or<br>previous |
-| Windows Server Essentials | Windows Server Essentials                                                                                      | previous               |
+### Windows Server Datacenter 
+May be downgraded to any version of Windows Server Datacenter, Enterprise, Standard or Essentials.
+### Windows Server Standard
+May be downgraded to any version of Windows Server Enterprise, Standard or Essentials.
+### Windows Server Essentials
+May be downgraded to any previous version of Windows Server Essentials.
 
 ## Step-Ups
 The Software Assurenece provides eligilibility to purchase Step-Up licenses allowing move from Win STD to Win DC.
