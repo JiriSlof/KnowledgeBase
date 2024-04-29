@@ -20,9 +20,9 @@ or
 - Service Provider License Agreement (SPLA) - program for service providers
 
 ## License unit restriction
-1. min. 8 Core licenses per processor.
-2. min. 16 Core licenses per server.
-[^1]For example, a single processor server with 4 cores requires 16 Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Core licenses.
+1. min. 8 Core licenses per processor.[^1]
+2. min. 16 Core licenses per server.[^1]
+[^1]: For example, a single processor server with 4 cores requires 16 Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Core licenses.
 
 ## License mobility
 1. License Mobility is not available for Windows Server
@@ -38,6 +38,7 @@ or
 3. E-Learning
 4. Planning Services
 5. Self-Hosting Use Rights
+6. Eligibility for Step-Up license
 
 ## Licensing external users
 - Windows Server - User / Device CAL 
