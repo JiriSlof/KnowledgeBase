@@ -84,8 +84,8 @@ Set-Up licese costs just price difference between STD+SA and DC+SA.
 
 ## Servicing Channels
 - Long-Therm Servicing Channel (LTSC)
-	• Feature updates every 2-3 years
-	• Regular cadense for security and quality fixes
-	• Each LTS has 5years mainstream + 5years extended support
+	- Feature updates every 2-3 years
+	- Regular cadense for security and quality fixes
+	- Each LTS has 5years mainstream + 5years extended support
 - Semi-Annual Channel (obsolete)
 	
