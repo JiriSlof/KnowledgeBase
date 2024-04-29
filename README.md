@@ -1,4 +1,3 @@
-------------------------
 # Microsoft Windows Server 
 
 ## Editions
@@ -20,9 +19,10 @@ or
 - Service Provider License Agreement (SPLA) - program for service providers
 
 ## License unit restriction
-1. min. 8 Core licenses per processor.[^1]
-2. min. 16 Core licenses per server.[^1]
-[^1]: For example, a single processor server with 4 cores requires 16 Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Core licenses.
+1. min. 8 Core licenses per processor.
+2. min. 16 Core licenses per server.
+
+For example, a single processor server with 4 cores requires 16 Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Core licenses.
 
 ## License mobility
 1. License Mobility is not available for Windows Server
@@ -44,16 +44,16 @@ or
 - Windows Server - User / Device CAL 
 - Remote Desktop Services (RDS) - User / Device CAL
 - Active Directory Rights Management Services (ADRMS) - User / Device CAL
-
 - Core CAL Suite - User / Device CAL
 - Enterprise CAL Suite - User / Device CAL
-
 - External Connector (for external users / devices)
 
 ## Downgrading versions and editions
-• Windows Server 2019 Datacenter => may be downgraded to any version of Windows Server Datacenter, Enterprise, Standard or Essentials
-• Windows Server 2019 Standard => may be downgraded to any version of Windows Server Enterprise, Standard or Essentials
-• Windows Server 2019 Essentials => may be downgraded to any previous version of Windows Server Essentials
+| Licensed edition          | Down editions                                                                                                  | Versions               |
+|---------------------------|----------------------------------------------------------------------------------------------------------------|------------------------|
+| Windows Server Datacenter | Windows Server Datacenter<br>Windows Server Enterprise<br>Windows Server Standard<br>Windows Server Essentials | same<br>or<br>prevuios |
+| Windows Server Standard   | Windows Server Enterprise<br>Windows Server Standard<br>Windows Server Essentials                              | same<br>or<br>previous |
+| Windows Server Essentials | Windows Server Essentials                                                                                      | previous               |
 
 ## Step-Ups
 The Software Assurenece provides eligilibility to purchase Step-Up licenses allowing move from Win STD to Win DC.
