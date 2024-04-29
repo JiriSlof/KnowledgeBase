@@ -39,6 +39,7 @@ For example, a single processor server with 4 cores requires 16 Core licenses, a
 4. Planning Services
 5. Self-Hosting Use Rights
 6. Eligibility for Step-Up license
+7. Possibility to license per Virtual Machine (VM)
 
 ## Licensing external users
 - Windows Server - User / Device CAL 
