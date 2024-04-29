@@ -1,6 +1,5 @@
 ------------------------
 # Microsoft Windows Server 
-------------------------
 
 ## Editions
 - Windows Server Datacenter
