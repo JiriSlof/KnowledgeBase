@@ -1,1 +1,1 @@
-# Pristupove Licence
+# Pristupove licence
