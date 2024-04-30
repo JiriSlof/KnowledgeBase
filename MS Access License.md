@@ -24,7 +24,7 @@ For using management software such as Microsoft System Center, a *Management Lic
   - Microsoft Endpoint Configuration Manager Client Management License (ML)
   - System Center Endpoint Protection Client Management License
 
-## Microsoft System Center
+### Microsoft System Center
   - Advanced Threat Analytics Client Management License (ML)
   - Microsoft Audit and Control Management Server CAL
 
