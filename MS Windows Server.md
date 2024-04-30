@@ -61,7 +61,7 @@ May be downgraded to any previous version of Windows Server Essentials.
 The Software Assurenece provides eligilibility to purchase Step-Up licenses allowing move from Win STD to Win DC.
 Set-Up licese costs just price difference between STD+SA and DC+SA. 
 
-## Licensing virtual machines (VMs)/containers
+## Licensing virtual machines (VMs) / containers
 - Windows Server Datacenter
 	- The server must be fully licensed with Core licenses (as described inthe Core-based Licensing section)
 	- An unlimited number of virtual machines may be run on the server.
