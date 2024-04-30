@@ -1,15 +1,10 @@
 # Microsoft Skype for Bussiness
 
 ## Editions
-- Visio Server Standard
-- Visio Server Professional
-- Visio Server Office 365 (2016)
+TBD
 
 ## Versions
-- Visio 2013
-- Visio 2016
-- Visio 2019
-- Visio 2021
+TBD
 
 ## License model
 TBD
