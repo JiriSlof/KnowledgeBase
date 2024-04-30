@@ -1,5 +1,6 @@
 # Microsoft CAL Suite licenses
-- Core CAL Suite - components (as of the last publication of this brief)
+The Microsoft Server CAL Suites consist of two offerings: 
+- Core CAL Suite
 The Core CAL Suite is equivalent to the following licenses:
   - Windows Server CAL
   - Exchange Server Standard CAL
