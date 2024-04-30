@@ -70,7 +70,7 @@ Set-Up licese costs just price difference between STD+SA and DC+SA.
 	- 2 virtual machines may be run on the server.
 	- The server must be licensed again to run a further 2 virtual machines. *
 	
-	* For example, a single processor server with 8 cores requires 16 Core
+	For example, a single processor server with 8 cores requires 16 Core
 	licenses to run 2 VMs. A further 16 Core licenses must be assigned to
 	the server to run another 2 VMs.
 - Windows Server Essentials
