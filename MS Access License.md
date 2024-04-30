@@ -27,7 +27,7 @@ For using management software such as Microsoft System Center, a *Management Lic
 ### Microsoft System Center
   - Advanced Threat Analytics Client Management License (ML)
 [MS System Center Link]([https://www.example.com](https://www.microsoft.com/en-us/licensing/product-licensing/system-center))
-### Microsoft System Center
+### Microsoft Audit and Control Management Server
   - Microsoft Audit and Control Management Server CAL
     
 ## Microsoft CAL Suite licenses
