@@ -22,7 +22,7 @@ For using management software such as Microsoft System Center, a *Management Lic
   - Skype for Business Server Enterprise CAL
 ### System Center Configuration Manager (SCCM)
   - Microsoft Endpoint Configuration Manager Client Management License (ML)
-  - System Center Endpoint Protection Client Management License
+  - System Center Endpoint Protection Client Management License (ML)
 
 ### Microsoft System Center
   - Advanced Threat Analytics Client Management License (ML)
