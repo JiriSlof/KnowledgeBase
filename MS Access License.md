@@ -1,6 +1,6 @@
 # Microsoft Acess Licenses
-
-
+To access server software legally, a Client Access License (CAL) may be required. A CAL is not a software product, rather, it is a license that gives a user the right to access the services of the server.
+Likewise, if you manage the devices on your network by using management software such as Microsoft System Center, a Management License (ML) may be required for the device being managed.
 
 ## Microsoft CAL Suite licenses
 The Microsoft Server Client Access License (CAL) Suites consist of two offerings: 
