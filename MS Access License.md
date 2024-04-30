@@ -52,3 +52,6 @@ All of the components of the Core CAL Suite (listed above) plus
   - Microsoft Audit and Control Management Server CAL
 Includes Data Loss Prevention and Exchange Online Protection
 
+## External sources
+https://www.microsoft.com/en-us/licensing/product-licensing/client-access-license
+
