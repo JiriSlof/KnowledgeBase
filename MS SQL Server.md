@@ -48,7 +48,7 @@ The Microsoft SQL Servers can be licensed by 2 models:
 - SQL Server CALS can be used againts any SQL server regardless of platform or edition.
 
 > [!NOTE] 
-> Note that even if a user accesses SQL indirectly through another server (for example when using a Line of Business application), a CAL is till required. This is often known as multiplexing.
+> *Note that even if a user accesses SQL indirectly through another server (for example when using a Line of Business application), a CAL is till required. This is often known as multiplexing.*
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/f63e8e95-de5f-486d-a45a-b7a501a85920)
 
