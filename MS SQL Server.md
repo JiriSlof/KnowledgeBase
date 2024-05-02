@@ -42,7 +42,7 @@ The Microsoft SQL Servers can be licensed by 2 models:
 > [!CAUTION]
 > *Be aware that Core-based license for virtual OSE becomes benefit of Software Assurence since SQL Server Version SQL Server 2022 released Nov 16, 2022.
 > <br>Server Licenses (per core) – Licensing by Individual Virtual OSE are available for subscription licenses or licenses with active Software Assurance only for SQL Server 2022 and higher.*
-  
+
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/9fe9b57d-9520-43b5-ba9f-624cae820dea)
 
 
@@ -108,20 +108,29 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 - Assign a SQL Server Core license to each virtual core used by virtual machine or container running SQL Server.
 - Minimum of 4 Core licenses per virual machine.
 - Applicable for SQL Server Standard and Enterprise.
+
 > [!CAUTION]
-> *Be aware that Core-based license for virtual OSE becomes benefit of Software Assurence since SQL Server Version SQL Server 2022 released Nov 16, 2022.
-> <br>Server Licenses (per core) – Licensing by Individual Virtual OSE are available for subscription licenses or licenses with active Software Assurance only for SQL Server 2022 and higher.*
+> *Be aware that Core-based license for virtual OSE becomes benefit of Software Assurence since SQL Server Version SQL Server 2022 released Nov 16, 2022. Server Licenses (per core) – Licensing by Individual Virtual OSE are available for subscription licenses or licenses with active Software Assurance only for SQL Server 2022 and higher.*
+
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/bc7ad598-b247-4522-b3b7-bc973f6f84dd)
 
 ### Enterprise Core licenses rights
 - Licensing all the physical cores gives rights to run SQL Server in one virtual machine or container per Core license
 - As license stack, additional license for physical core giver right to run additional SQL server on virtual machine.
 - Applicable for SQL Server Enterprise only.
+
+> [!CAUTION]
+> *Be aware that Core-based license for virtual OSE becomes benefit of Software Assurence since SQL Server Version SQL Server 2022 released Nov 16, 2022. Server Licenses (per core) – Licensing by Individual Virtual OSE are available for subscription licenses or licenses with active Software Assurance only for SQL Server 2022 and higher.*
+
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/415fb745-9069-4d93-b5ce-e5501bacc489)
 
 ### Enterprise Core licenses with SA rights
 - License all the physical cores with Enterprise Edition Core licenses with Software Assurance gives rights to run **unlimited number** of SQL Server on virtual machines.
 - Applicable for SQL Server Enterprise with SA only.
+
+> [!CAUTION]
+> *Be aware that Core-based license for virtual OSE becomes benefit of Software Assurence since SQL Server Version SQL Server 2022 released Nov 16, 2022. Server Licenses (per core) – Licensing by Individual Virtual OSE are available for subscription licenses or licenses with active Software Assurance only for SQL Server 2022 and higher.*
+> 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/eba0cc75-2b93-4907-a1e7-e5b0c9131727)
 
 ## Failover Scenarios
