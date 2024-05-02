@@ -23,8 +23,11 @@ The System Center licensing models requires licenses only for the endpoints that
   > Protect your data with backup, storage, and recovery for private cloud deployments, physical machines, clients, and server applications. 
 - System Center Configuration Manager (SCCM)
   > Is an endpoint management solution for Microsoft devices, applications, and servers.
-  
-![blobid64](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/6e000cb6-9a27-4d78-ae51-a0aaa865ee8b)
+
+<p align="center">
+  ![blobid64](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/6e000cb6-9a27-4d78-ae51-a0aaa865ee8b)
+</p>
+
 
 ## License Model
 - Server Managed License (SML)
