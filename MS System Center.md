@@ -1,5 +1,5 @@
 # Microsoft System Center Suite
-Microsoft System Center is a suite of software products designed to simplify the deployment, configuration and management of IT infrastructure and virtualized software-defined data centers (SDDCs).
+Microsoft System Center is a suite of software products designed to simplify the deployment, configuration and management of IT infrastructure and virtualized Software-Defined Data Centers (SDDCs).
 
 ## Editions
 - Microsoft System Center Standard
