@@ -1,9 +1,9 @@
 # Microsoft SQL Server
 ## Editions
 - Microsoft SQL Server Express
+- Microsoft SQL Server Developer
 - Microsoft SQL Server Standard
 - Microsoft SQL Server Enterprise
-- Microsoft SQL Server Developer
 
 ## Versions
 - Microsoft SQL Server 2014 (obsolete)
@@ -13,9 +13,11 @@
 - Microsoft SQL Server 2022 
 
 ## License Models
-- Core-based
-- Server + CAL
-
+- Microsoft SQL Server Express => Free license.
+- Microsoft SQL Server Developer  => Free license.
+- Microsoft SQL Server Standard  => Core-based or Server + CAL
+- Microsoft SQL Server Enterprise => Core-based only.
+  
 > [!IMPORTANT]  
 > *Microsoft SQL Server Express and Microsoft SQL Server Developer are free to use without license requirement.
 > <br>Microsoft SQL Server edition is restricted to the development / testing environment usage only.*
