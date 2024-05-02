@@ -80,12 +80,13 @@ The Microsoft SQL Servers can be licensed by 2 models:
 - External users may be licensed with User or Device CALs or via Microsoft CAL Suite licenses.
 
 ## Downgrade Rights
-Customers can choose to deploy an earlier version and, sometimes, an alternative edition:
+Customers can choose to deploy an earlier version and, sometimes, an alternative edition.
 
+#### *Downgrade rights reference*:
 | **Licensed Product** 	| **Distribution**                                   	| **Version**     	|
 |:--------------------:	|----------------------------------------------------	|-----------------	|
 |       Standard       	|                      Standard                      	| same or earlier 	|
-|      Enterprise      	| Standard <br>Enterprise <br>Bussiness Intelligence 	| same or earlier 	|
+|      Enterprise      	|  Standard<br>Enterprise<br>Bussiness Intelligence 	| same or earlier 	|
 
 
 ## Step-Up License
