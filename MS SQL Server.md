@@ -13,16 +13,9 @@
 - Microsoft SQL Server 2022 
 
 ## License Models
-| **_SQL Server Edition_** 	| **Free License** 	| **Server + CAL** 	| **Core-Based** 	|
-|:------------------------:	|------------------	|------------------	|----------------	|
-|          Express         	|         X        	|                  	|                	|
-|         Developer        	|         X        	|                  	|                	|
-|         Standard         	|                  	|         X        	|        X       	|
-|        Enterprise        	|                  	|                  	|        X       	|
-
 
 | **_SQL Server Edition_** | **Free License** | **Server + CAL** | **Core-Based** |
-|:------------------------:	|:------------------:|:------------------:|:----------------:|
+|:------------------------:|:----------------:|:----------------:|:--------------:|
 | Express                  |         ✓        |                  |                |
 | Developer                |         ✓        |                  |                |
 | Standard                 |                  |         ✓        |        ✓       |
