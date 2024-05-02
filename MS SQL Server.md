@@ -14,9 +14,9 @@
 
 ## License Models
 The Microsoft SQL Servers can be licensed by 2 models:
-- **Server + CAL**
+- **Server license + CAL**
   > Purchase a SQL Server license for each server, and then purchase Client Access Licenses (CALs) for either users or devices.
-- **Core-based**
+- **Core-based license**
   > Purchase a SQL Server license for each core, as long as a minimum of 4 licenses are acquired per processor. <br>No requirement to purchase Client Access Licenses (CALs) for either users or devices in this model.
  
 #### *License model reference*:
