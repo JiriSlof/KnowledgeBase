@@ -13,9 +13,9 @@
 - Microsoft SQL Server 2022 
 
 ## License Models
-The Microsoft SQL Servers can be licensed by:
-- Purchase a SQL Server license for each server, and then purchase Client Access Licenses (CALs) for either users or devices.
-- Purchase a SQL Server license for each core, as long as a minimum of 4 licenses are acquired per processor without requirement to purchase Client Access Licenses (CALs) for either users or devices.
+The Microsoft SQL Servers can be licensed by 2 models:
+- Server + CAL - Purchase a SQL Server license for each server, and then purchase Client Access Licenses (CALs) for either users or devices.
+- Core-based - Purchase a SQL Server license for each core, as long as a minimum of 4 licenses are acquired per processor. No requirement to purchase Client Access Licenses (CALs) for either users or devices in this model.
  
 
 | **_SQL Server Edition_** | **Free License** | **Server + CAL** | **Core-Based** |
