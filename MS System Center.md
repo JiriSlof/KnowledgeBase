@@ -14,10 +14,7 @@ The System Center licensing models requires licenses only for the endpoints that
 - Server Managed License (SML)
     - System Center Standard SML - Core-based
     - System Center Datacenter SML - Core-based
-    1. Include right to use Management Server software.
-    2. Include all the System center products.
-    4. Give rights to use MS SQL Server.
-    5. Only available with Software Essurence (SA).
+
 - Client Managed License (CML)
     - Microsoft Endpoint Configuration Manager CML - OSE / User
     - System Center Endpoint Protection SL - Device / User
@@ -25,12 +22,13 @@ The System Center licensing models requires licenses only for the endpoints that
     - System Center Orchestrator CML - OSE / User
     - System Center Operations Manager CML - OSE / User
     - System Center Service Manager CML - OSE / User
-    1. Software Assurance is included with all Client MLs.
-    2. Client MLs include the right to run the Management Server
-software and MS SQL Server.
 
-## License unit restriction
-- Server Managed Core License (ML)
+## License restriction / benefits
+- Server Managed Core License (SML)
+    - Include right to use Management Server software.
+    - Include all the System center products.
+    - Give rights to use MS SQL Server.
+    - Only available with Software Essurence (SA).      
     - Minimum 8 Core licenses per processor.
     - Minimum 16 Core licenses per server.
       
@@ -38,6 +36,9 @@ A Server ML Core license must be assigned to each physical core in the server, w
 For example, a single processor server with 4 cores requires 16 Server ML Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Server ML Core licenses.
 
 - Client Managed License (CML)
+    - Software Assurance is included with all Client MLs.
+    - Client MLs include the right to run the Management Server
+software and MS SQL Server.
 
 ## License mobility
 - License Mobility is not available and also not benefit of SA.
