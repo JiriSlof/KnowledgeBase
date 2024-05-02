@@ -39,6 +39,8 @@ The Microsoft SQL Servers can be licensed by 2 models:
 - No CALs are required for internal or external users.
 - Core licenses are acquired in 2-packs (can be split across servers).
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/fe7149de-0513-462f-868d-15b89aea4048)
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/9fe9b57d-9520-43b5-ba9f-624cae820dea)
+
 
 #### Server-based licensing
 - Purchase a SQL Server license for each server.
@@ -49,6 +51,8 @@ The Microsoft SQL Servers can be licensed by 2 models:
 > Note that even if a user accesses SQL indirectly through another server (for example when using a Line of Business application), a CAL is till required. This is often known as multiplexing.
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/3a3c8b4b-9908-49ef-b5ab-2374bb61b277)
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/f63e8e95-de5f-486d-a45a-b7a501a85920)
+
 
 
 ## License Mobility
