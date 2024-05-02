@@ -12,7 +12,7 @@
 - Microsoft SQL Server 2019
 - Microsoft SQL Server 2022 
 
-## License Model
+## License Models
 - Core-based
 - Server + CAL
 
