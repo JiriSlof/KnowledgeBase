@@ -53,7 +53,6 @@ The Microsoft SQL Servers can be licensed by 2 models:
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/f63e8e95-de5f-486d-a45a-b7a501a85920)
 
 
-
 ## License Mobility
 - License Mobility is not available for Windows SQL Server.
 - Licenses can be reassigned to servers no more frequently than once every 90 days.
@@ -68,16 +67,26 @@ The Microsoft SQL Servers can be licensed by 2 models:
 - Enterprise Core licenses with SA include the rights to run Power BI Report Server on a licensed server to generate data visualizations.
 - Enterprise Core licenses with SA allows the running of Machine Learning Server for Hadoop on up to 5 servers for advanced analytics.
 
-![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/1c70a4c4-a62e-4ecc-bb2b-b8cb2c4e1da6)
-
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/f2a7fcce-a03b-4b9a-8ad8-4b874c805e9e)
-
 
 > [!NOTE] 
 > *In the diagram above, two Server licenses with Software Assurance have been purchased and the virtual machines may move freely around the server farm and the licenses can be considered to be dynamically reassigned to the relevant physical server.*
-  
+
+## Software Subscriptions
+- 1 or 3 year Software Subscriptions are available through CSP for SQL Server 2022 Standard and Enterprise Core licenses.
+- They entitle customers to the same benefits as a Software Assurance customer, with the exception of the License Mobility through SA  benefit.
+
 ## Licensing External Users
 - External users may be licensed with User or Device CALs or via Microsoft CAL Suite licenses.
+
+## Downgrade Rights
+Customers can choose to deploy an earlier version and, sometimes, an alternative edition:
+
+| **Licensed Product** 	| **Distribution**                                   	| **Version**     	|
+|:--------------------:	|----------------------------------------------------	|-----------------	|
+|       Standard       	|                      Standard                      	| same or earlier 	|
+|      Enterprise      	| Standard <br>Enterprise <br>Bussiness Intelligence 	| same or earlier 	|
+
 
 ## Step-Up License
 Step-up licenses may be purchased for Standard Core licenses with SA to move to Enterprise Core licenses.
