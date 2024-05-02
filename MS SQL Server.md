@@ -20,8 +20,13 @@
 > *Microsoft SQL Server Express and Microsoft SQL Server Developer are free to use without license requirement.
 > <br>Microsoft SQL Server edition is restricted to the development / testing environment usage only.*
 
-## License unit restriction
-TBD
+## License Rules
+#### Core-based licensing
+- Count the number of cores in the server.
+- Buy that number of Core licenses, as long as a minimum of 4 licenses are acquired per processor.
+- No CALs are required for internal or external users.
+- Core licenses are acquired in 2-packs.
+#### Server-based licensing
 
 ## License mobility
 - License Mobility is not available for Windows SQL Server.
@@ -29,15 +34,15 @@ TBD
 - License Mobility across Server Farms is benefit of Software Assurence.
 
 ## License Suites
-TBD
+CAL Suite
 
 ## Software assurance
 - Provides License Mobility across Server Farms including including Server license, Core-based license as well as User CAL license.
 - Enterprise Core licenses with SA include the rights to run Power BI Report Server on a licensed server to generate data visualizations.
 - Enterprise Core licenses with SA allows the running of Machine Learning Server for Hadoop on up to 5 servers for advanced analytics.
   
-## Licensing external users
-TBD
+## Licensing External Users
+- External users may be licensed with User or Device CALs or via Microsoft CAL Suite licenses.
 
 ## Step-Up License
 Step-up licenses may be purchased for Standard Core licenses with SA to move to Enterprise Core licenses.
@@ -51,3 +56,7 @@ TBD
 ## External links
 Overview - https://getlicensingready.com/HandoutStore/SQL%202022%20v24.30.pdf
 OnPrem Video Edu - https://www.youtube.com/watch?v=9x_XQKHErYQ
+
+
+
+External users may be licensed with User or Device CALs or via Core licenses.
