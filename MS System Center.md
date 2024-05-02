@@ -10,7 +10,7 @@ The System Center licensing models requires licenses only for the endpoints that
 - Microsoft System Center 2019
 - Microsoft System Center 2022
 
-## Products
+## Suited Products
 - System Center Operations Manager (SCOM)
   > *Monitor health, capacity, and usage across applications, workloads, and infrastructure.*
 - System Center Orchestrator
