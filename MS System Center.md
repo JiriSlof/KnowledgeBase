@@ -10,6 +10,19 @@ The System Center licensing models requires licenses only for the endpoints that
 - Microsoft System Center 2019
 - Microsoft System Center 2022
 
+## Products
+- System Center Operations Manager (SCOM)
+  > Monitor health, capacity, and usage across applications, workloads, and infrastructure.
+- System Center Orchestrator
+  > Automate your datacenter tasks; efficiently create and execute runbooks using native PowerShell scripts.
+- System Center Virtual Machine Manager
+- System Center Service Manager
+- System Center Data Protection Manager
+- System Center Configuration Manager (SCCM)
+  
+![sysnet-microsoft-system-center-suite-of-products-9](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/e78f0e41-7d07-4f63-a809-489a3533aa2a)
+
+
 ## License Model
 - Server Managed License (SML)
     - System Center Standard SML - Core-based
