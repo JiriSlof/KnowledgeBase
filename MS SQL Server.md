@@ -15,10 +15,10 @@
 ## License Models
 | **_SQL Server Edition_** | **Free License** | **Server + CAL** | **Core-Based** |
 |--------------------------|------------------|------------------|----------------|
-| Express                  |         ✓        |         X        |        X       |
-| Developer                |         ✓        |         X        |        X       |
-| Standard                 |         X        |         ✓        |        ✓       |
-| Enterprise               |         X        |         X        |        ✓       |
+| Express                  |         ✓        |                  |                |
+| Developer                |         ✓        |                  |                |
+| Standard                 |                  |         ✓        |        ✓       |
+| Enterprise               |                  |                  |        ✓       |
 
 | **_SQL Server Edition_** 	| **Free License** 	| **Server + CAL** 	| **Core-Based** 	|
 |--------------------------	|------------------	|------------------	|----------------	|
