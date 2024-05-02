@@ -12,7 +12,7 @@
 - Microsoft SQL Server 2019
 - Microsoft SQL Server 2022 
 
-## License model
+## License Model
 - Core-based
 - Server + CAL
 
@@ -29,7 +29,7 @@
 #### Server-based licensing
 - Standard edition may be licensed with either of the licensing models.
 - Enterprise edition is licensed with Core-based licenses.
-## License mobility
+## License Mobility
 - License Mobility is not available for Windows SQL Server.
 - Licenses can be reassigned to servers no more frequently than once every 90 days.
 - License Mobility across Server Farms is benefit of Software Assurence.
@@ -38,7 +38,7 @@
 - Microsoft Core CAL Suite
 - Microsoft Enterprise CAL Suite
 
-## Software assurance
+## Software Assurance
 - Provides License Mobility across Server Farms including including Server license, Core-based license as well as User CAL license.
 - Enterprise Core licenses with SA include the rights to run Power BI Report Server on a licensed server to generate data visualizations.
 - Enterprise Core licenses with SA allows the running of Machine Learning Server for Hadoop on up to 5 servers for advanced analytics.
@@ -49,12 +49,12 @@
 ## Step-Up License
 Step-up licenses may be purchased for Standard Core licenses with SA to move to Enterprise Core licenses.
 
-## Licensing virtual machines (VMs)/containers
+## Licensing Virtual Machines (VMs) / Containers
 TBD
 
 ## Failover Licensing Scenarios
 
 
-## External links
+## External Links
 - Overview - https://getlicensingready.com/HandoutStore/SQL%202022%20v24.30.pdf
 - OnPrem Video Edu - https://www.youtube.com/watch?v=9x_XQKHErYQ
