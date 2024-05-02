@@ -27,6 +27,7 @@ The System Center licensing models requires licenses only for the endpoints that
 <p align="center">
   <img src="https://www.terminalworks.com/blog-images/blobs/post_84/blobid64.jpg?1603887836751" />
 </p>
+
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/6914f5df-104c-40e8-a3c6-af8bf17768cb)
 
 
