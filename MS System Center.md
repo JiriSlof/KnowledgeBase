@@ -52,6 +52,9 @@ software and MS SQL Server.
 - Core CAL Suite
     - Microsoft Endpoint Configuration Manager
     - System Center Endpoint Protections
+- Enterprise CAL Suite
+    - Microsoft Endpoint Configuration Manager
+    - System Center Endpoint Protections
 
 ## Software assurance
 The following SA benefits are also available for System Center Server Management Licenses:
