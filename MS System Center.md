@@ -1,4 +1,5 @@
 # Microsoft System Center
+The System Center licensing models requires licenses only for the endpoints that are being managed. Rights to SQL Server and the Management Server software are included.
 
 ## Editions
 - Microsoft System Center Standard
@@ -10,25 +11,50 @@
 - Microsoft System Center 2022
 
 ## License model
-- Server Managed License (ML)
-    - Include right to use Management Server software
-    - Only available with Software Essurence (SA)
-- Client Managed License (ML)
+- Server Managed License (SML)
+    - System Center Standard SML - Core-based
+    - System Center Datacenter SML - Core-based
+    1. Include right to use Management Server software.
+    2. Include all the System center products.
+    4. Give rights to use MS SQL Server.
+    5. Only available with Software Essurence (SA).
+- Client Managed License (CML)
+    - Microsoft Endpoint Configuration Manager CML - OSE / User
+    - System Center Endpoint Protection SL - Device / User
+    - System Center Data Protection Manager CML - OSE / User
+    - System Center Orchestrator CML - OSE / User
+    - System Center Operations Manager CML - OSE / User
+    - System Center Service Manager CML - OSE / User
+    1. Software Assurance is included with all Client MLs.
+    2. Client MLs include the right to run the Management Server
+software and MS SQL Server.
 
 ## License unit restriction
-- Server Managed License (ML)
+- Server Managed Core License (ML)
     - Minimum 8 Core licenses per processor.
     - Minimum 16 Core licenses per server.
-For example, a single processor server with 4 cores requires 16 Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Core licenses.
+      
+A Server ML Core license must be assigned to each physical core in the server, with a minimum of 8 Core licenses per processor, and a minimum of 16 Core licenses per server.
+For example, a single processor server with 4 cores requires 16 Server ML Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Server ML Core licenses.
+
+- Client Managed License (CML)
 
 ## License mobility
-TBD
+- License Mobility is not available and also not benefit of SA.
+- Licenses can be reassigned to servers no more frequently than once every 90 days
 
 ## License Suites
-TBD
+- Core CAL Suite
+    - Microsoft Endpoint Configuration Manager
+    - System Center Endpoint Protections
 
 ## Software assurance
-TBD
+The following SA benefits are also available for System Center Server Management Licenses:
+- 24x7 Problem Resolution Support
+- Disaster Recovery Rights
+- License Mobility through Software Assurance
+- Self-Hosting Use Rights
+Note that License Mobility across Server Farms is NOT available as an SA benefit.
 
 ## Licensing external users
 - SharePoint Standard CAL - User / Device CAL
@@ -54,3 +80,4 @@ For example, a single processor server with 8 cores requires 16 Core licenses to
 
 ## External links
 Descrription - https://www.microsoft.com/en-us/licensing/product-licensing/system-center
+Licensing Overview - https://getlicensingready.com/HandoutStore/System%20Center%202022%20v23.10.pdf
