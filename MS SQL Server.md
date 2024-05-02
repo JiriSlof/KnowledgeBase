@@ -14,18 +14,12 @@
 
 ## License Models
 | **_SQL Server Edition_** | **Free License** | **Server + CAL** | **Core-Based** |
-|--------------------------|------------------|------------------|----------------|
+|:------------------------:	|------------------	|------------------	|----------------	|
 | Express                  |         ✓        |                  |                |
 | Developer                |         ✓        |                  |                |
 | Standard                 |                  |         ✓        |        ✓       |
 | Enterprise               |                  |                  |        ✓       |
 
-| **_SQL Server Edition_** 	| **Free License** 	| **Server + CAL** 	| **Core-Based** 	|
-|--------------------------	|------------------	|------------------	|----------------	|
-| Express                  	|         X        	|         X        	|        X       	|
-| Developer                	|         X        	|         X        	|        X       	|
-| Standard                 	|         X        	|         X        	|        X       	|
-| Enterprise               	|         X        	|         X        	|        X       	|
 
 - Microsoft SQL Server Express => Free license.
 - Microsoft SQL Server Developer  => Free license.
