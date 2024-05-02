@@ -1,5 +1,5 @@
 # Microsoft System Center Suite
-The System Center licensing models requires licenses only for the endpoints that are being managed. Rights to SQL Server and the Management Server software are included.
+Microsoft System Center is a suite of software products designed to simplify the deployment, configuration and management of IT infrastructure and virtualized software-defined data centers (SDDCs).
 
 ## Editions
 - Microsoft System Center Standard
@@ -41,6 +41,9 @@ The System Center licensing models requires licenses only for the endpoints that
     - System Center Service Manager CML - OSE / User
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/ef15f8be-c150-48cc-8b47-7a528cade992)
+
+> [!NOTE]  
+> The System Center licensing models requires licenses only for the endpoints that are being managed. Rights to SQL Server and the Management Server software are included.
 
 
 ## License Restrictions / Benefits
