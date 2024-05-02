@@ -38,7 +38,7 @@ The System Center licensing models requires licenses only for the endpoints that
     - Software Assurance is included with all Client MLs.
     - Client MLs include the right to run the Management Server
 software and MS SQL Server.
-> [!TIP1]  
+> [!TIP]  
 > *A Server ML Core license must be assigned to each physical core in the server, with a minimum of 8 Core licenses per processor, and a minimum of 16 Core licenses per server.
 > For example, a single processor server with 4 cores requires 16 Server ML Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Server ML Core licenses.*
 
@@ -84,9 +84,9 @@ The Step-Up license is priced at the difference in price of the two licenses and
     - The server must be fully licensed with  licenses (same as Core-based licensing for Windows Server).
     - Only 2 virtual machines may be run on the server.
     - The server must be licensed again to run a further 2 virtual machines. Stacking license.
- [^1]: XXSdsadas fsdfsdf sfrsd 
-For example, a single processor server with 8 cores requires 16 Core licenses to run 2 VMs. A further 16 Core licenses must be assigned to the server to run another 2 VMs.
+> [!TIP]  
+> For example, a single processor server with 8 cores requires 16 Core licenses to run 2 VMs. A further 16 Core licenses must be assigned to the server to run another 2 VMs.
 
 ## External Links
-Descrription - https://www.microsoft.com/en-us/licensing/product-licensing/system-center
-Licensing Overview - https://getlicensingready.com/HandoutStore/System%20Center%202022%20v23.10.pdf
+- Descrription - https://www.microsoft.com/en-us/licensing/product-licensing/system-center
+- Licensing Overview - https://getlicensingready.com/HandoutStore/System%20Center%202022%20v23.10.pdf
