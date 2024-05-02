@@ -43,7 +43,7 @@ Microsoft System Center is a suite of software products designed to simplify the
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/ef15f8be-c150-48cc-8b47-7a528cade992)
 
 > [!NOTE]  
-> The System Center licensing models requires licenses only for the endpoints that are being managed. Rights to use MS SQL Server and the Management Server software are included.
+> *The System Center licensing models requires licenses only for the endpoints that are being managed. Rights to use MS SQL Server and the Management Server software are included.*
 
 
 ## License Restrictions / Benefits
