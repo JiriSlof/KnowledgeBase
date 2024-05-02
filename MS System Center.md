@@ -39,8 +39,8 @@ The System Center licensing models requires licenses only for the endpoints that
     - Client MLs include the right to run the Management Server
 software and MS SQL Server.
 > [!TIP]  
-> A Server ML Core license must be assigned to each physical core in the server, with a minimum of 8 Core licenses per processor, and a minimum of 16 Core licenses per server.
-> For example, a single processor server with 4 cores requires 16 Server ML Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Server ML Core licenses.
+> *A Server ML Core license must be assigned to each physical core in the server, with a minimum of 8 Core licenses per processor, and a minimum of 16 Core licenses per server.
+> For example, a single processor server with 4 cores requires 16 Server ML Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Server ML Core licenses.*
 
 
 ## License Mobility
