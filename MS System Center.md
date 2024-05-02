@@ -48,11 +48,11 @@ software and MS SQL Server.
 - License Mobility is benefit of SA.
 - License Mobility across Server Farms is NOT available as an SA benefit.
 
-## License Suites
-- Core CAL Suite
+## Related License Suites
+- Core Client Access License (CAL) Suite
     - Microsoft Endpoint Configuration Manager
     - System Center Endpoint Protections
-- Enterprise CAL Suite
+- Enterprise Client Access License (CAL) Suite
     - Microsoft Endpoint Configuration Manager
     - System Center Endpoint Protections
 
