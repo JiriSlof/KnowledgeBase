@@ -56,9 +56,5 @@ TBD
 
 
 ## External links
-Overview - https://getlicensingready.com/HandoutStore/SQL%202022%20v24.30.pdf
-OnPrem Video Edu - https://www.youtube.com/watch?v=9x_XQKHErYQ
-
-
-
-External users may be licensed with User or Device CALs or via Core licenses.
+- Overview - https://getlicensingready.com/HandoutStore/SQL%202022%20v24.30.pdf
+- OnPrem Video Edu - https://www.youtube.com/watch?v=9x_XQKHErYQ
