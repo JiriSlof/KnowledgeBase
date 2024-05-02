@@ -10,7 +10,7 @@ The System Center licensing models requires licenses only for the endpoints that
 - Microsoft System Center 2019
 - Microsoft System Center 2022
 
-## License model
+## License Model
 - Server Managed License (SML)
     - System Center Standard SML - Core-based
     - System Center Datacenter SML - Core-based
@@ -27,7 +27,7 @@ The System Center licensing models requires licenses only for the endpoints that
 
 
 
-## License restriction / benefits
+## License Restrictions / Benefits
 - Server Managed Core License (SML)
     - Include right to use Management Server software.
     - Include all the System center products.
@@ -44,7 +44,7 @@ For example, a single processor server with 4 cores requires 16 Server ML Core l
     - Client MLs include the right to run the Management Server
 software and MS SQL Server.
 
-## License mobility
+## License Mobility
 - License Mobility is not available and also not benefit of SA.
 - Licenses can be reassigned to servers no more frequently than once every 90 days
 
@@ -56,7 +56,7 @@ software and MS SQL Server.
     - Microsoft Endpoint Configuration Manager
     - System Center Endpoint Protections
 
-## Software assurance
+## Software Assurance
 The following SA benefits are also available for System Center Server Management Licenses:
 - 24x7 Problem Resolution Support
 - Disaster Recovery Rights
@@ -64,18 +64,18 @@ The following SA benefits are also available for System Center Server Management
 - Self-Hosting Use Rights
 Note that License Mobility across Server Farms is NOT available as an SA benefit.
 
-## Licensing external users
+## Licensing External Users
 - SharePoint Standard CAL - User / Device CAL
 - SharePoint Standard + Enterprise CAL - User / Device CAL
 
-## Downgrading versions and editions
+## Downgrading Versions and Editions
 TBD
 
 ## Step-Ups
 Customers who have System Center 2022 Standard Server ML Core licenses with active Software ssurance may purchase. Step-Up licenses to move to System Center 2022 Datacenter Server ML ore licenses.
 The Step-Up license is priced at the difference in price of the two licenses and SA.
 
-## Licensing virtual machines (VMs) / containers
+## Licensing Virtual Machines (VMs) / Containers
 - Microsoft System Center Standard license  
     - The server must be fully licensed with  licenses (same as Core-based licensing for Windows Server).
     - An unlimited number of virtual machines may be run and can be managed on the server.
@@ -86,6 +86,6 @@ The Step-Up license is priced at the difference in price of the two licenses and
     - The server must be licensed again to run a further 2 virtual machines. Stacking license.
 For example, a single processor server with 8 cores requires 16 Core licenses to run 2 VMs. A further 16 Core licenses must be assigned to the server to run another 2 VMs.
 
-## External links
+## External Links
 Descrription - https://www.microsoft.com/en-us/licensing/product-licensing/system-center
 Licensing Overview - https://getlicensingready.com/HandoutStore/System%20Center%202022%20v23.10.pdf
