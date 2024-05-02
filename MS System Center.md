@@ -37,7 +37,20 @@ TBD
 ## Downgrading versions and editions
 TBD
 
-## Licensing virtual machines (VMs) / containers
-TBD
+## Step-Ups
+Customers who have System Center 2022 Standard Server ML Core licenses with active Software ssurance may purchase. Step-Up licenses to move to System Center 2022 Datacenter Server ML ore licenses.
+The Step-Up license is priced at the difference in price of the two licenses and SA.
 
-https://www.microsoft.com/en-us/licensing/product-licensing/system-center
+## Licensing virtual machines (VMs) / containers
+- Microsoft System Center Standard license  
+    - The server must be fully licensed with  licenses (same as Core-based licensing for Windows Server).
+    - An unlimited number of virtual machines may be run and can be managed on the server.
+  
+- Microsoft System Center Datacenter license
+    - The server must be fully licensed with  licenses (same as Core-based licensing for Windows Server).
+    - Only 2 virtual machines may be run on the server.
+    - The server must be licensed again to run a further 2 virtual machines. Stacking license.
+For example, a single processor server with 8 cores requires 16 Core licenses to run 2 VMs. A further 16 Core licenses must be assigned to the server to run another 2 VMs.
+
+## External links
+Descrription - https://www.microsoft.com/en-us/licensing/product-licensing/system-center
