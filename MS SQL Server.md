@@ -70,6 +70,9 @@ The Microsoft SQL Servers can be licensed by 2 models:
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/1c70a4c4-a62e-4ecc-bb2b-b8cb2c4e1da6)
 
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/f2a7fcce-a03b-4b9a-8ad8-4b874c805e9e)
+
+
 > [!NOTE] 
 > *In the diagram above, two Server licenses with Software Assurance have been purchased and the virtual machines may move freely around the server farm and the licenses can be considered to be dynamically reassigned to the relevant physical server.*
   
