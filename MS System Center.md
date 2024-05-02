@@ -26,7 +26,6 @@ The System Center licensing models requires licenses only for the endpoints that
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/ef15f8be-c150-48cc-8b47-7a528cade992)
 
 
-
 ## License Restrictions / Benefits
 - Server Managed Core License (SML)
     - Include right to use Management Server software.
