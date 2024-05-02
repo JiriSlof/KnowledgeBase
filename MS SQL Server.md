@@ -90,7 +90,8 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 
 
 ## Step-Up License
-Step-up licenses may be purchased for Standard Core licenses with SA to move to Enterprise Core licenses.
+- Step-up licenses may be purchased for Standard Core licenses with SA to move to Enterprise Core licenses.
+- The Step-Up license is priced at the difference in price of the two licenses and SA.
 
 ## Licensing Virtual Machines (VMs) / Containers
 TBD
