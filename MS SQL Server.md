@@ -96,7 +96,22 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 - The Step-Up license is priced at the difference in price of the two licenses and SA.
 
 ## Licensing Virtual Machines (VMs) / Containers
-TBD
+### Server licenses
+- Assign a SQL Server Server license to each virtual machine or container running SQL Server.
+- Applicable for SQL Server Standard only.
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/48085e93-b991-4f40-bd20-f65e931413bc)
+
+### Core licenses
+- Assign a SQL Server Core license to each virtual core used by virtual machine or container running SQL Server.
+- Minimum of 4 Core licenses per virual machine.
+- Applicable for SQL Server Standard and Enterprise.
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/bc7ad598-b247-4522-b3b7-bc973f6f84dd)
+
+
+### Core licenses with SA
+- License the virtual cores used by the virtual machines, with a minimum of 4 Core licenses with Software Assurance per virtual machine or container.
+- Applicable for SQL Server Standard and Enterprise.
+
 
 ## Failover Licensing Scenarios
 
