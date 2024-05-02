@@ -44,8 +44,8 @@ For example, a single processor server with 4 cores requires 16 Server ML Core l
 software and MS SQL Server.
 
 ## License Mobility
-- License Mobility is not available and it's benefit of SA.
-- Licenses can be reassigned to servers no more frequently than once every 90 days
+- Licenses can be reassigned to servers no more frequently than once every 90 days.
+- License Mobility is benefit of SA.
 
 ## License Suites
 - Core CAL Suite
