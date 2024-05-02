@@ -23,6 +23,9 @@ The System Center licensing models requires licenses only for the endpoints that
     - System Center Operations Manager CML - OSE / User
     - System Center Service Manager CML - OSE / User
 
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/4b9a9196-b4e8-4982-b7b0-011347e585ee)
+
+
 ## License restriction / benefits
 - Server Managed Core License (SML)
     - Include right to use Management Server software.
