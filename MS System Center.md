@@ -83,6 +83,7 @@ The Step-Up license is priced at the difference in price of the two licenses and
     - The server must be fully licensed with  licenses (same as Core-based licensing for Windows Server).
     - Only 2 virtual machines may be run on the server.
     - The server must be licensed again to run a further 2 virtual machines. Stacking license.
+
 For example, a single processor server with 8 cores requires 16 Core licenses to run 2 VMs. A further 16 Core licenses must be assigned to the server to run another 2 VMs.
 
 ## External Links
