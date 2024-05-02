@@ -67,10 +67,10 @@ The following SA benefits are also available for System Center Server Management
 
 
 ## Downgrading Versions and Editions
-* TO BE DEFINED *
+*TO BE DEFINED*
 
 ## Step-Ups
-Customers who have System Center Standard Server ML Core licenses with active Software ssurance may purchase. Step-Up licenses to move to System Center Datacenter Server ML Core licenses.
+Customers who have System Center Standard Server ML Core licenses with active Software ssurance may purchase Step-Up licenses to move to System Center Datacenter Server ML Core licenses.
 The Step-Up license is priced at the difference in price of the two licenses and SA.
 
 ## Licensing Virtual Machines (VMs) / Containers
