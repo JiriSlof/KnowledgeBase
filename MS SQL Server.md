@@ -29,17 +29,26 @@ The Microsoft SQL Servers can be licensed by 2 models:
   
 > [!IMPORTANT]  
 > *Microsoft SQL Server Express and Microsoft SQL Server Developer are free to use without license requirement.
-> <br>Microsoft SQL Server Developer edition is restricted to the development / testing environment usage only.*
+> <br>Microsoft SQL Server Developer edition is restricted to the development / testing environment usage only.
+> <br>Microsoft SQL Server Express edition has limited database size, processor cores, maximum memory nad more...*
 
 ## License Rules
 #### Core-based licensing
 - Count the number of cores in the server.
 - Buy that number of Core licenses, as long as a minimum of 4 licenses are acquired per processor.
 - No CALs are required for internal or external users.
-- Core licenses are acquired in 2-packs.
+- Core licenses are acquired in 2-packs (can be split across servers).
 #### Server-based licensing
-- Standard edition may be licensed with either of the licensing models.
-- Enterprise edition is licensed with Core-based licenses.
+- Purchase a SQL Server license for each server.
+- Purchase Client Access Licenses (CALs) for either users or devices.
+- SQL Server CALS can be used againts any SQL server regardless of platform or edition.
+
+> [!NOTE] 
+> Note that even if a user accesses SQL indirectly through another server (for example when using a Line of Business application), a CAL is till required. This is often known as multiplexing.
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/3a3c8b4b-9908-49ef-b5ab-2374bb61b277)
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/fe7149de-0513-462f-868d-15b89aea4048)
+
+
 ## License Mobility
 - License Mobility is not available for Windows SQL Server.
 - Licenses can be reassigned to servers no more frequently than once every 90 days.
@@ -69,3 +78,4 @@ TBD
 ## External Links
 - Overview - https://getlicensingready.com/HandoutStore/SQL%202022%20v24.30.pdf
 - OnPrem Video Edu - https://www.youtube.com/watch?v=9x_XQKHErYQ
+- Edition & Feature Reference - https://learn.microsoft.com/en-us/sql/sql-server/editions-and-components-of-sql-server-2022?view=sql-server-ver16&preserve-view=true
