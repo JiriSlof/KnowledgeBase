@@ -20,12 +20,6 @@
 | Developer                |         ✓        |                  |                |
 | Standard                 |                  |         ✓        |        ✓       |
 | Enterprise               |                  |                  |        ✓       |
-
-
-- Microsoft SQL Server Express => Free license.
-- Microsoft SQL Server Developer  => Free license.
-- Microsoft SQL Server Standard  => Core-based or Server + CAL
-- Microsoft SQL Server Enterprise => Core-based only.
   
 > [!IMPORTANT]  
 > *Microsoft SQL Server Express and Microsoft SQL Server Developer are free to use without license requirement.
