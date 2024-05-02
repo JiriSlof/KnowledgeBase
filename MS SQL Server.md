@@ -7,10 +7,10 @@
 
 ## Versions
 - Microsoft SQL Server 2014 (obsolete)
-- Microsoft SQL Server 2016
-- Microsoft SQL Server 2017
-- Microsoft SQL Server 2019
-- Microsoft SQL Server 2022 
+- Microsoft SQL Server 2016 - [EOL Jul 14, 2026](https://link-url-here.org)
+- Microsoft SQL Server 2017 - [EOL Oct 12, 2027](https://link-url-here.org)
+- Microsoft SQL Server 2019 - [EOL Jan 8, 2030](https://link-url-here.org)
+- Microsoft SQL Server 2022 - [EOL Jan 11, 2033](https://link-url-here.org)
 
 ## License Models
 The Microsoft SQL Servers can be licensed by 2 models:
