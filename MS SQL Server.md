@@ -12,7 +12,7 @@
 - Microsoft SQL Server 2019
 - Microsoft SQL Server 2022
 
-*Microsoft SQL Server lifecycle link [link](https://learn.microsoft.com/en-us/lifecycle/products/?products=sql-server).*
+<sub>Microsoft SQL Server lifecycle [link](https://learn.microsoft.com/en-us/lifecycle/products/?products=sql-server).</sub>
 
 ## License Models
 The Microsoft SQL Servers can be licensed by 2 models:
