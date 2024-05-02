@@ -17,7 +17,8 @@
 - Server + CAL
 
 > [!IMPORTANT]  
-> Microsoft SQL Server Express and Microsoft SQL Server Developer are free to use without license requirement. The Developer edition are restricted to the development / testing environment usage.
+> *Microsoft SQL Server Express and Microsoft SQL Server Developer are free to use without license requirement.
+> <br>The Developer edition are restricted to the development / testing environment usage.*
 
 ## License unit restriction
 TBD
