@@ -65,15 +65,12 @@ The following SA benefits are also available for System Center Server Management
 > [!CAUTION]
 > License Mobility across Server Farms is NOT available as an SA benefit.
 
-## Licensing External Users
-- SharePoint Standard CAL - User / Device CAL
-- SharePoint Standard + Enterprise CAL - User / Device CAL
 
 ## Downgrading Versions and Editions
-TBD
+* TO BE DEFINED *
 
 ## Step-Ups
-Customers who have System Center 2022 Standard Server ML Core licenses with active Software ssurance may purchase. Step-Up licenses to move to System Center 2022 Datacenter Server ML ore licenses.
+Customers who have System Center Standard Server ML Core licenses with active Software ssurance may purchase. Step-Up licenses to move to System Center Datacenter Server ML Core licenses.
 The Step-Up license is priced at the difference in price of the two licenses and SA.
 
 ## Licensing Virtual Machines (VMs) / Containers
@@ -81,7 +78,7 @@ The Step-Up license is priced at the difference in price of the two licenses and
     - The server must be fully licensed with  licenses (same as Core-based licensing for Windows Server).
     - An unlimited number of virtual machines may be run and can be managed on the server.
   
-- Microsoft System Center Datacenter license [^1]
+- Microsoft System Center Datacenter license
     - The server must be fully licensed with  licenses (same as Core-based licensing for Windows Server).
     - Only 2 virtual machines may be run on the server.
     - The server must be licensed again to run a further 2 virtual machines. Stacking license.
