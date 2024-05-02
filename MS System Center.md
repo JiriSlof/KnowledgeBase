@@ -23,7 +23,7 @@ The System Center licensing models requires licenses only for the endpoints that
     - System Center Operations Manager CML - OSE / User
     - System Center Service Manager CML - OSE / User
 
-![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/1a1fd8bb-325a-4721-b5cd-36ec654e94e1)
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/ef15f8be-c150-48cc-8b47-7a528cade992)
 
 
 
