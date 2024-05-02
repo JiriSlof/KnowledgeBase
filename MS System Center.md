@@ -1,4 +1,4 @@
-# Microsoft System Center
+# Microsoft System Center Suite
 The System Center licensing models requires licenses only for the endpoints that are being managed. Rights to SQL Server and the Management Server software are included.
 
 ## Editions
@@ -12,17 +12,13 @@ The System Center licensing models requires licenses only for the endpoints that
 
 ## Products
 - System Center Operations Manager (SCOM)
-  > Monitor health, capacity, and usage across applications, workloads, and infrastructure.
+  | Monitor health, capacity, and usage across applications, workloads, and infrastructure.
 - System Center Orchestrator
-  > Automate your datacenter tasks; efficiently create and execute runbooks using native PowerShell scripts.
 - System Center Virtual Machine Manager
 - System Center Service Manager
 - System Center Data Protection Manager
 - System Center Configuration Manager (SCCM)
-  
 ![blobid64](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/6e000cb6-9a27-4d78-ae51-a0aaa865ee8b)
-
-
 
 ## License Model
 - Server Managed License (SML)
