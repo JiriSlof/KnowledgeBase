@@ -20,7 +20,8 @@ The System Center licensing models requires licenses only for the endpoints that
 - System Center Data Protection Manager
 - System Center Configuration Manager (SCCM)
   
-![sysnet-microsoft-system-center-suite-of-products-9](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/e78f0e41-7d07-4f63-a809-489a3533aa2a)
+![blobid64](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/6e000cb6-9a27-4d78-ae51-a0aaa865ee8b)
+
 
 
 ## License Model
