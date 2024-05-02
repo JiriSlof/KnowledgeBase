@@ -12,6 +12,8 @@
 - Microsoft SQL Server 2019 - [EOL Jan 8, 2030](https://link-url-here.org)
 - Microsoft SQL Server 2022 - [EOL Jan 11, 2033](https://link-url-here.org)
 
+Microsoft SQL Server lifecycle link [link](https://learn.microsoft.com/en-us/lifecycle/products/?products=sql-server).
+
 ## License Models
 The Microsoft SQL Servers can be licensed by 2 models:
 - **Server license + CAL**
