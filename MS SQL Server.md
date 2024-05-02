@@ -85,10 +85,10 @@ The Microsoft SQL Servers can be licensed by 2 models:
 Customers can choose to deploy an earlier version and, sometimes, an alternative edition.
 
 #### *Downgrade rights reference*:
-|         **Licensed Product**        	|               **Target Distribution**              	| **Target Version** 	|
-|:-----------------------------------:	|:--------------------------------------------------:	|:------------------:	|
-|  Microsoft SQL Server <br>Standard  	|                      Standard                      	|   same or earlier  	|
-| Microsoft SQL Server <br>Enterprise 	| Standard <br>Enterprise <br>Bussiness Intelligence 	|   same or earlier  	|
+|         **Licensed Product**        	|                                      **Target Distribution**                                      	| **Target Version** 	|
+|:-----------------------------------:	|:-------------------------------------------------------------------------------------------------:	|:------------------:	|
+|  Microsoft SQL Server <br>Standard  	|                              Standard<br>Workgroup <br>Small Business                             	|   same or earlier  	|
+| Microsoft SQL Server <br>Enterprise 	| Standard <br>Enterprise <br>Bussiness Intelligence <br>Workgroup<br>Small Bussiness<br>Datacenter 	|   same or earlier  	|
 
 
 ## Step-Up License
@@ -118,8 +118,16 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 - Applicable for SQL Server Enterprise with SA only.
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/eba0cc75-2b93-4907-a1e7-e5b0c9131727)
 
-
 ## Failover Licensing Scenarios
+### License across Server Farm
+-
+-
+
+> [!IMPORTANT] 
+> *All servers in Server Farm must have number of cores as the active server.*
+
+
+
 
 
 ## External Links
