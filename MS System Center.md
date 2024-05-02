@@ -16,7 +16,10 @@
 - Client Managed License (ML)
 
 ## License unit restriction
-TBD
+- Server Managed License (ML)
+    - Minimum 8 Core licenses per processor.
+    - Minimum 16 Core licenses per server.
+For example, a single processor server with 4 cores requires 16 Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Core licenses.
 
 ## License mobility
 TBD
