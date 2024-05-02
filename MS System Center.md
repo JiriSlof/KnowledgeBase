@@ -12,12 +12,18 @@ The System Center licensing models requires licenses only for the endpoints that
 
 ## Products
 - System Center Operations Manager (SCOM)
-  | Monitor health, capacity, and usage across applications, workloads, and infrastructure.
+  > Monitor health, capacity, and usage across applications, workloads, and infrastructure.
 - System Center Orchestrator
+  > Automate your datacenter tasks; efficiently create and execute runbooks using native PowerShell scripts.
 - System Center Virtual Machine Manager
+  > Deploy and manage your virtualized, software-defined datacenter with a comprehensive solution for networking, storage, compute, and security. 
 - System Center Service Manager
+  > Automated service delivery tool for incident resolution, change control, and asset lifecycle management. 
 - System Center Data Protection Manager
+  > Protect your data with backup, storage, and recovery for private cloud deployments, physical machines, clients, and server applications. 
 - System Center Configuration Manager (SCCM)
+  > Is an endpoint management solution for Microsoft devices, applications, and servers.
+  
 ![blobid64](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/6e000cb6-9a27-4d78-ae51-a0aaa865ee8b)
 
 ## License Model
