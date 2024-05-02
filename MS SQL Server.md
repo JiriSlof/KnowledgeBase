@@ -39,12 +39,7 @@ The Microsoft SQL Servers can be licensed by 2 models:
 - No CALs are required for internal or external users.
 - Core licenses are acquired in 2-packs (can be split across servers).
 
-> [!CAUTION]
-> *Be aware that Core-based license for virtual OSE becomes benefit of Software Assurence since SQL Server Version SQL Server 2022 released Nov 16, 2022.
-> <br>Server Licenses (per core) – Licensing by Individual Virtual OSE are available for subscription licenses or licenses with active Software Assurance only for SQL Server 2022 and higher.*
-
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/9fe9b57d-9520-43b5-ba9f-624cae820dea)
-
 
 #### Server-based licensing
 - Purchase a SQL Server license for each server.
