@@ -62,7 +62,8 @@ The following SA benefits are also available for System Center Server Management
 - Disaster Recovery Rights
 - License Mobility through Software Assurance
 - Self-Hosting Use Rights
-Note that License Mobility across Server Farms is NOT available as an SA benefit.
+> [!CAUTION]
+> License Mobility across Server Farms is NOT available as an SA benefit.
 
 ## Licensing External Users
 - SharePoint Standard CAL - User / Device CAL
