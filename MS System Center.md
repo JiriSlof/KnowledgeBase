@@ -61,7 +61,6 @@ software and MS SQL Server.
 
 
 ## License Mobility
-- Licenses can be reassigned to servers no more frequently than once every 90 days.
 - License Mobility is benefit of SA.
 - License Mobility across Server Farms is NOT available as an SA benefit.
 
