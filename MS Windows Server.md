@@ -57,7 +57,7 @@ May be downgraded to any version of Windows Server Enterprise, Standard or Essen
 - ***Windows Server Essentials***<br>
 May be downgraded to any previous version of Windows Server Essentials.
 
-## Step-Ups
+## Step-Ups License
 The Software Assurenece provides eligilibility to purchase Step-Up licenses allowing move from Win STD to Win DC.
 Set-Up licese costs just price difference between STD+SA and DC+SA. 
 
