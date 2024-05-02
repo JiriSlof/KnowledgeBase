@@ -83,10 +83,10 @@ The Microsoft SQL Servers can be licensed by 2 models:
 Customers can choose to deploy an earlier version and, sometimes, an alternative edition.
 
 #### *Downgrade rights reference*:
-| **Licensed Product** 	| **Distribution**                                   	| **Version**     	|
-|:--------------------:	|----------------------------------------------------	|-----------------	|
-|       Standard       	|                      Standard                      	| same or earlier 	|
-|      Enterprise      	|  Standard<br>Enterprise<br>Bussiness Intelligence 	| same or earlier 	|
+|       **Licensed Product**      	|               **Target Distribution**              	| **Target Version** 	|
+|:-------------------------------:	|:--------------------------------------------------:	|:------------------:	|
+|  Microsoft SQL Server Standard  	|                      Standard                      	|   same or earlier  	|
+| Microsoft SQL Server Enterprise 	| Standard <br>Enterprise <br>Bussiness Intelligence 	|   same or earlier  	|
 
 
 ## Step-Up License
