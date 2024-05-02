@@ -67,6 +67,11 @@ The Microsoft SQL Servers can be licensed by 2 models:
 - Provides License Mobility across Server Farms including including Server license, Core-based license as well as User CAL license.
 - Enterprise Core licenses with SA include the rights to run Power BI Report Server on a licensed server to generate data visualizations.
 - Enterprise Core licenses with SA allows the running of Machine Learning Server for Hadoop on up to 5 servers for advanced analytics.
+
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/1c70a4c4-a62e-4ecc-bb2b-b8cb2c4e1da6)
+
+> [!NOTE] 
+> *In the diagram above, two Server licenses with Software Assurance have been purchased and the virtual machines may move freely around the server farm and the licenses can be considered to be dynamically reassigned to the relevant physical server.*
   
 ## Licensing External Users
 - External users may be licensed with User or Device CALs or via Microsoft CAL Suite licenses.
