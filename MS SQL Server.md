@@ -130,7 +130,8 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 
 ### License across Server Farm without SA
 - In case licensing Server Farm by licesing wouthout SA, all nodes must be licensed regardless cluster mode.
-  
+  ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/a8760970-408f-4626-8113-c0f01768512d)
+
 
 
 ## External Links
