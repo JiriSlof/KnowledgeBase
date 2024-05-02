@@ -12,8 +12,6 @@
 - Microsoft SQL Server 2019
 - Microsoft SQL Server 2022
 
-<sub>Microsoft SQL Server lifecycle [link](https://learn.microsoft.com/en-us/lifecycle/products/?products=sql-server).</sub>
-
 ## License Models
 The Microsoft SQL Servers can be licensed by 2 models:
 - **Server license + CAL**
@@ -68,6 +66,7 @@ The Microsoft SQL Servers can be licensed by 2 models:
 - Provides License Mobility across Server Farms including including Server license, Core-based license as well as User CAL license.
 - Enterprise Core licenses with SA include the rights to run Power BI Report Server on a licensed server to generate data visualizations.
 - Enterprise Core licenses with SA allows the running of Machine Learning Server for Hadoop on up to 5 servers for advanced analytics.
+- Provides eligibility to purchase the Step-Up liceses to move from Standard Core License to Enterprise Core License.
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/f2a7fcce-a03b-4b9a-8ad8-4b874c805e9e)
 
@@ -119,18 +118,23 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/eba0cc75-2b93-4907-a1e7-e5b0c9131727)
 
 ## Failover Licensing Scenarios
-### License across Server Farm
--
--
+### License across Server Farm with SA
+- Once Active server from the Server Farm is completly licensed by Core license with SA, the both of the passive servers are covered with no further licensing requirements.
+- Same applies on the Server + CAL with SA - both Server license as well as CALs need to be with SA.
+- In case of Active - Active solution, all active nodes must be licensed with SA.
+
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/4566ff3f-c683-44eb-9b64-a7d7010780b9)
 
 > [!IMPORTANT] 
-> *All servers in Server Farm must have number of cores as the active server.*
+> *All servers in Server Farm must have number of cores as the active server in order to cover proper license in case of failover.*
 
-
+### License across Server Farm without SA
 
 
 
 ## External Links
-- Overview - https://getlicensingready.com/HandoutStore/SQL%202022%20v24.30.pdf
-- OnPrem Video Edu - https://www.youtube.com/watch?v=9x_XQKHErYQ
-- Edition & Feature Reference - https://learn.microsoft.com/en-us/sql/sql-server/editions-and-components-of-sql-server-2022?view=sql-server-ver16&preserve-view=true
+- Overview - [link](https://getlicensingready.com/HandoutStore/SQL%202022%20v24.30.pdf)
+- OnPrem Video Edu - [link](https://www.youtube.com/watch?v=9x_XQKHErYQ)
+- Edition & Feature Reference - [link](https://learn.microsoft.com/en-us/sql/sql-server/editions-and-components-of-sql-server-2022?view=sql-server-ver16&preserve-view=true)
+- Microsoft SQL Server lifecycle - [link](https://learn.microsoft.com/en-us/lifecycle/products/?products=sql-server).</sub>
+
