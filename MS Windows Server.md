@@ -106,7 +106,7 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 
 ####  Windows Server Standard
 - The server must be fully licensed with Core licenses (as described inthe Core-based Licensing section)
-- 2 virtual machines may be run on the server.
+- Only 2 virtual machines may be run on the server.
 - The server must be licensed again to run a further 2 virtual machines (license stacking).
 	
 > [!TIP]  
@@ -129,6 +129,12 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 > - *Customers choosing this licensing model do not have rights to run Windows Server in the physical Operating System Environment (OSE).*
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/28eb8cc6-4672-463d-a071-35e3d2a185e3)
+
+#####  Scenario 1 : Silgle Server
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/aa03f606-3680-47f9-8599-6bd789c76699)
+
+#####  Scenario 2 : Two Servers
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/061e1fef-8a8a-464c-a2fc-fe490070e916)
 
 ## Failover Scenarios
 
@@ -154,3 +160,4 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 - OnPrem Video Edu - [link](https://youtu.be/Lv_Qm6cZhOY?si=pJDviDzLxkjib3nu)
 - License by VM - [link](https://getlicensingready.com/HandoutStore/Licensing%20Windows%20Server%20by%20virtual%20machine%20v23.30.pdf)
 - License by VM Video Edu - [link](https://www.youtube.com/watch?v=MmFRzdbJIxs&t=5s)
+- Licensing Winser with Virt. Technologies -  [link](https://www.licensingschool.co.uk/wp-content/uploads/2022/10/Licensing_Windows_Server_for_use_with_virtualization_technologies-Oct-2022.pdf)
