@@ -123,6 +123,7 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 
 ### License across Server Farm
 - As the Mobility is not available for Windows Server proper licenses must be assigned to all servers in Server Farm.
+- Windows Server Datacenter is the ussulay only reliable option due to possibility to run unlimited number of VMs.
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/72520a3e-9ca3-414e-a039-cd0f3745543b)
 
 ## Volume Activation
