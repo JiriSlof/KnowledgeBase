@@ -139,3 +139,7 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 - Semi-Annual Channel (obsolete)
 	
 ## External Links
+- Overview - [link](https://getlicensingready.com/HandoutStore/Licensing%20Windows%20Server%202022%20on-premises%20v24.10.pdf)
+- OnPrem Video Edu - [link](https://youtu.be/Lv_Qm6cZhOY?si=pJDviDzLxkjib3nu)
+- License by VM - [link](https://getlicensingready.com/HandoutStore/Licensing%20Windows%20Server%20by%20virtual%20machine%20v23.30.pdf)
+- License by VM Video Edu - [link](https://www.youtube.com/watch?v=MmFRzdbJIxs&t=5s)
