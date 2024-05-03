@@ -72,7 +72,7 @@ External users can be licensed with either individual User or Device CALs or wit
 - The External Connector license allows unlimited external users to connect to and use the services of the physical server and any virtual machines running on the server.
 - If an organization has more than approximately 70 external users, it is likely to be most cost effective to use an External Connector license to license those users.
 
-#### *Access licenses:*:
+#### *Access licenses:*
 - Windows Server - User / Device CAL 
 - Remote Desktop Services (RDS) - User / Device CAL
 - Active Directory Rights Management Services (ADRMS) - User / Device CAL
