@@ -164,4 +164,4 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 - License by VM - [link](https://getlicensingready.com/HandoutStore/Licensing%20Windows%20Server%20by%20virtual%20machine%20v23.30.pdf)
 - License by VM Video Edu - [link](https://www.youtube.com/watch?v=MmFRzdbJIxs&t=5s)
 - Licensing Winser with Virt. Technologies -  [link](https://www.licensingschool.co.uk/wp-content/uploads/2022/10/Licensing_Windows_Server_for_use_with_virtualization_technologies-Oct-2022.pdf)
-Windows Server 2022 Licensing Guide - [link](https://bit.ly/3M8KrTq)
+- Windows Server 2022 Licensing Guide - [link](https://bit.ly/3M8KrTq)
