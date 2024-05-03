@@ -87,7 +87,7 @@ External users can be licensed with either individual User or Device CALs or wit
 Customers can choose to deploy an earlier version and, sometimes, an alternative edition.
 
 #### *Downgrade rights reference*:
-|    **Licensed Product**   	|                               **Target Distribution**                               	| **Target Version** 	|
+|    **Licensed Product**   	|                               **Target Edition**                               	| **Target Version** 	|
 |:-------------------------:	|:-----------------------------------------------------------------------------------:	|:------------------:	|
 | Windows Server Datacenter 	| Windows Server Datacenter <br>Windows Server Standard <br>Windows Server Essentials 	|   same or earlier  	|
 |  Windows Server Standard  	|                Windows Server Standard <br>Windows Server Essentials                	|   same or earlier  	|
