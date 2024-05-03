@@ -1,4 +1,5 @@
 # Microsoft SQL Server
+MS SQL Server is a Relational Database Management System (RDBMS) developed by Microsoft. A Relational database is based on a Relational Model architecture. The data is organized in tables(relations), and the tables are related to each other. Each table has rows and columns(attributes).
 ## Editions
 - Microsoft SQL Server Express
 - Microsoft SQL Server Developer
