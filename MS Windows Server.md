@@ -1,4 +1,5 @@
 # Microsoft Windows Server 
+Windows Server is a group of server operating systems that has been developed by Microsoft since 1993.
 
 ## Editions
 - Windows Server Datacenter
@@ -29,20 +30,24 @@
 
 ## License Rules
 #### Core-based license + CAL
-- Minimum 8 Core licenses per processor.
-- Minimum 16 Core licenses per server.
+- A Core license must be assigned to each physical core in the server.
+- Windows Server Client Access Licenses are required for either users or devices.
+- Core licenses are purchased in 2-packs or 16-packs from resellers.
+- Minimum of 8 Core licenses per processor.
+- Minimum of 16 Core licenses per server.
 
-> [!IMPORTANT]  
+> [!NOTE]  
 > *For example, a single processor server with 4 cores requires 16 Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Core licenses.*
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/bec3bbaa-20d1-44e5-bbd9-bd026a8e31d7)
 
-
 #### Single server license
+- A single server license must be assigned to each physical.
 
 ## License Mobility
 1. License Mobility is not available for Windows Server
 2. Licenses can be reassigned to servers no more frequently than once every 90 days
+3. License Mobility IS available for the External Connector licenses.
 
 ## License Suites
 - Core Infrastructure Server (CIS) Suite Standard
