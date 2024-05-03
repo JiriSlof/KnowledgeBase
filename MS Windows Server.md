@@ -84,6 +84,15 @@ External users can be licensed with either individual User or Device CALs or wit
 
 
 ## Downgrade Rights
+Customers can choose to deploy an earlier version and, sometimes, an alternative edition.
+
+#### *Downgrade rights reference*:
+|    **Licensed Product**   	|                               **Target Distribution**                               	| **Target Version** 	|
+|:-------------------------:	|:-----------------------------------------------------------------------------------:	|:------------------:	|
+| Windows Server Datacenter 	| Windows Server Datacenter <br>Windows Server Standard <br>Windows Server Essentials 	|   same or earlier  	|
+|  Windows Server Standard  	|                Windows Server Standard <br>Windows Server Essentials                	|   same or earlier  	|
+| Windows Server Essentials 	| Windows Server Essentials                                                           	|                    	|
+
 - ***Windows Server Datacenter***<br>
 May be downgraded to any version of Windows Server Datacenter, Enterprise, Standard or Essentials.
 - ***Windows Server Standard***<br>
@@ -92,8 +101,8 @@ May be downgraded to any version of Windows Server Enterprise, Standard or Essen
 May be downgraded to any previous version of Windows Server Essentials.
 
 ## Step-Ups License
-The Software Assurenece provides eligilibility to purchase Step-Up licenses allowing move from Win STD to Win DC.
-Set-Up licese costs just price difference between STD+SA and DC+SA. 
+- Customers who have existing Windows Server Standard Core licenses with Software Assurance may purchase Step-Up licenses to move to Windows Server Datacenter Core licenses.
+- The Step-Up license is priced at the difference in price of the two licenses and SA.
 
 ## Licensing Virtual Machines (VMs) / Containers
 - Windows Server Datacenter
