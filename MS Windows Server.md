@@ -118,6 +118,8 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 	- Restricted to 25 user accounts and 50 devices.
    
 - License for Virtual Machine (only with SA)
+  	- Possible since October 2022 for customers with Software Assurence or Subscription licenses.
+  	- 
 
 ## Failover Scenarios
 
