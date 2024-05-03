@@ -130,10 +130,11 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/28eb8cc6-4672-463d-a071-35e3d2a185e3)
 
-1. Scenario 1 : Silgle Server
+#####  Examples
+1. **Scenario: Silgle Server**
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/aa03f606-3680-47f9-8599-6bd789c76699)
 
-2. Scenario 2 : Two Servers
+2. **Scenario: Two Servers**
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/061e1fef-8a8a-464c-a2fc-fe490070e916)
 
 ## Failover Scenarios
