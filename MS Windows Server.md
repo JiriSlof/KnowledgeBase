@@ -11,20 +11,20 @@
 - Windows Server 2019 (Mainstream End - 9Jan2024 | Extended End - 9Jan2029)
 - Windows Server 2022 (Mainstream End - 13Oct2026 | Extended End - 14Oct2031)
 
-## License model
+## License Model
 - Datacenter => Core-based + CAL
 - Standard => Core-based + CAL
 - Essentials => Single Server license
 or
 - Service Provider License Agreement (SPLA) - program for service providers
 
-## License unit restriction
+## License Rules
 1. Minimum 8 Core licenses per processor.
 2. Minimum 16 Core licenses per server.
 
 For example, a single processor server with 4 cores requires 16 Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Core licenses.
 
-## License mobility
+## License Mobility
 1. License Mobility is not available for Windows Server
 2. Licenses can be reassigned to servers no more frequently than once every 90 days
 
@@ -32,7 +32,7 @@ For example, a single processor server with 4 cores requires 16 Core licenses, a
 - Core Infrastructure Server (CIS) Suite Standard
 - Core Infrastructure Server (CIS) Suite Datacenter
 
-## Software assurance
+## Software Assurance
 1. 24x7 Problem Resolution Support
 2. Disaster Recovery Rights (SA required for both Serverlicenses and CALs)
 3. E-Learning
@@ -41,7 +41,7 @@ For example, a single processor server with 4 cores requires 16 Core licenses, a
 6. Eligibility for Step-Up license
 7. Possibility to license per Virtual Machine (VM)
 
-## Licensing external users
+## Licensing External Users
 - Windows Server - User / Device CAL 
 - Remote Desktop Services (RDS) - User / Device CAL
 - Active Directory Rights Management Services (ADRMS) - User / Device CAL
@@ -49,7 +49,7 @@ For example, a single processor server with 4 cores requires 16 Core licenses, a
 - Enterprise CAL Suite - User / Device CAL
 - External Connector (for external users / devices)
 
-## Downgrading versions and editions
+## Downgrade Rights
 - ***Windows Server Datacenter***<br>
 May be downgraded to any version of Windows Server Datacenter, Enterprise, Standard or Essentials.
 - ***Windows Server Standard***<br>
@@ -61,7 +61,7 @@ May be downgraded to any previous version of Windows Server Essentials.
 The Software Assurenece provides eligilibility to purchase Step-Up licenses allowing move from Win STD to Win DC.
 Set-Up licese costs just price difference between STD+SA and DC+SA. 
 
-## Licensing virtual machines (VMs) / containers
+## Licensing Virtual Machines (VMs) / Containers
 - Windows Server Datacenter
 	- The server must be fully licensed with Core licenses (as described inthe Core-based Licensing section)
 	- An unlimited number of virtual machines may be run on the server.
