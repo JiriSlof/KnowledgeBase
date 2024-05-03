@@ -67,6 +67,12 @@ Windows Server is a group of server operating systems that has been developed by
 7. Possibility to license per Virtual Machine (VM)
 
 ## Licensing External Users
+External users can be licensed with either individual User or Device CALs or with a Windows Server External Connector license.
+- A physical server must be licensed appropriately with Windows Server Standard or Datacenter licenses and then a single External Connector license is assigned to the server. There is just one edition of the External Connector license used regardless of whether the  nderlying server is licensed with Windows Server Standard or Datacenter edition.
+- The External Connector license allows unlimited external users to connect to and use the services of the physical server and any virtual machines running on the server.
+- If an organization has more than approximately 70 external users, it is likely to be most cost effective to use an External Connector license to license those users.
+
+#### *Access licenses:*:
 - Windows Server - User / Device CAL 
 - Remote Desktop Services (RDS) - User / Device CAL
 - Active Directory Rights Management Services (ADRMS) - User / Device CAL
