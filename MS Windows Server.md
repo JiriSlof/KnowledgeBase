@@ -93,33 +93,37 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 |  Windows Server Standard  	|                Windows Server Standard <br>Windows Server Essentials                	|   same or earlier  	|
 | Windows Server Essentials 	| Windows Server Essentials                                                           	|                    	|
 
-- ***Windows Server Datacenter***<br>
-May be downgraded to any version of Windows Server Datacenter, Enterprise, Standard or Essentials.
-- ***Windows Server Standard***<br>
-May be downgraded to any version of Windows Server Enterprise, Standard or Essentials.
-- ***Windows Server Essentials***<br>
-May be downgraded to any previous version of Windows Server Essentials.
-
 ## Step-Ups License
 - Customers who have existing Windows Server Standard Core licenses with Software Assurance may purchase Step-Up licenses to move to Windows Server Datacenter Core licenses.
 - The Step-Up license is priced at the difference in price of the two licenses and SA.
 
 ## Licensing Virtual Machines (VMs) / Containers
 - Windows Server Datacenter
-	- The server must be fully licensed with Core licenses (as described inthe Core-based Licensing section)
+	- The server must be fully licensed with Core licenses (as described inthe Core-based Licensing section).
 	- An unlimited number of virtual machines may be run on the server.
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/1774d347-a044-4bdc-83ab-0e62b6525f0a)
+
 - Windows Server Standard
 	- The server must be fully licensed with Core licenses (as described inthe Core-based Licensing section)
 	- 2 virtual machines may be run on the server.
-	- The server must be licensed again to run a further 2 virtual machines. *
+	- The server must be licensed again to run a further 2 virtual machines (license stacking).
 	
-	For example, a single processor server with 8 cores requires 16 Core
-	licenses to run 2 VMs. A further 16 Core licenses must be assigned to
-	the server to run another 2 VMs.
+> [!TIP]  
+> *For example, a single processor server with 8 cores requires 16 Core licenses to run 2 VMs. A further 16 Core licenses must be assigned to the server to run another 2 VMs.*
+
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/7c941e8a-08bd-4da8-b475-37d6e4d0974e)
+
 - Windows Server Essentials
-	- Host virtualization rights and rights to run in a single physical or virtual OSE
-	- Restricted to 25 user accounts and 50 devices
+	- Host virtualization rights and rights to run in a single physical or virtual OSE.
+	- Restricted to 25 user accounts and 50 devices.
+   
 - License for Virtual Machine (only with SA)
+
+## Failover Scenarios
+
+### License across Server Farm
+- As the Mobility is not available for Windows Server proper licenses must be assigned to all servers in Server Farm.
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/72520a3e-9ca3-414e-a039-cd0f3745543b)
 
 ## Volume Activation
 - Key Management Services (KMS)	
@@ -133,3 +137,4 @@ May be downgraded to any previous version of Windows Server Essentials.
 	- Each LTS has 5years mainstream + 5years extended support
 - Semi-Annual Channel (obsolete)
 	
+## External Links
