@@ -118,8 +118,16 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 	- Restricted to 25 user accounts and 50 devices.
    
 - License for Virtual Machine (only with SA)
-  	- Possible since October 2022 for customers with Software Assurence or Subscription licenses.
-  	- 
+  	- Introduced in October 2022 for customers with Software Assurence or Subscription licenses.
+  	- All virtual cores in a virtual machine must be licensed.
+  	- Minimum of 8 Core licenses assigned to a virtual machine.
+  	- Windows Server Client Access Licenses (CALs) are required for either users or devices.
+  	  
+> [!NOTE]  
+> - CALs must also have active SA or be subscription licenses. Note that this includes licenses such as Microsoft 365 E3 which is a subscription license including CAL Equivalent rights for Windows Server.
+> - Customers choosing this licensing model do not have rights to run Windows Server in the physical Operating System Environment (OSE).
+
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/28eb8cc6-4672-463d-a071-35e3d2a185e3)
 
 ## Failover Scenarios
 
