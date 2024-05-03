@@ -29,6 +29,7 @@ Windows Server is a group of server operating systems that has been developed by
   
 
 ## License Rules
+
 #### Core-based license + CAL
 - A Core license must be assigned to each physical core in the server.
 - Windows Server Client Access Licenses are required for either users or devices.
@@ -99,14 +100,14 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 
 ## Licensing Virtual Machines (VMs) / Containers
 ####  Windows Server Datacenter
-	- The server must be fully licensed with Core licenses (as described inthe Core-based Licensing section).
-	- An unlimited number of virtual machines may be run on the server.
+- The server must be fully licensed with Core licenses (as described inthe Core-based Licensing section).
+- An unlimited number of virtual machines may be run on the server.
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/1774d347-a044-4bdc-83ab-0e62b6525f0a)
 
 ####  Windows Server Standard
-	- The server must be fully licensed with Core licenses (as described inthe Core-based Licensing section)
-	- 2 virtual machines may be run on the server.
-	- The server must be licensed again to run a further 2 virtual machines (license stacking).
+- The server must be fully licensed with Core licenses (as described inthe Core-based Licensing section)
+- 2 virtual machines may be run on the server.
+- The server must be licensed again to run a further 2 virtual machines (license stacking).
 	
 > [!TIP]  
 > *For example, a single processor server with 8 cores requires 16 Core licenses to run 2 VMs. A further 16 Core licenses must be assigned to the server to run another 2 VMs.*
@@ -114,14 +115,14 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 ![Bez názvu](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/73a810dc-d27b-441a-a8b5-a41d6152c64f)
 
 ####  Windows Server Essentials
-	- Host virtualization rights and rights to run in a single physical or virtual OSE.
-	- Restricted to 25 user accounts and 50 devices.
+- Host virtualization rights and rights to run in a single physical or virtual OSE.
+- Restricted to 25 user accounts and 50 devices.
    
 ####  License for Virtual Machine (only with SA)
-  	- Introduced in October 2022 for customers with Software Assurence or Subscription licenses.
-  	- All virtual cores in a virtual machine must be licensed.
-  	- Minimum of 8 Core licenses assigned to a virtual machine.
-  	- Windows Server Client Access Licenses (CALs) are required for either users or devices.
+- Introduced in October 2022 for customers with Software Assurence or Subscription licenses.
+- All virtual cores in a virtual machine must be licensed.
+- Minimum of 8 Core licenses assigned to a virtual machine.
+- Windows Server Client Access Licenses (CALs) are required for either users or devices.
   	  
 > [!NOTE]  
 > - *CALs must also have active SA or be subscription licenses. Note that this includes licenses such as Microsoft 365 E3 which is a subscription license including CAL Equivalent rights for Windows Server.*
