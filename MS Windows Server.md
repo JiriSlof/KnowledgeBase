@@ -113,8 +113,6 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 
 ![Bez názvu](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/73a810dc-d27b-441a-a8b5-a41d6152c64f)
 
-![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/7c941e8a-08bd-4da8-b475-37d6e4d0974e)
-
 - Windows Server Essentials
 	- Host virtualization rights and rights to run in a single physical or virtual OSE.
 	- Restricted to 25 user accounts and 50 devices.
