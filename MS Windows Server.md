@@ -136,11 +136,15 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/061e1fef-8a8a-464c-a2fc-fe490070e916)
 
 ## Failover Scenarios
-
 ### License across Server Farm
 - As the Mobility is not available for Windows Server proper licenses must be assigned to all servers in Server Farm.
 - Windows Server Datacenter is the ussulay only reliable option due to possibility to run unlimited number of VMs.
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/72520a3e-9ca3-414e-a039-cd0f3745543b)
+
+### Licensing Windows Server by VM
+#### Windows Server NOT running in the POSE
+-
+
 
 ## Volume Activation
 - Key Management Services (KMS)	
