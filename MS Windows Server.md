@@ -43,6 +43,8 @@ Windows Server is a group of server operating systems that has been developed by
 
 #### Single server license
 - A single server license must be assigned to each physical.
+- Windows Server Client Access Licenses are NOT required.
+
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/e41a4fde-0016-4676-a31c-8043256fd46a)
 
 
