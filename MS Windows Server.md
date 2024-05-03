@@ -142,8 +142,8 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/72520a3e-9ca3-414e-a039-cd0f3745543b)
 
 ### Licensing Windows Server by VM
-#### Windows Server NOT running in the POSE
--
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/e32dbfe5-d5a6-4ac1-9b4e-b00bf5629e16)
+
 
 
 ## Volume Activation
