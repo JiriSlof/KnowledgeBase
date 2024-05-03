@@ -141,9 +141,9 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 - Windows Server Datacenter is the ussulay only reliable option due to possibility to run unlimited number of VMs.
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/72520a3e-9ca3-414e-a039-cd0f3745543b)
 
-### Licensing Windows Server by VM
+### License across Server Farm for Virtual Machine
+- Elibility to use license model for VM is restricted to custmers using Core licenses and CALs with Software Assurance or Software Subscriptions licenses.
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/e32dbfe5-d5a6-4ac1-9b4e-b00bf5629e16)
-
 
 
 ## Volume Activation
