@@ -111,6 +111,8 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 > [!TIP]  
 > *For example, a single processor server with 8 cores requires 16 Core licenses to run 2 VMs. A further 16 Core licenses must be assigned to the server to run another 2 VMs.*
 
+![Bez názvu](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/73a810dc-d27b-441a-a8b5-a41d6152c64f)
+
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/7c941e8a-08bd-4da8-b475-37d6e4d0974e)
 
 - Windows Server Essentials
