@@ -74,6 +74,9 @@ Windows Server is a group of server operating systems that has been developed by
 - Enterprise CAL Suite - User / Device CAL
 - External Connector (for external users / devices)
 
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/42a8dfed-4e74-4229-bba2-58fcaf15225c)
+
+
 ## Downgrade Rights
 - ***Windows Server Datacenter***<br>
 May be downgraded to any version of Windows Server Datacenter, Enterprise, Standard or Essentials.
