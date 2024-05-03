@@ -7,22 +7,38 @@
 - Windows Server Enterprise (obsolte)
 
 ## Versions
-- Windows Server 2016 (Mainstream End - 11Jan2022 | Extended End - 12Jan2027)
-- Windows Server 2019 (Mainstream End - 9Jan2024 | Extended End - 9Jan2029)
-- Windows Server 2022 (Mainstream End - 13Oct2026 | Extended End - 14Oct2031)
+- Windows Server 2016
+- Windows Server 2019
+- Windows Server 2022
 
 ## License Model
-- Datacenter => Core-based + CAL
-- Standard => Core-based + CAL
-- Essentials => Single Server license
-or
-- Service Provider License Agreement (SPLA) - program for service providers
+- **Core-based + CAL**
+	> A Core license must be assigned to each physical core in the server.
+- **Single Server license**
+	> A single server license must be assigned to the physical server.
+- **Service Provider License Agreement (SPLA)**
+	> Program for service providers.
+
+#### *License model reference*:
+| **_Windows Server Edition_** | **Server license** | **Core-Based + CAL** |
+|:----------------------------:|:------------------:|:--------------------:|
+| Essentials                   |         ✓          |                      |
+| Standard                     |                    |           ✓          |
+| Datacenter                   |                    |           ✓          |
+  
 
 ## License Rules
-1. Minimum 8 Core licenses per processor.
-2. Minimum 16 Core licenses per server.
+#### Core-based license + CAL
+- Minimum 8 Core licenses per processor.
+- Minimum 16 Core licenses per server.
 
-For example, a single processor server with 4 cores requires 16 Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Core licenses.
+> [!IMPORTANT]  
+> *For example, a single processor server with 4 cores requires 16 Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Core licenses.*
+
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/bec3bbaa-20d1-44e5-bbd9-bd026a8e31d7)
+
+
+#### Single server license
 
 ## License Mobility
 1. License Mobility is not available for Windows Server
