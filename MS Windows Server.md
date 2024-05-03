@@ -98,12 +98,12 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 - The Step-Up license is priced at the difference in price of the two licenses and SA.
 
 ## Licensing Virtual Machines (VMs) / Containers
-- Windows Server Datacenter
+####  Windows Server Datacenter
 	- The server must be fully licensed with Core licenses (as described inthe Core-based Licensing section).
 	- An unlimited number of virtual machines may be run on the server.
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/1774d347-a044-4bdc-83ab-0e62b6525f0a)
 
-- Windows Server Standard
+####  Windows Server Standard
 	- The server must be fully licensed with Core licenses (as described inthe Core-based Licensing section)
 	- 2 virtual machines may be run on the server.
 	- The server must be licensed again to run a further 2 virtual machines (license stacking).
@@ -113,19 +113,19 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 
 ![Bez názvu](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/73a810dc-d27b-441a-a8b5-a41d6152c64f)
 
-- Windows Server Essentials
+####  Windows Server Essentials
 	- Host virtualization rights and rights to run in a single physical or virtual OSE.
 	- Restricted to 25 user accounts and 50 devices.
    
-- License for Virtual Machine (only with SA)
+####  License for Virtual Machine (only with SA)
   	- Introduced in October 2022 for customers with Software Assurence or Subscription licenses.
   	- All virtual cores in a virtual machine must be licensed.
   	- Minimum of 8 Core licenses assigned to a virtual machine.
   	- Windows Server Client Access Licenses (CALs) are required for either users or devices.
   	  
 > [!NOTE]  
-> - CALs must also have active SA or be subscription licenses. Note that this includes licenses such as Microsoft 365 E3 which is a subscription license including CAL Equivalent rights for Windows Server.
-> - Customers choosing this licensing model do not have rights to run Windows Server in the physical Operating System Environment (OSE).
+> - *CALs must also have active SA or be subscription licenses. Note that this includes licenses such as Microsoft 365 E3 which is a subscription license including CAL Equivalent rights for Windows Server.*
+> - *Customers choosing this licensing model do not have rights to run Windows Server in the physical Operating System Environment (OSE).*
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/28eb8cc6-4672-463d-a071-35e3d2a185e3)
 
