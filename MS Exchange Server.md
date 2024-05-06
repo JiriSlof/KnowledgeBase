@@ -1,4 +1,6 @@
 # Microsoft Exchange Server
+The Microsoft Exchange Server includes calendaring software, email, and a place to manage your contacts. Many small, medium, and large organizations use Exchange and some email providers have Exchange accounts for home and personal accounts.
+
 ## Editions
 - Microsoft Exchange Server Standard
 - Microsoft Exchange Server Enterprise
