@@ -9,8 +9,8 @@
 
 ## License model
 #### **Server License + CAL**
-	> A single server license must be assigned to the physical server.
-  > A Client Access Licenses (CALs) must be purchased for either users or devices.
+> A single server license must be assigned to the physical server.
+> A Client Access Licenses (CALs) must be purchased for either users or devices.
  
 ![image](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/1b522288-91e8-4322-bc14-ca8b3c19b3f1)
 
