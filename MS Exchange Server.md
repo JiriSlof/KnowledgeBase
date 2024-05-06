@@ -1,19 +1,20 @@
 # Microsoft Exchange Server
 ## Editions
-- TBD
-- TBD
+- Microsoft Exchange Server Standard
+- Microsoft Exchange Server Enterprise
 
 ## Versions
 - Microsoft Exchange Server 2016
 - Microsoft Exchange Server 2019
 
 ## License model
-- Core-based + CAL
+- **Server License + CAL**
+![image](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/1b522288-91e8-4322-bc14-ca8b3c19b3f1)
 
-## License unit restriction
+## License Rules
 TBD
 
-## License mobility
+## License Mobility
 TBD
 
 ## License Suites
