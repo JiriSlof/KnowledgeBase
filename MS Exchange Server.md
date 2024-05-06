@@ -16,7 +16,7 @@ Users have a choice of clients to access their Exchange mailbox:
 - Android / iOS Apps
     > Mail/Calendar/Outlook Apps for Android and iOS devices are available from the relevant stores.
 
-[!IMPORTANT] 
+> [!IMPORTANT]  
 > Note that users accessing their Exchange mailbox in any of these ways must be licensed with the relevant Exchange Server CALs, dependent on the functionality they will be using.
 
 ## License model
