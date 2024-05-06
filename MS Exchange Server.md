@@ -15,10 +15,10 @@
 
 ## License Rules
 - Server License
- - A single server license must be assigned to the physical server.
+    - A single server license must be assigned to the physical server.
 
 - Client Acess License (CAL)
-- A Client Access Licenses (CALs) must be purchased for either users or devices.
+    - A Client Access Licenses (CALs) must be purchased for either users or devices.
 
 > [!IMPORTANT]  
 > - *Standard or Enterprise CALs can be used with either Standard or Enterprise Server editions.*
