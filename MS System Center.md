@@ -106,5 +106,5 @@ The following SA benefits are also available for System Center Server Management
 > A further 16 Core licenses must be assigned to the server to run another 2 VMs.*
 
 ## External Links
-- Descrription - https://www.microsoft.com/en-us/licensing/product-licensing/system-center
-- Licensing Overview - https://getlicensingready.com/HandoutStore/System%20Center%202022%20v23.10.pdf
+- Descrription - [link](https://getlicensingready.com/HandoutStore/System%20Center%202022%20v23.10.pdf)
+- Licensing Overview - [link](https://getlicensingready.com/HandoutStore/System%20Center%202022%20v23.10.pdf) 
