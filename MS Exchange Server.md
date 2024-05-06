@@ -7,18 +7,6 @@
 - Microsoft Exchange Server 2016
 - Microsoft Exchange Server 2019
 
-## Clients
-Users have a choice of clients to access their Exchange mailbox:
-- Microsoft Outlook
-    > Is the corporate Exchange client, which is part of Office Standard or Professional Plus and can also be purchased standalone
-- Outlook on the web
-    > Enables users to access their Exchange mailbox from almost any web browser.
-- Android / iOS Apps
-    > Mail/Calendar/Outlook Apps for Android and iOS devices are available from the relevant stores.
-
-> [!IMPORTANT]  
-> *Note that users accessing their Exchange mailbox in any of these ways must be licensed with the relevant Exchange Server CALs, dependent on the functionality they will be using.*
-
 ## License model
 #### **Server License + CAL**
 	> A single server license must be assigned to the physical server.
@@ -49,3 +37,19 @@ TBD
 
 ## Licensing virtual machines (VMs)/containers
 TBD
+
+## Clients
+Users have a choice of clients to access their Exchange mailbox:
+- Microsoft Outlook
+    > Is the corporate Exchange client, which is part of Office Standard or Professional Plus and can also be purchased standalone
+- Outlook on the web
+    > Enables users to access their Exchange mailbox from almost any web browser.
+- Android / iOS Apps
+    > Mail/Calendar/Outlook Apps for Android and iOS devices are available from the relevant stores.
+
+> [!IMPORTANT]  
+> *Note that users accessing their Exchange mailbox in any of these ways must be licensed with the relevant Exchange Server CALs, dependent on the functionality they will be using.*
+
+## External Links
+- Overview - [Link](https://www.getlicensingready.com/HandoutStore/Exchange%20Server%202019%20v22.40.pdf)
+- Video EDU - [Link](https://youtu.be/z9oeP8VHap4?feature=shared)
