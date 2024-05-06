@@ -1,5 +1,5 @@
 # Microsoft Exchange Server
-The Microsoft Exchange Server includes calendaring software, email, and a place to manage your contacts. Many small, medium, and large organizations use Exchange and some email providers have Exchange accounts for home and personal accounts.
+Microsoft Exchange Server is a mail server and calendaring server and server managing your contacts developed by Microsoft. It runs exclusively on Windows Server operating system.
 
 ## Editions
 - Microsoft Exchange Server Standard
