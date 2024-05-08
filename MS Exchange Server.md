@@ -24,8 +24,8 @@ Microsoft Exchange Server is a mail server and calendaring server and server man
 ## License Rules
 - **Server License**
     - A single server license must be assigned to the physical server.
-    - Exchange Server Standard for small to midsize organizations with limited scalability requirements with fewer users (limited to 1-5 database/s).
-    - Exchange Server Enterprise for larger organizations with high scalability requirements with a large number of users, or for high availability within clustered environments (limited to 1-100 database/s).
+    - Exchange Server Standard for small to midsize organizations with limited scalability requirements with fewer users (limited to 1-5 database/s per server).
+    - Exchange Server Enterprise for larger organizations with high scalability requirements with a large number of users, or for high availability within clustered environments (limited to 1-100 database/s per server).
 - **Client Acess License (CAL)**
     - A Client Access Licenses (CALs) must be purchased for either users or devices.
     - Exchange Server Standard CALs for users to access fundamental email and calendar information.
