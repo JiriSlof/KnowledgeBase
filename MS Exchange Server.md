@@ -94,7 +94,7 @@ A Server license must be assigned to a single physical server which licenses Exc
 - Assign Server license to a physical server to recieve rights to run the application in eather a physical or virtual operating system environment.
 - Adding the Software Assurence (SA) to the license provides rights for License Mobility across Server Farms. So the Server license can be moved to another physical server as often as required.
 
-## Clients
+## Exchange Server Clients
 Users have a choice of clients to access their Exchange mailbox:
 - Microsoft Outlook
     > Is the corporate Exchange client, which is part of Office Standard or Professional Plus and can also be purchased standalone
