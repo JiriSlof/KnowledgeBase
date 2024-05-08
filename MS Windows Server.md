@@ -92,7 +92,7 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 |:-------------------------:	|:-----------------------------------------------------------------------------------:	|:------------------:	|
 | Windows Server Datacenter 	| Windows Server Datacenter <br>Windows Server Standard <br>Windows Server Essentials 	|   same or earlier  	|
 |  Windows Server Standard  	|                Windows Server Standard <br>Windows Server Essentials                	|   same or earlier  	|
-| Windows Server Essentials 	| Windows Server Essentials                                                           	|                    	|
+| Windows Server Essentials 	| Windows Server Essentials                                                           	|   same or earlier  	|
 
 ## Step-Ups License
 - Customers who have existing Windows Server Standard Core licenses with Software Assurance may purchase Step-Up licenses to move to Windows Server Datacenter Core licenses.
