@@ -30,7 +30,14 @@ Microsoft Exchange Server is a mail server and calendaring server and server man
     - A Client Access Licenses (CALs) must be purchased for either users or devices.
     - Exchange Server Standard CALs for users to access fundamental email and calendar information.
     - Exchange Server Enterprise CAL for Unified Messaging, integrated archiving functionality, and information protection capabilities.
-    - Exchange Server Enterprise CAL with Services with active SA includes the rights to Data Loss Prevention and Exchange Online Protection.
+    - Exchange Server Enterprise CAL with Services with active SA includes the rights to Data Loss Prevention and Exchange Online Protection.                       	|                     #                  	|      	|
+
+> [!IMPORTANT]  
+> - *Exchange Server Enterprise CAL can be assigned only for users or devices *
+> - *Choose the Server license based on the required scalability and the CALs based on the required functionality.*
+
+> [!WARNING]  
+> *Exchange Server Enterprise CAL can be added only to user / device with assigned Exchange Server Standard CALs.*
 
 | Features                                                                                                                                     	|          Standard CAL          	|        Standard + Enterprise CAL       	|      	|
 |----------------------------------------------------------------------------------------------------------------------------------------------	|:------------------------------:	|:--------------------------------------:	|:----:	|
@@ -47,12 +54,6 @@ Microsoft Exchange Server is a mail server and calendaring server and server man
 | In-Place Hold2                                                                                                                               	|                                	|                     #                  	|      	|
 | Information protection and control (IPC): transport protection rules,  Outlook protection rules, Information Rights Management (IRM) search  	|                                	|                     #                  	|      	|
 
-> [!IMPORTANT]  
-> - *Exchange Server Enterprise CAL can be assigned only for users or devices *
-> - *Choose the Server license based on the required scalability and the CALs based on the required functionality.*
-
-> [!WARNING]  
-> *Exchange Server Enterprise CAL can be added only to user / device with assigned Exchange Server Standard CALs.*
 
 ## License Mobility
 TBD
