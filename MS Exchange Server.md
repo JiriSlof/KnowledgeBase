@@ -57,7 +57,6 @@ A Client Access Licenses (CALs) must be purchased for either users or devices.
 > - *Exchange Server Enterprise CAL is only the additive CAL.*
 > - *Exchange Server Enterprise CAL can be added only to user / device with assigned Exchange Server Standard CALs.*
 
-
 #### *Client Acess License (CAL) feature reference*:
 | Features                                                                                                                                     	|          Standard CAL          	|        Standard + Enterprise CAL       	|
 |----------------------------------------------------------------------------------------------------------------------------------------------	|:------------------------------:	|:--------------------------------------:	|
