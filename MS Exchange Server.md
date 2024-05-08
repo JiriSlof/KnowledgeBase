@@ -28,15 +28,16 @@ Microsoft Exchange Server is a mail server and calendaring server and server man
     - Exchange Server Enterprise for larger organizations with high scalability requirements with a large number of users, or for high availability within clustered environments (limited to 1-100 database/s per server).
 - **Client Acess License (CAL)**
     - A Client Access Licenses (CALs) must be purchased for either users or devices.
-    - Exchange Server Standard CALs for users to access fundamental email and calendar information.
-    - Exchange Server Enterprise CAL for Unified Messaging, integrated archiving functionality, and information protection capabilities.
-    - Exchange Server Enterprise CAL with Services with active SA includes the rights to Data Loss Prevention and Exchange Online Protection.
+    - Exchange Server Standard CALs - access fundamental email and calendar information.
+    - Exchange Server Enterprise CAL - Unified Messaging, integrated archiving functionality, and information protection capabilities.
+    - Exchange Server Enterprise CAL with Services with active SA - includes the rights to Data Loss Prevention and Exchange Online Protection.
 
 > [!IMPORTANT]  
 > - *Standard or Enterprise CALs can be used with either Standard or Enterprise Server editions*
 > - *Choose the Server license based on the required scalability and the CALs based on the required functionality.*
 
-> [!WARNING]  
+> [!WARNING]
+> - *Exchange Server Enterprise CAL is the additive CAL.*
 > - *Exchange Server Enterprise CAL can be added only to user / device with assigned Exchange Server Standard CALs.*
 
 
@@ -57,7 +58,9 @@ Microsoft Exchange Server is a mail server and calendaring server and server man
 | Information protection and control (IPC): transport protection rules,  Outlook protection rules, Information Rights Management (IRM) search  	|                                	|                     ✓	                  	|
 
 ## License Mobility
-TBD
+1. License Mobility is not available for Exchange Server.
+2. Licenses can be reassigned to servers no more frequently than once every 90 days.
+3. License Mobility IS benefit of Software Assurance.
 
 ## License Suites
 TBD
@@ -72,8 +75,13 @@ TBD
 ## Downgrading versions and editions
 TBD
 
-## Licensing virtual machines (VMs)/containers
-TBD
+## Failover Scenarios
+####  Server license without SA
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/ef2c0e21-dead-463f-917a-b4c9775c0dac)
+
+####  Server license with SA
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/b546f4d4-b7c9-4b95-a73d-229a0df8a4fc)
+
 
 ## Clients
 Users have a choice of clients to access their Exchange mailbox:
@@ -91,3 +99,4 @@ Users have a choice of clients to access their Exchange mailbox:
 - Overview - [Link](https://www.getlicensingready.com/HandoutStore/Exchange%20Server%202019%20v22.40.pdf)
 - Video EDU - [Link](https://youtu.be/z9oeP8VHap4?feature=shared)
 - Exchange Server Cal - [Link](https://www.microsoft.com/cs-cz/microsoft-365/exchange/microsoft-exchange-server-licensing-licensing-overview)
+- Exchnage Server FAQ - [Link](https://www.microsoft.com/cs-cz/microsoft-365/exchange/microsoft-exchange-licensing-faq-email-for-business)
