@@ -24,21 +24,23 @@ Microsoft Exchange Server is a mail server and calendaring server and server man
 ## License Rules
 - **Server License**
     - A single server license must be assigned to the physical server.
-    - Choose Exchange Server Standard for small to midsize organizations with limited scalability requirements with fewer users.
-    - Choose Exchange Server Enterprise for larger organizations with high scalability requirements with a large number of users, or for high availability within clustered environments.
+    - Exchange Server Standard for small to midsize organizations with limited scalability requirements with fewer users (limited to 1-5 database/s).
+    - Exchange Server Enterprise for larger organizations with high scalability requirements with a large number of users, or for high availability within clustered environments (limited to 1-100 database/s).
 - **Client Acess License (CAL)**
     - A Client Access Licenses (CALs) must be purchased for either users or devices.
     - Exchange Server Standard CALs for users to access fundamental email and calendar information.
     - Exchange Server Enterprise CAL for Unified Messaging, integrated archiving functionality, and information protection capabilities.
-    - Exchange Server Enterprise CAL with Services with active SA includes the rights to Data Loss Prevention and Exchange Online Protection.                       	|                     #                  	|      	|
+    - Exchange Server Enterprise CAL with Services with active SA includes the rights to Data Loss Prevention and Exchange Online Protection.
 
 > [!IMPORTANT]  
 > - *Exchange Server Enterprise CAL can be assigned only for users or devices *
 > - *Choose the Server license based on the required scalability and the CALs based on the required functionality.*
 
 > [!WARNING]  
-> *Exchange Server Enterprise CAL can be added only to user / device with assigned Exchange Server Standard CALs.*
+> *Exchange Server Enterprise CAL can be added only to user / device with assigned Exchange Server Standard CALs*
 
+
+#### *Client Acess License (CAL) feature reference*:
 | Features                                                                                                                                     	|          Standard CAL          	|        Standard + Enterprise CAL       	|
 |----------------------------------------------------------------------------------------------------------------------------------------------	|:------------------------------:	|:--------------------------------------:	|
 | Email, calendar, contacts, and tasks                                                                                                         	|                 ✓                	|                     ✓	                   	|
@@ -88,3 +90,4 @@ Users have a choice of clients to access their Exchange mailbox:
 ## External Links
 - Overview - [Link](https://www.getlicensingready.com/HandoutStore/Exchange%20Server%202019%20v22.40.pdf)
 - Video EDU - [Link](https://youtu.be/z9oeP8VHap4?feature=shared)
+- Exchange Server Cal - [Link](https://www.microsoft.com/cs-cz/microsoft-365/exchange/microsoft-exchange-server-licensing-licensing-overview)
