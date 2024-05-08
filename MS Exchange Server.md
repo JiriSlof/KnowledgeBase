@@ -62,15 +62,15 @@ Microsoft Exchange Server is a mail server and calendaring server and server man
 | Information protection and control (IPC): transport protection rules,  Outlook protection rules, Information Rights Management (IRM) search  	|                                	|                     ✓	                  	|
 
 ## License Mobility
-1. License Mobility is not available for Exchange Server.
-2. Licenses can be reassigned to servers no more frequently than once every 90 days.
-3. License Mobility IS benefit of Software Assurance.
+- License Mobility is not available for Exchange Server.
+- Licenses can be reassigned to servers no more frequently than once every 90 days.
+- License Mobility across Server Farms IS benefit of Software Assurance.
 
 ## License Suites
 TBD
 
 ## Software assurance
-TBD
+- Exchange Server licenses purchased with Software Assurance have License Mobility across Server Farms rights which allows the reassignment of Server licenses to other physical servers in a server farm as often as required.
 
 ## Licensing external users
 - External users are users who are not the licensee’s or its affiliates’ employees or on-site agents or contractors.
