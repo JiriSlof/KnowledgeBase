@@ -81,7 +81,12 @@ TBD
 - External users are licensed by the Exchange Server license and there are no requirements for CALs or other licenses for these users.
 
 ## Downgrading versions and editions
-TBD
+Customers can choose to deploy an earlier version and, downgrade edition form Enterprise to Standard.
+
+| Licensed Product                     | Target Edition                                                              | Target Version  |
+|--------------------------------------|-----------------------------------------------------------------------------|-----------------|
+| Microsoft Exchange Server Enterprise | Microsoft Exchange Server Standard <br>Microsoft Exchange Server Enterprise | same or earlier |
+| Microsoft Exchange Server Standard   |                    Microsoft Exchange Server Standard                       | same or earlier |
 
 ## Licensing Virtual Machines (VMs) / Containers
 A Server license must be assigned to a single physical server which licenses Exchange Server to be run in either the physical operating  system environment or a single virtual machine on that server.
