@@ -37,11 +37,11 @@ Microsoft Exchange Server is a mail server and calendaring server and server man
     - Exchange Server Enterprise CAL with Services with active SA - includes the rights to Data Loss Prevention and Exchange Online Protection.
 
 > [!IMPORTANT]  
-> - *Standard or Enterprise CALs can be used with either Standard or Enterprise Server editions*
+> - *Standard or Enterprise CALs can be used with either Standard or Enterprise Server editions.*
 > - *Choose the Server license based on the required scalability and the CALs based on the required functionality.*
 
 > [!WARNING]
-> - *Exchange Server Enterprise CAL is the additive CAL.*
+> - *Exchange Server Enterprise CAL is only the additive CAL.*
 > - *Exchange Server Enterprise CAL can be added only to user / device with assigned Exchange Server Standard CALs.*
 
 
