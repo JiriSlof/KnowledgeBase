@@ -71,6 +71,7 @@ TBD
 
 ## Software assurance
 - Exchange Server licenses purchased with Software Assurance have License Mobility across Server Farms rights which allows the reassignment of Server licenses to other physical servers in a server farm as often as required.
+- An Exchange Server Enterprise CAL with Services with active Software Assurance includes the rights to Data Loss Prevention and Exchange Online Protection.
 
 ## Licensing external users
 - External users are users who are not the licensee’s or its affiliates’ employees or on-site agents or contractors.
