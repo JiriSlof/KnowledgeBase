@@ -11,8 +11,8 @@ Microsoft Exchange Server is a mail server and calendaring server and server man
 
 ## Requirements
 - Microsoft Windows Server
-> - An Exchange Server solution has an infrastructure requirement for Windows Server.
-> - Users therefore need to be covered with the relevant licenses for this product.
+> 1. An Exchange Server solution has an infrastructure requirement for Windows Server.
+> 2. Users therefore need to be covered with the relevant licenses for this product.
 
 ## License model
 #### **Server License + CAL**
