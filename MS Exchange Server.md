@@ -79,9 +79,9 @@ A Client Access Licenses (CALs) must be purchased for either users or devices.
 - License Mobility across Server Farms IS benefit of Software Assurance.
 
 ## License Suites
-- Microsoft Core CAL Suite - [Link](MS Access License.md)
+- Microsoft Core CAL Suite
   > Contains Exchange Server Standard CAL.
-- Microsoft Enterprise CAL Suite - Link
+- Microsoft Enterprise CAL Suite
   > Contains Exchange Server Enterprise CAL with Services, Exchange Online Archiving for Exchange Server.
   
 ## Software assurance
