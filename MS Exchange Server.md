@@ -91,7 +91,7 @@ A Server license must be assigned to a single physical server which licenses Exc
 ####  Server license with SA
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/b546f4d4-b7c9-4b95-a73d-229a0df8a4fc)
 - Assign Server license to a physical server to recieve rights to run the application in eather a physical or virtual operating system environment.
-- Adding the Software Assurence (SA) to the license provides rights for License Mobilitz across Server Farms. So the Server license can be moved to another physical server as often as required.
+- Adding the Software Assurence (SA) to the license provides rights for License Mobility across Server Farms. So the Server license can be moved to another physical server as often as required.
 
 ## Clients
 Users have a choice of clients to access their Exchange mailbox:
