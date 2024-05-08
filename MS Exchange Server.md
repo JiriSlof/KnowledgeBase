@@ -75,7 +75,7 @@ TBD
 
 ## Licensing external users
 - External users are users who are not the licensee’s or its affiliates’ employees or on-site agents or contractors.
-- External users are licensed by the Exchange Server 2019 license and there are no requirements for CALs or other licenses for these users.
+- External users are licensed by the Exchange Server license and there are no requirements for CALs or other licenses for these users.
 
 ## Downgrading versions and editions
 TBD
