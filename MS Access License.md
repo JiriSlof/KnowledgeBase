@@ -32,7 +32,7 @@ For using management software such as Microsoft System Center, a *Management Lic
     
 ## Microsoft CAL Suite licenses
 The Microsoft Server Client Access License (CAL) Suites consist of two offerings: 
-- Core CAL Suite
+- Microsoft Core CAL Suite
 <br>The Core CAL Suite is equivalent to the following licenses:
   - Windows Server CAL
   - Exchange Server Standard CAL
@@ -42,7 +42,7 @@ The Microsoft Server Client Access License (CAL) Suites consist of two offerings
   - System Center Endpoint Protection Client Management License
   - Skype for Business Server Standard CAL
 
-- Enterprise CAL Suite - components (as of the last publication of this brief)
+- Microsoft Enterprise CAL Suite - components (as of the last publication of this brief)
 <br>The Enterprise CAL Suite is equivalent to the following licenses:
 All of the components of the Core CAL Suite (listed above) plus
   - Exchange Server Enterprise CAL with Services*
