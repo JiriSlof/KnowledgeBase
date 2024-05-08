@@ -25,8 +25,6 @@ Microsoft Exchange Server is a mail server and calendaring server and server man
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/246e540a-7b45-4d7f-8665-87d1b38a063c)
 
-![image](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/1b522288-91e8-4322-bc14-ca8b3c19b3f1)
-
 ## License Rules
 - **Server License**
     - A single server license must be assigned to the physical server.
