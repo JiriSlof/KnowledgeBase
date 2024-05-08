@@ -53,6 +53,8 @@ All of the components of the Core CAL Suite (listed above) plus
   - Advanced Threat Analytics Client Management License
   - Microsoft Audit and Control Management Server CAL
 Includes Data Loss Prevention and Exchange Online Protection
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/19bdcb3c-e5ed-4845-bd23-69eb93a2de42)
+
 
 ## External sources
 https://www.microsoft.com/en-us/licensing/product-licensing/client-access-license
