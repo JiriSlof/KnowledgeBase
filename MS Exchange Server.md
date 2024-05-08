@@ -23,7 +23,7 @@ Microsoft Exchange Server is a mail server and calendaring server and server man
   - Exchange Server Standard CALs - User / Device
   - Exchange Server Enterprise CALs - User / Device
 
-![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/193e0f23-d4b5-4067-b729-965f3abed3d0)
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/246e540a-7b45-4d7f-8665-87d1b38a063c)
 
 ![image](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/1b522288-91e8-4322-bc14-ca8b3c19b3f1)
 
