@@ -9,6 +9,10 @@ Microsoft Exchange Server is a mail server and calendaring server and server man
 - Microsoft Exchange Server 2016
 - Microsoft Exchange Server 2019
 
+## Requirements
+- Microsoft Windows Server
+> An Exchange Server solution has an infrastructure requirement for Windows Server. Users therefore need to be covered with the relevant licenses for this product.
+
 ## License model
 #### **Server License + CAL**
 > Purchase a Server license for each server, and then purchase Client Access Licenses (CALs) for either users or devices.
@@ -75,13 +79,19 @@ TBD
 ## Downgrading versions and editions
 TBD
 
+## Licensing Virtual Machines (VMs) / Containers
+A Server license must be assigned to a single physical server which licenses Exchange Server to be run in either the physical operating  system environment or a single virtual machine on that server.
+
 ## Failover Scenarios
 ####  Server license without SA
+- Assign Server license to a physical server to recieve rights to run the application in eather a physical or virtual operating system environment.
+- The Server license must be assigned to each server in Server Farms for single Exchage Server in automatic failover scenario.
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/ef2c0e21-dead-463f-917a-b4c9775c0dac)
 
 ####  Server license with SA
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/b546f4d4-b7c9-4b95-a73d-229a0df8a4fc)
-
+- Assign Server license to a physical server to recieve rights to run the application in eather a physical or virtual operating system environment.
+- Adding the Software Assurence (SA) to the license provides rights for License Mobilitz across Server Farms. So the Server license can be moved to another physical server as often as required.
 
 ## Clients
 Users have a choice of clients to access their Exchange mailbox:
