@@ -39,21 +39,20 @@ Microsoft Exchange Server is a mail server and calendaring server and server man
 > [!WARNING]  
 > *Exchange Server Enterprise CAL can be added only to user / device with assigned Exchange Server Standard CALs.*
 
-| Features                                                                                                                                     	|          Standard CAL          	|        Standard + Enterprise CAL       	|      	|
-|----------------------------------------------------------------------------------------------------------------------------------------------	|:------------------------------:	|:--------------------------------------:	|:----:	|
-| Email, calendar, contacts, and tasks                                                                                                         	|                ✓               	|                    s                   	|      	|
-| Outlook on the web (Internet Explorer, Firefox, Chrome, Safari, and Edge support)                                                            	|                 #              	|                     #                  	|      	|
-| Apps for Outlook and Outlook on the web                                                                                                      	|                 #              	|                     #                  	|      	|
-| Site mailboxes2                                                                                                                              	|                 #              	|                     #                  	|      	|
-| Role-based access control (RBAC) capabilities                                                                                                	|                 #              	|                     #                  	|      	|
-| Journaling                                                                                                                                   	|            Per database        	|         Per user/distribution list     	|      	|
-| Journal decryption                                                                                                                           	|                                	|                     #                  	|      	|
-| Retention policies                                                                                                                           	|         Default and custom     	|             Default and custom         	|      	|
-| In-Place Archive2                                                                                                                            	|                                	|                     #                  	|      	|
-| Multi-mailbox search                                                                                                                         	|                                	|                     #                  	|      	|
-| In-Place Hold2                                                                                                                               	|                                	|                     #                  	|      	|
-| Information protection and control (IPC): transport protection rules,  Outlook protection rules, Information Rights Management (IRM) search  	|                                	|                     #                  	|      	|
-
+| Features                                                                                                                                     	|          Standard CAL          	|        Standard + Enterprise CAL       	|
+|----------------------------------------------------------------------------------------------------------------------------------------------	|:------------------------------:	|:--------------------------------------:	|
+| Email, calendar, contacts, and tasks                                                                                                         	|                 ✓                	|                     ✓	                   	|
+| Outlook on the web (Internet Explorer, Firefox, Chrome, Safari, and Edge support)                                                            	|                 ✓               	|                     ✓	                   	|
+| Apps for Outlook and Outlook on the web                                                                                                      	|                 ✓               	|                     ✓	                 	|
+| Site mailboxes2                                                                                                                              	|                 ✓               	|                     ✓	                  	|
+| Role-based access control (RBAC) capabilities                                                                                                	|                 ✓               	|                     ✓	                  	|
+| Journaling                                                                                                                                   	|            Per database        	|         Per user/distribution list     	|
+| Journal decryption                                                                                                                           	|                                	|                     ✓	                  	|
+| Retention policies                                                                                                                           	|         Default and custom     	|             Default and custom         	|
+| In-Place Archive2                                                                                                                            	|                                	|                     ✓	                  	|
+| Multi-mailbox search                                                                                                                         	|                                	|                     ✓	                  	|
+| In-Place Hold2                                                                                                                               	|                                	|                     ✓	                  	|
+| Information protection and control (IPC): transport protection rules,  Outlook protection rules, Information Rights Management (IRM) search  	|                                	|                     ✓	                  	|
 
 ## License Mobility
 TBD
