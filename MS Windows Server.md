@@ -28,7 +28,7 @@ Windows Server is a group of server operating systems that has been developed by
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/bec3bbaa-20d1-44e5-bbd9-bd026a8e31d7)
 
-#### **Single Server license**
+#### **Single Server License**
 > A single server license must be assigned to the physical server.
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/e41a4fde-0016-4676-a31c-8043256fd46a)
@@ -83,16 +83,7 @@ External users can be licensed with either individual User or Device CALs or wit
 - The External Connector license allows unlimited external users to connect to and use the services of the physical server and any virtual machines running on the server.
 - If an organization has more than approximately 70 external users, it is likely to be most cost effective to use an External Connector license to license those users.
 
-#### *Access licenses:*
-- Windows Server - User / Device CAL 
-- Remote Desktop Services (RDS) - User / Device CAL
-- Active Directory Rights Management Services (ADRMS) - User / Device CAL
-- Core CAL Suite - User / Device CAL
-- Enterprise CAL Suite - User / Device CAL
-- External Connector (for external users / devices)
-
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/42a8dfed-4e74-4229-bba2-58fcaf15225c)
-
 
 ## Downgrade Rights
 Customers can choose to deploy an earlier version and, sometimes, an alternative edition.
