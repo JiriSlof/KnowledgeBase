@@ -26,9 +26,12 @@ Windows Server is a group of server operating systems that has been developed by
 	- Enterprise CAL Suite - User / Device
 	- External Connector (for external users / devices)
 
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/bec3bbaa-20d1-44e5-bbd9-bd026a8e31d7)
+
 #### **Single Server license**
 > A single server license must be assigned to the physical server.
 
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/e41a4fde-0016-4676-a31c-8043256fd46a)
 
 #### *License model reference*:
 | **_Windows Server Edition_** | **Server license** | **Core-Based + CAL** |
@@ -50,13 +53,10 @@ Windows Server is a group of server operating systems that has been developed by
 > [!NOTE]  
 > *For example, a single processor server with 4 cores requires 16 Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Core licenses.*
 
-![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/bec3bbaa-20d1-44e5-bbd9-bd026a8e31d7)
 
 #### Single server license
 - A single server license must be assigned to each physical.
 - Windows Server Client Access Licenses are NOT required.
-
-![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/e41a4fde-0016-4676-a31c-8043256fd46a)
 
 
 ## License Mobility
