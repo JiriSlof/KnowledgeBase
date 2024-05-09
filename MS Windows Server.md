@@ -17,6 +17,7 @@ Windows Server is a group of server operating systems that has been developed by
 ### **Core-based + CAL**
 - Core-Based License
 > A Core license must be assigned to each physical core in the server.
+
 - Client Access License (CAL)
 > A Client Access Licenses (CALs) must be assigned for either users or devices.
 	- Windows Server - User / Device CAL 
