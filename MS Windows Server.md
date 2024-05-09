@@ -52,7 +52,7 @@ Windows Server is a group of server operating systems that has been developed by
 > [!NOTE]  
 > *For example, a single processor server with 4 cores requires 16 Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Core licenses.*
 
-#### Clieant Access License (CAL)
+#### Client Access License (CAL)
 - Windows Server Client Access Licenses are required for either users or devices.
 
 #### Single Server License
