@@ -14,7 +14,7 @@ Windows Server is a group of server operating systems that has been developed by
 
 ## License Model
 
-### **Core-based + CAL**
+#### **Core-based + CAL**
 - Core-Based License
 	- Windows Server Standard License 2/16 core
 	- Windows Server Datacenter License 2/16 core
@@ -26,7 +26,7 @@ Windows Server is a group of server operating systems that has been developed by
 	- Enterprise CAL Suite - User / Device
 	- External Connector (for external users / devices)
 
-### **Single Server license**
+#### **Single Server license**
 > A single server license must be assigned to the physical server.
 
 
