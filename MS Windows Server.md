@@ -68,9 +68,9 @@ Windows Server is a group of server operating systems that has been developed by
 
 
 ## License Mobility
-1. License Mobility is not available for Windows Server.
-2. Licenses can be reassigned to servers no more frequently than once every 90 days.
-3. License Mobility IS available for the External Connector licenses.
+- License Mobility is not available for Windows Server.
+- Licenses can be reassigned to servers no more frequently than once every 90 days.
+- License Mobility IS available for the External Connector licenses.
 
 ## License Suites
 - Core Infrastructure Server (CIS) Suite Standard
