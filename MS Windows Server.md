@@ -16,8 +16,8 @@ Windows Server is a group of server operating systems that has been developed by
 
 #### **Core-based + CAL**
 - Core-Based License
-	- Windows Server Standard License 2/16 core
-	- Windows Server Datacenter License 2/16 core
+	- Windows Server Standard 2/16 Core License
+	- Windows Server Datacenter 2/16 Core License
 - Client Access License (CAL)
 	- Windows Server CAL - User / Device
 	- Remote Desktop Services (RDS) CAL - User / Device
