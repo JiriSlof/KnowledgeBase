@@ -14,7 +14,7 @@ Microsoft Exchange Server is a mail server and calendaring server and server man
 > 1. An Exchange Server solution has an infrastructure requirement for Windows Server.
 > 2. Users therefore need to be covered with the relevant licenses for this product.
 
-## License model
+## License Model
 #### **Server License + CAL**
 > Purchase a Server license for each server, and then purchase Client Access Licenses (CALs) for either users or devices.
 - **Server License**
@@ -84,15 +84,15 @@ A Client Access Licenses (CALs) must be purchased for either users or devices.
 - Microsoft Enterprise CAL Suite
   > Contains Exchange Server Enterprise CAL with Services, Exchange Online Archiving for Exchange Server.
   
-## Software assurance
+## Software Assurance
 - Exchange Server licenses purchased with Software Assurance have License Mobility across Server Farms rights which allows the reassignment of Server licenses to other physical servers in a server farm as often as required.
 - An Exchange Server Enterprise CAL with Services with active Software Assurance includes the rights to Data Loss Prevention and Exchange Online Protection.
 
-## Licensing external users
+## Licensing External Users
 - External users are users who are not the licensee’s or its affiliates’ employees or on-site agents or contractors.
 - External users are licensed by the Exchange Server license and there are no requirements for CALs or other licenses for these users.
 
-## Downgrading versions and editions
+## Downgrade Rights
 Customers can choose to deploy an earlier version and, downgrade edition form Enterprise to Standard.
 
 | Licensed Product                     | Target Edition                                                              | Target Version  |
@@ -104,12 +104,12 @@ Customers can choose to deploy an earlier version and, downgrade edition form En
 A Server license must be assigned to a single physical server which licenses Exchange Server to be run in either the physical operating  system environment or a single virtual machine on that server.
 
 ## Failover Scenarios
-####  Server license without SA
+####  Server License without SA
 - Assign Server license to a physical server to recieve rights to run the application in eather a physical or virtual operating system environment.
 - The Server license must be assigned to each server in Server Farms for single Exchage Server in automatic failover scenario.
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/ef2c0e21-dead-463f-917a-b4c9775c0dac)
 
-####  Server license with SA
+####  Server License with SA
 - Assign Server license to a physical server to recieve rights to run the application in eather a physical or virtual operating system environment.
 - Adding the Software Assurence (SA) to the license provides rights for License Mobility across Server Farms. So the Server license can be moved to another physical server as often as required.
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/b546f4d4-b7c9-4b95-a73d-229a0df8a4fc)
@@ -129,5 +129,5 @@ Users have a choice of clients to access their Exchange mailbox:
 ## External Links
 - Overview - [Link](https://www.getlicensingready.com/HandoutStore/Exchange%20Server%202019%20v22.40.pdf)
 - Video EDU - [Link](https://youtu.be/z9oeP8VHap4?feature=shared)
-- Exchange Server Cal - [Link](https://www.microsoft.com/cs-cz/microsoft-365/exchange/microsoft-exchange-server-licensing-licensing-overview)
+- Exchange Server - [Link](https://www.microsoft.com/cs-cz/microsoft-365/exchange/microsoft-exchange-server-licensing-licensing-overview)
 - Exchnage Server FAQ - [Link](https://www.microsoft.com/cs-cz/microsoft-365/exchange/microsoft-exchange-licensing-faq-email-for-business)
