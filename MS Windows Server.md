@@ -45,7 +45,6 @@ Windows Server is a group of server operating systems that has been developed by
 
 #### Core-based license + CAL
 - A Core license must be assigned to each physical core in the server.
-- Windows Server Client Access Licenses are required for either users or devices.
 - Core licenses are purchased in 2-packs or 16-packs from resellers.
 - Minimum of 8 Core licenses per processor.
 - Minimum of 16 Core licenses per server.
@@ -53,10 +52,19 @@ Windows Server is a group of server operating systems that has been developed by
 > [!NOTE]  
 > *For example, a single processor server with 4 cores requires 16 Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Core licenses.*
 
+#### Clieant Access License (CAL)
+- Windows Server Client Access Licenses are required for either users or devices.
 
-#### Single server license
+#### Single Server License
 - A single server license must be assigned to each physical.
 - Windows Server Client Access Licenses are NOT required.
+- Single Server License model is available only for Windows Server Essentials.
+
+> [!IMPORTANT]  
+> - *Windows Server Essentials is restricted to 25 users and 50 devices.*
+> - *There is no specific installation media - instead an Essentials product key is used to activate the Standard edition of Windows Server and you get all the same features.*
+> - *Windows Server Essentials is available to be purchased through OEMs only.*
+
 
 
 ## License Mobility
