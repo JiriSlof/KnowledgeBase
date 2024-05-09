@@ -15,13 +15,16 @@ Windows Server is a group of server operating systems that has been developed by
 ## License Model
 
 ### **Core-based + CAL**
+- Core-Based License
 > A Core license must be assigned to each physical core in the server.
-- Windows Server - User / Device CAL 
-- Remote Desktop Services (RDS) - User / Device CAL
-- Active Directory Rights Management Services (ADRMS) - User / Device CAL
-- Core CAL Suite - User / Device CAL
-- Enterprise CAL Suite - User / Device CAL
-- External Connector (for external users / devices)
+- Client Access License (CAL)
+> A Client Access Licenses (CALs) must be assigned for either users or devices.
+	- Windows Server - User / Device CAL 
+	- Remote Desktop Services (RDS) - User / Device CAL
+	- Active Directory Rights Management Services (ADRMS) - User / Device CAL
+	- Core CAL Suite - User / Device CAL
+	- Enterprise CAL Suite - User / Device CAL
+	- External Connector (for external users / devices)
 
 ### **Single Server license**
 > A single server license must be assigned to the physical server.
