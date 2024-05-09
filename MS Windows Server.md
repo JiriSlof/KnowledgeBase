@@ -30,8 +30,6 @@ Windows Server is a group of server operating systems that has been developed by
 ### **Single Server license**
 > A single server license must be assigned to the physical server.
 
-### **Service Provider License Agreement (SPLA)**
-> Program for service providers.
 
 #### *License model reference*:
 | **_Windows Server Edition_** | **Server license** | **Core-Based + CAL** |
