@@ -41,6 +41,17 @@ A Client Access Licenses (CALs) must be purchased for either users or devices.
 - **Skype for Business Plus CAL**
   - For enterprise voice and telephony.
 
+> [!NOTE]  
+> - *Skype for Business Standard CAL must be assigned for either users or devices.*
+> - *Choose additional CALs based on user / device required functionality.*
+> - *No CALs for external users.*
+
+> [!WARNING]
+> - *Skype for Business Enterprise CAL is only the additive CAL.*
+> - *Skype for Business Plus CAL is only the additive CAL.*
+> - *Enterprise CAL or/and Business Plus CAL can added only in addition to the Standard CAL.*
+
+
 ## License Mobility
 TBD
 
