@@ -1,7 +1,7 @@
 # Microsoft Skype for Bussiness
 
 ## Editions
-- Skype for Business
+- Skype for Business (single edition)
 
 ## Versions
 - Skype for Businesses 2016
