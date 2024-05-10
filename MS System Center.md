@@ -47,14 +47,13 @@ Microsoft System Center is a suite of software products designed to simplify the
 
 
 ## License Rules
-- Server Managed Core License (SML)
-    - Include right to use Management Server software.
-    - Include all the System center products.
-    - Give rights to use MS SQL Server.
-    - Only available with Software Essurence (SA).      
-    - Minimum 8 Core licenses per processor.
-    - Minimum 16 Core licenses per server.
-
+### Server Managed Core License (SML)
+- Include right to use Management Server software.
+- Include all the System center products.
+- Give rights to use MS SQL Server.
+- Only available with Software Essurence (SA).      
+- Minimum 8 Core licenses per processor.
+- Minimum 16 Core licenses per server.
 
 #### *Server management features reference*:
 
@@ -71,10 +70,10 @@ Microsoft System Center is a suite of software products designed to simplify the
 |                                                    SQL Technology: right to run management server software and supporting SQL Server Runtime (SQL Server Standard edition)                                               |                                                        ✓                                                   |                                                        ✓                                                   |
 |                                                    Manage any type of supported workload                                                                                                                                 |                                                        ✓                                                   |                                                        ✓                                                   |
 
-- Client Managed License (CML)
-    - Software Assurance is included with all Client MLs.
-    - Client MLs include the right to run the Management Server
-software and MS SQL Server.
+### Client Managed License (CML)
+- Software Assurance is included with all Client MLs.
+- Client MLs include the right to run the Management Server software and MS SQL Server.
+
 > [!TIP]  
 > *A Server ML Core license must be assigned to each physical core in the server, with a minimum of 8 Core licenses per processor, and a minimum of 16 Core licenses per server.
 > For example, a single processor server with 4 cores requires 16 Server ML Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Server ML Core licenses.*
