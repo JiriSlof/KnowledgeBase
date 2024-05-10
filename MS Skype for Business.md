@@ -69,7 +69,7 @@ Skype for Business Server licenses purchased with Software Assurance have Licens
 
 
 ## Downgrade Rights
-TBD
+None.
 
 ## Licensing Virtual Machines (VMs) / Containers
 A Server license must be assigned to a single physical server which licenses Skype for Business Server to be run in either the physical operating system environment or a single virtual machine on that server.
