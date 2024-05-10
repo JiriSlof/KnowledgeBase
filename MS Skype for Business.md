@@ -1,10 +1,13 @@
 # Microsoft Skype for Bussiness
 
 ## Editions
-TBD
+- Skype for Business
 
 ## Versions
-TBD
+- Skype for Businesses 2016
+- Skype for Businesses 2019
+- Skype for Business LTSC 2021
+- Skype for Business for Microsoft 365
 
 ## License Model
 #### **Server License + CAL**
@@ -16,7 +19,8 @@ TBD
   - Skype for Business Enterprise CAL - User / Device CAL (Conference)
   - Skype for Business Plus CAL - User / Device CAL (Enterprise Voice + Telefony)
 
-> [!NOTE]  
+> [!NOTE]
+> - *Skype for Business has only single type of server license.*
 > - *Everyone acessing Skype For Bussiness Server need to have a Standard CAL assigned.*
 > - *The Enterprise CAL and Plus CAL are additive CALs. Add one or both CALs based on the required functionality.*
 
