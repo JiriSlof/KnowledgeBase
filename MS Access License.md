@@ -16,7 +16,7 @@ For using management software such as Microsoft System Center, a *Management Lic
 ### SharePoint Server
 - SharePoint Server Standard CAL
 - SharePoint Server Enterprise CAL
-### Skype for Bussiness Server
+### Skype for Business Server
 - Skype for Business Server Standard CAL
 - Skype for Business Server Enterprise CAL (Conference)
 - Skype for Business Server  Plus CAL (Enterprise Voice + Telefony)
