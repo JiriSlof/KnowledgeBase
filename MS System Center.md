@@ -55,6 +55,11 @@ Microsoft System Center is a suite of software products designed to simplify the
 - Minimum 8 Core licenses per processor.
 - Minimum 16 Core licenses per server.
 
+> [!TIP]  
+> *A Server ML Core license must be assigned to each physical core in the server, with a minimum of 8 Core licenses per processor, and a minimum of 16 Core licenses per server.
+> For example, a single processor server with 4 cores requires 16 Server ML Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Server ML Core licenses.*
+
+
 #### *Server management features reference*:
 
 |    Feature/Right                                                                                                                                                                                                         |                                          Datacenter edition                                                |                                           Standard edition                                                 |
@@ -73,10 +78,6 @@ Microsoft System Center is a suite of software products designed to simplify the
 ### Client Managed License (CML)
 - Software Assurance is included with all Client MLs.
 - Client MLs include the right to run the Management Server software and MS SQL Server.
-
-> [!TIP]  
-> *A Server ML Core license must be assigned to each physical core in the server, with a minimum of 8 Core licenses per processor, and a minimum of 16 Core licenses per server.
-> For example, a single processor server with 4 cores requires 16 Server ML Core licenses, and a 4-processor server with 8 cores on each processor requires 32 Server ML Core licenses.*
 
 
 ## License Mobility
