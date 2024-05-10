@@ -127,7 +127,7 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/eba0cc75-2b93-4907-a1e7-e5b0c9131727)
 
 ## Failover Scenarios
-### License across Server Farm with SA
+### Licensing across Server Farm with SA
 - Once Active server from the Server Farm is completly licensed by Core license with SA, the both of the passive servers are covered with no further licensing requirements.
 - Same applies on the Server + CAL with SA - both Server license as well as CALs need to be with SA.
 - In case of Active - Active solution, all active nodes must be licensed with SA.
@@ -137,7 +137,7 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 > [!IMPORTANT] 
 > *All servers in Server Farm must have number of cores as the active server in order to cover proper license in case of failover.*
 
-### License across Server Farm without SA
+### Licensing across Server Farm without SA
 - In case licensing Server Farm by licesing wouthout SA, all nodes must be licensed regardless cluster mode.
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/982412ac-027b-43dc-9392-6d7b7f472d56)
 
