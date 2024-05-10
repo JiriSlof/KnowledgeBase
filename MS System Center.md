@@ -54,7 +54,9 @@ Microsoft System Center is a suite of software products designed to simplify the
     - Only available with Software Essurence (SA).      
     - Minimum 8 Core licenses per processor.
     - Minimum 16 Core licenses per server.
- 
+
+
+#### *Server management features reference*:
     |    Feature/Right                                                                                                                                                                                                         |                                          Datacenter edition                                                |                                           Standard edition                                                 |
     |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
     |                                                    Number of managed OSEs/Hyper-V isolation                                                                                                                              |                                                    Unlimited                                               |                                                        2*                                                  |
