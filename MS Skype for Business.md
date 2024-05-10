@@ -9,6 +9,14 @@
 - Skype for Business LTSC 2021
 - Skype for Business for Microsoft 365
 
+## Requirements
+- Microsoft Windows Server
+  > 1. Skype for Businesses Server solution has an infrastructure requirement for Windows Server.
+  > 2. Users therefore need to be covered with the relevant licenses for this product.
+- Microsoft SQL Server
+  > 1. Skype for Businesses Server solution has an infrastructure requirement for Microsoft SQL Server.
+  > 2. Users must be licensed in the underlying infrastructure with the relevant licenses.
+
 ## License Model
 #### **Server License + CAL**
 > Purchase a Server license for each server, and then purchase Client Access Licenses (CALs) for either users or devices.
@@ -53,7 +61,7 @@ TBD
 TBD
 
 ## Software Assurance
-TBD
+Skype for Business Server licenses purchased with Software Assurance have License Mobility across Server Farms rights which allows the reassignment of Server licenses to other physical servers in a server farm as often as required.
 
 ## Licensing External Users
 - External users are users who are not the licensee’s or its affiliates’ employees or on-site agents or contractors.
