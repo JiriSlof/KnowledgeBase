@@ -33,8 +33,6 @@ For using management software such as Microsoft System Center, a *Management Lic
 - System Center Service Manager CML
 
 
-
-
   - Advanced Threat Analytics Client Management License (ML)
 [MS System Center Link]([https://www.example.com](https://www.microsoft.com/en-us/licensing/product-licensing/system-center))
 ### Microsoft Audit and Control Management Server
