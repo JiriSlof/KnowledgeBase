@@ -73,7 +73,7 @@ None.
 ## Licensing Virtual Machines (VMs) / Containers
 A Server license must be assigned to a single physical server which licenses Skype for Business Server to be run in either the physical operating system environment or a single virtual machine on that server.
 
-## Exchange Server Clients
+## Skype for Business Clients
 Users have a choice of clients to access their Skype for Business Server service:
 - Microsoft Skype for Business
     > The complete Skype for Business client, which is typically installed with Microsoft 365.
