@@ -1,4 +1,5 @@
 # Microsoft Skype for Bussiness
+Skype for Business is a communications service that connects people for conversations anytime and from anywhere. It gives users access to information about presence, and enables instant messaging, audio and video calling, and extensive web conferencing capabilities.
 
 ## Editions
 - Skype for Business (single edition)
