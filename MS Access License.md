@@ -7,24 +7,34 @@ For using management software such as Microsoft System Center, a *Management Lic
 ## Individual Access Licenses
 
 ### Windows Server
-  - Windows Server CAL
-  - Windows Server Active Directory Rights Management Services (RMS) CAL
+- Windows Server CAL
+- Windows Server Active Directory Rights Management Services (RMS) CAL
 ### Windows Exchange Server
-  - Exchange Server Standard CAL
-  - Exchange Server Enterprise CAL with Services
-  - Exchange Online Archiving for Exchange Server
+- Exchange Server Standard CAL
+- Exchange Server Enterprise CAL with Services
+- Exchange Online Archiving for Exchange Server
 ### SharePoint Server
-  - SharePoint Server Standard CAL
-  - SharePoint Server Enterprise CAL
+- SharePoint Server Standard CAL
+- SharePoint Server Enterprise CAL
 ### Skype for Bussiness Server
-  - Skype for Business Standard CAL
-  - Skype for Business Server Standard CAL
-  - Skype for Business Server Enterprise CAL
+- Skype for Business Server Standard CAL
+- Skype for Business Server Enterprise CAL (Conference)
+- Skype for Business Server  Plus CAL (Enterprise Voice + Telefony)
 ### System Center Configuration Manager (SCCM)
-  - Microsoft Endpoint Configuration Manager Client Management License (ML)
-  - System Center Endpoint Protection Client Management License (ML)
+- Microsoft Endpoint Configuration Manager Client Management License (ML)
+- System Center Endpoint Protection Client Management License (ML)
 
 ### Microsoft System Center
+- Microsoft Endpoint Configuration Manager CML 
+- System Center Endpoint Protection SL
+- System Center Data Protection Manager CML
+- System Center Orchestrator CML
+- System Center Operations Manager CML
+- System Center Service Manager CML
+
+
+
+
   - Advanced Threat Analytics Client Management License (ML)
 [MS System Center Link]([https://www.example.com](https://www.microsoft.com/en-us/licensing/product-licensing/system-center))
 ### Microsoft Audit and Control Management Server
