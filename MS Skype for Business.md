@@ -55,21 +55,41 @@ A Client Access Licenses (CALs) must be purchased for either users or devices.
 > - *Both Enterprise CAL and Business Plus CAL can added only in addition to the Standard CAL.*
 
 ## License Mobility
-TBD
-
-## License Suites
-TBD
+- License Mobility is not available for Exchange Server.
+- Licenses can be reassigned to servers no more frequently than once every 90 days.
 
 ## Software Assurance
-Skype for Business Server licenses purchased with Software Assurance have License Mobility across Server Farms rights which allows the reassignment of Server licenses to other physical servers in a server farm as often as required.
+- Skype for Business Server licenses purchased with Software Assurance have License Mobility across Server Farms rights which allows the reassignment of Server licenses to other physical servers in a server farm as often as required.
+- Software Assurence provides rights for Server Disaster Recovery (“Permitted Use of Backup Instances”).
 
 ## Licensing External Users
-- External users are users who are not the licensee’s or its affiliates’ employees or on-site agents or contractors.
+- Licensed with Server.
 - External users who attend a Skype for Business Meeting, for example, are licensed by the Skype for Business Server license and there are no requirements for CALs, or other licenses, for these users.
-
+- External users are users who are not the licensee’s or its affiliates’ employees or on-site agents or contractors.
 
 ## Downgrade Rights
 None.
 
 ## Licensing Virtual Machines (VMs) / Containers
 A Server license must be assigned to a single physical server which licenses Skype for Business Server to be run in either the physical operating system environment or a single virtual machine on that server.
+
+## Exchange Server Clients
+Users have a choice of clients to access their Skype for Business Server service:
+- Microsoft Skype for Business
+    > The complete Skype for Business client, which is typically installed with Microsoft 365.
+- Microsoft Skype for Business Basic
+    >  A free of charge, less feature-rich Skype for Business client.
+- Microsoft Skype for Business on Mac
+    > The Skype for Business client for Mac OS X desktop and laptop computers.
+- Microsoft Skype for Business for mobile devices
+    > Available for Android and iOS devices from the relevant stores.
+- Microsoft Skype for Business Web App
+    > Available for individuals invited to Skype for Business Meetings who do not have a Skype for Business client installed. It enables a rich meeting experience via the browser.
+
+
+> [!IMPORTANT]  
+> *Note that internal users using any of these clients must be licensed with the relevant CALs.*
+
+## External Links
+- Overview - [Link](https://getlicensingready.com/HandoutStore/Skype%20for%20Business%20Server%202019%20v22.40.pdf)
+- Video EDU - [Link](https://youtu.be/z9oeP8VHap4?si=x8LdhZZSD_OqXwKQ)
