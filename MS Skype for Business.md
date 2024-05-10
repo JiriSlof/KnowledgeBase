@@ -22,7 +22,6 @@
 > [!NOTE]
 > - *Skype for Business has only single type of server license.*
 > - *Everyone acessing Skype For Bussiness Server need to have a Standard CAL assigned.*
-> - *The Enterprise CAL and Plus CAL are additive CALs. Add one or both CALs based on the required functionality.*
 
 ![image](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/03768e17-3170-47f3-bbf1-5e80045dec4b)
 
@@ -36,13 +35,13 @@
 A Client Access Licenses (CALs) must be purchased for either users or devices.
 - **Skype for Business Standard CAL**
   - The instant messaging and presence integration functionality.
+  - This CAL must be assigned for either users or devices acessing Skype for Business server.
 - **Skype for Business Enterprise CAL**
-  - For audio, video and web conferencing.
+  - For audio, video and web conferencing in addition to the Standard CAL.
 - **Skype for Business Plus CAL**
-  - For enterprise voice and telephony.
+  - For enterprise voice and telephony in addition to the Standard CAL.
 
 > [!NOTE]  
-> - *Skype for Business Standard CAL must be assigned for either users or devices.*
 > - *Choose additional CALs based on user / device required functionality.*
 > - *No CALs for external users.*
 
