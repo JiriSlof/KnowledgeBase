@@ -11,6 +11,7 @@ Windows Server is a group of server operating systems that has been developed by
 - Windows Server 2016
 - Windows Server 2019
 - Windows Server 2022
+- Windows Server 2025
 
 ## License Model
 
