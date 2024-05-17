@@ -50,6 +50,7 @@ Microsoft SharePoint Server offers different levels of functionality, and there 
   - Business solutions (includes Access Services and InfoPath Services).
   - Business Intelligence for everyone (includes Power View, PerformancePoint Services, Excel Services, and Visio Services).
 
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/2a66945f-305b-4dc1-9134-f41afe46c6c9)
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/a727843b-776b-4d62-8cff-21b1c04abb95)
 
 #### **Intranet Scenario**
@@ -74,8 +75,6 @@ Microsoft SharePoint Server offers different levels of functionality, and there 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/b36ece15-3ac4-46ee-9a6c-6ced4098cae8)
 
 
-
-![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/2a66945f-305b-4dc1-9134-f41afe46c6c9)
 
 
 
