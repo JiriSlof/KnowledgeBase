@@ -24,16 +24,18 @@
   - Exchange Server Standard License
 - **Client Acess License (CAL)**
   - SharePoint Standard CAL - User / Device CAL
-  - SharePoint Standard + Enterprise CAL - User / Device CAL
+  - SharePoint Enterprise CAL - User / Device CAL
+ 
+> [!WARNING]
+> - *SharePoint Enterprise CAL is only the additive CAL.*
+> - *SharePoint Enterprise CAL can be added only to user / device with assigned SharePoint Standard CAL.*
  
 ![image](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/5f49bb9b-0634-4055-b553-529830722bad)
-![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/2a66945f-305b-4dc1-9134-f41afe46c6c9)
 
 
 ## License Rules
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/a727843b-776b-4d62-8cff-21b1c04abb95)
-
 
 #### **Intranet Scenario**
 > Information that is accessible inside the firewall to internal users only.
@@ -57,6 +59,11 @@
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/b36ece15-3ac4-46ee-9a6c-6ced4098cae8)
 
 
+
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/2a66945f-305b-4dc1-9134-f41afe46c6c9)
+
+
+
 ## License Mobility
 TBD
 
@@ -64,13 +71,14 @@ TBD
 TBD
 
 ## Software Assurence
-SharePoint Server licenses purchased with Software Assurance have License Mobility across Server Farms rights which allows the reassignment of Server licenses to other physical servers in a server farm as often as required.
+- SharePoint Server licenses purchased with Software Assurance have License Mobility across Server Farms rights which allows the reassignment of Server licenses to other physical servers in a server farm as often as required.
+- Customers with active Software Assurance may alternatively deploy SharePoint Server Subscription Edition.
 
-## Licensing external users
+## Licensing External Users
 No CALs are required for external users.
 
 ## Downgrading versions and editions
 TBD
 
-## Licensing virtual machines (VMs) / containers
-TBD
+## Licensing Virtual Machines (VMs) / Containers
+A Server license must be assigned to a single physical server which licenses SharePoint Server to be run in either the physical operating system environment or a single virtual machine on that server.
