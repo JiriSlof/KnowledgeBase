@@ -29,9 +29,6 @@
 > [!WARNING]
 > - *SharePoint Enterprise CAL is only the additive CAL.*
 > - *SharePoint Enterprise CAL can be added only to user / device with assigned SharePoint Standard CAL.*
- 
-![image](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/5f49bb9b-0634-4055-b553-529830722bad)
-
 
 ## License Rules
 Microsoft SharePoint Server offers different levels of functionality, and there are CALs which correspond to this.
@@ -51,23 +48,27 @@ Microsoft SharePoint Server offers different levels of functionality, and there 
   - Business Intelligence for everyone (includes Power View, PerformancePoint Services, Excel Services, and Visio Services).
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/2a66945f-305b-4dc1-9134-f41afe46c6c9)
+
+### Deployment Models
+Requirement of Client Access Licenses (CALs) for internal users is based on content type.
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/a727843b-776b-4d62-8cff-21b1c04abb95)
 
-#### **Intranet Scenario**
+
+1. Scenario: **Intranet**
 > Information that is accessible inside the firewall to internal users only.
 - SharePoint Server license required for Server.
 - Client Access Licenses (CALs) for either users or devices.
 - External users does not have access.
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/02763c26-88f5-4ea9-acd6-7aad7bca5077)
 
-#### **Extranet Scenario**
+2. Scenario: **Extranet**
 > Information that is accessible inside the firewall to internal users and named external users only.
 - SharePoint Server license required for Server.
 - Client Access Licenses (CALs) for either users or devices.
 - No CALs required for external users.
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/533730f2-eec9-4a24-9a91-32c10fd60e65)
 
-#### **Internet Scenario**
+3. Scenario: **Internet**
 > Information that is publicly accessible to all internal and external users.
 - SharePoint Server license required for Server.
 - No CALs required for either users or devices.
@@ -107,3 +108,4 @@ A Server license must be assigned to a single physical server which licenses Sha
 ## External Links
 - Overview - [Link](https://getlicensingready.com/HandoutStore/SharePoint%20Server%202019%20v22.40.pdf)
 - Video EDU - [Link](https://youtu.be/z9oeP8VHap4?si=JeLuv1IGVpeerItv)
+- MS Sharepoint Server Licensing- [Link](https://download.microsoft.com/download/3/D/4/3D42BDC2-6725-4B29-B75A-A5B04179958B/Licensing_Microsoft_SharePoint_Server.pdf)
