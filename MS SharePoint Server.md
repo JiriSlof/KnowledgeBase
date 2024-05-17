@@ -55,24 +55,24 @@ Requirement of Client Access Licenses (CALs) for internal users is based on cont
 
 
 1. Scenario: **Intranet**
-> Information that is accessible inside the firewall to internal users only.
-- SharePoint Server license required for Server.
-- Client Access Licenses (CALs) for either users or devices.
-- External users does not have access.
+  > Information that is accessible inside the firewall to internal users only.
+  - SharePoint Server license required for Server.
+  - Client Access Licenses (CALs) for either users or devices.
+  - External users does not have access.
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/02763c26-88f5-4ea9-acd6-7aad7bca5077)
 
 2. Scenario: **Extranet**
-> Information that is accessible inside the firewall to internal users and named external users only.
-- SharePoint Server license required for Server.
-- Client Access Licenses (CALs) for either users or devices.
-- No CALs required for external users.
+  > Information that is accessible inside the firewall to internal users and named external users only.
+  - SharePoint Server license required for Server.
+  - Client Access Licenses (CALs) for either users or devices.
+  - No CALs required for external users.
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/533730f2-eec9-4a24-9a91-32c10fd60e65)
 
 3. Scenario: **Internet**
-> Information that is publicly accessible to all internal and external users.
-- SharePoint Server license required for Server.
-- No CALs required for either users or devices.
-- No CALs required for external users.
+  > Information that is publicly accessible to all internal and external users.
+  - SharePoint Server license required for Server.
+  - No CALs required for either users or devices.
+  - No CALs required for external users.
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/b36ece15-3ac4-46ee-9a6c-6ced4098cae8)
 
 
