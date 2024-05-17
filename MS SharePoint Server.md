@@ -49,10 +49,9 @@ Microsoft SharePoint Server offers different levels of functionality, and there 
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/2a66945f-305b-4dc1-9134-f41afe46c6c9)
 
-### Deployment Models
+#### *Deployment Model Reference*:
 Requirement of Client Access Licenses (CALs) for internal users is based on content type.
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/a727843b-776b-4d62-8cff-21b1c04abb95)
-
 
 1. Scenario: **Intranet**
   > Information that is accessible inside the firewall to internal users only.
