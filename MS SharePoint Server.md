@@ -19,7 +19,7 @@
 
 ## License model
 #### **Server License + CAL**
-> Purchase a Server license for each server, and then purchase Client Access Licenses (CALs) for either users or devices.
+> Purchase a Server license for each server, and then purchase Client Access Licenses (CALs) for users or devices.
 - **Server License**
   - Exchange Server Standard License
 - **Client Acess License (CAL)**
@@ -34,6 +34,21 @@
 
 
 ## License Rules
+Microsoft SharePoint Server offers different levels of functionality, and there are CALs which correspond to this.
+- **SharePoint Standard CAL**
+  > Delivers only the core capabilities of SharePoint.
+  - Sites: a single infrastructure for all your business websites.
+  - Communities: an integrated collaboration platform.
+  - Content: enterprise content management (ECM) for the masses.
+  - Search: people and expertise search, visual previews, visual best bets.
+- **SharePoint Enterprise  CAL**
+  >  Delivers the full capabilities of SharePoint.
+  - Sites: a single infrastructure for all your business websites.
+  - Communities: an integrated collaboration platform.
+  - Content: ECM for the masses.
+  - Search: standard search features plus entity extraction, video search, item recommendations.
+  - Business solutions (includes Access Services and InfoPath Services).
+  - Business Intelligence for everyone (includes Power View, PerformancePoint Services, Excel Services, and Visio Services).
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/a727843b-776b-4d62-8cff-21b1c04abb95)
 
@@ -82,3 +97,14 @@ TBD
 
 ## Licensing Virtual Machines (VMs) / Containers
 A Server license must be assigned to a single physical server which licenses SharePoint Server to be run in either the physical operating system environment or a single virtual machine on that server.
+
+## Failover Scenarios
+####  Server License without SA
+- TBD
+
+####  Server License with SA
+- TBD
+
+## External Links
+- Overview - [Link](https://getlicensingready.com/HandoutStore/SharePoint%20Server%202019%20v22.40.pdf)
+- Video EDU - [Link](https://youtu.be/z9oeP8VHap4?si=JeLuv1IGVpeerItv)
