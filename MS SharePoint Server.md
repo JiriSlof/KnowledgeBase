@@ -51,7 +51,7 @@ Microsoft SharePoint Server offers different levels of functionality, and there 
 
 #### *Deployment Model Reference*:
 Requirement of Client Access Licenses (CALs) for internal users is based on content type.
-We can recognize 3 different deployment scenarios "Intranet", "Extranet" and "Internet".
+SharePoint Server can be implemented in 3 different deployment scenarios "Intranet", "Extranet" and "Internet".
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/a727843b-776b-4d62-8cff-21b1c04abb95)
 
 1. Scenario: **Intranet**
