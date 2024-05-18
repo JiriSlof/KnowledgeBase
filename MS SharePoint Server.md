@@ -34,18 +34,18 @@
 Microsoft SharePoint Server offers different levels of functionality, and there are CALs which correspond to this.
 - **SharePoint Standard CAL**
   > Delivers only the core capabilities of SharePoint.
-  - Sites: a single infrastructure for all your business websites.
-  - Communities: an integrated collaboration platform.
-  - Content: enterprise content management (ECM) for the masses.
-  - Search: people and expertise search, visual previews, visual best bets.
+  - *Sites*: a single infrastructure for all your business websites.
+  - *Communities*: an integrated collaboration platform.
+  - *Content*: enterprise content management (ECM) for the masses.
+  - *Search*: people and expertise search, visual previews, visual best bets.
 - **SharePoint Enterprise  CAL**
   >  Delivers the full capabilities of SharePoint.
-  - Sites: a single infrastructure for all your business websites.
-  - Communities: an integrated collaboration platform.
-  - Content: ECM for the masses.
-  - Search: standard search features plus entity extraction, video search, item recommendations.
-  - Business solutions (includes Access Services and InfoPath Services).
-  - Business Intelligence for everyone (includes Power View, PerformancePoint Services, Excel Services, and Visio Services).
+  - *Sites*: a single infrastructure for all your business websites.
+  - *Communities*: an integrated collaboration platform.
+  - *Content*: ECM for the masses.
+  - *Search*: standard search features plus entity extraction, video search, item recommendations.
+  - *Business solutions* (includes Access Services and InfoPath Services).
+  - *Business Intelligence* for everyone (includes Power View, PerformancePoint Services, Excel Services, and Visio Services).
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/2a66945f-305b-4dc1-9134-f41afe46c6c9)
 
