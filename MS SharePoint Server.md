@@ -121,3 +121,4 @@ A Server license must be assigned to a single physical server which licenses Sha
 - Overview - [Link](https://getlicensingready.com/HandoutStore/SharePoint%20Server%202019%20v22.40.pdf)
 - Video EDU - [Link](https://youtu.be/z9oeP8VHap4?si=JeLuv1IGVpeerItv)
 - MS Sharepoint Server Licensing- [Link](https://download.microsoft.com/download/3/D/4/3D42BDC2-6725-4B29-B75A-A5B04179958B/Licensing_Microsoft_SharePoint_Server.pdf)
+- MS Sharepoint Server Docs - [Link](https://learn.microsoft.com/en-us/sharepoint/sharepoint-server)
