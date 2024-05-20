@@ -88,6 +88,7 @@ A Client Access Licenses (CALs) must be purchased for either users or devices.
 ## Software Assurance
 - Exchange Server licenses purchased with Software Assurance have License Mobility across Server Farms rights which allows the reassignment of Server licenses to other physical servers in a server farm as often as required.
 - An Exchange Server Enterprise CAL with Services with active Software Assurance includes the rights to Data Loss Prevention and Exchange Online Protection.
+- Disaster Recovery Rights available to SA customers to use software for conditional disaster recovery purposes. For each Instance of eligible server software Customer runs in a Physical OSE or Virtual OSE on a Licensed Server, it may temporarily run a backup Instance in a Physical OSE or Virtual OSE on either, another one of its Servers dedicated to disaster recovery.
 
 ## Licensing External Users
 - External users are users who are not the licensee’s or its affiliates’ employees or on-site agents or contractors.
