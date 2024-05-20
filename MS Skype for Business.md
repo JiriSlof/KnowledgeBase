@@ -11,10 +11,10 @@ Skype for Business is a communications service that connects people for conversa
 - Skype for Business for Microsoft 365
 
 ## Requirements
-- Microsoft Windows Server
+1. Microsoft Windows Server
   - Skype for Businesses Server solution has an infrastructure requirement for Windows Server.
   - Users therefore need to be covered with the relevant licenses for this product.
-- Microsoft SQL Server
+2. Microsoft SQL Server
   - Skype for Businesses Server solution has an infrastructure requirement for Microsoft SQL Server.
   - Users must be licensed in the underlying infrastructure with the relevant licenses.
 
