@@ -31,7 +31,7 @@
 > - *SharePoint Enterprise CAL can be added only to user / device with assigned SharePoint Standard CAL.*
 
 ## License Rules
-### **Server License**
+### **Server License** (per Instance)
 - Microsoft SharePoint Server license must be assigned to each server to run SharePoint Server services.
 - For Products under the Server/CAL License Model, customer may use one Running Instance of server software in either a Physical OSE or Virtual OSE on a Licensed Server for each License it acquires.
 
@@ -105,10 +105,15 @@ A Server license must be assigned to a single physical server which licenses Sha
 
 ## Failover Scenarios
 ####  Server License without SA
-- TBD
+- Assign Server license to a physical server to recieve rights to run the application instance in eather a physical or virtual operating system environment.
+- The Server license must be assigned to each server in Server Farms for single Exchage Server in automatic failover scenario.
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/ef2c0e21-dead-463f-917a-b4c9775c0dac)
 
 ####  Server License with SA
-- TBD
+- Assign Server license to a physical server to recieve rights to run the application instance in eather a physical or virtual operating system environment.
+- Adding the Software Assurence (SA) to the license provides rights for License Mobility across Server Farms. So the Server license can be moved to another physical server as often as required.
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/b546f4d4-b7c9-4b95-a73d-229a0df8a4fc)
+
 
 ## External Links
 - Overview - [Link](https://getlicensingready.com/HandoutStore/SharePoint%20Server%202019%20v22.40.pdf)
