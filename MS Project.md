@@ -25,7 +25,7 @@ Microsoft Project Server stores project information in a central SQL Server data
   - Users must be licensed in the underlying infrastructure with the relevant licenses.
 
 ## License Model
-#### **Server License + CAL**
+### **Server License + CAL**
 > Purchase a Server license for each server, and then purchase Client Access Licenses (CALs) for either users or devices.
 - **Server License**
   - Exchange Server Standard License
