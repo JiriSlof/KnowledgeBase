@@ -89,6 +89,9 @@ Users have a choice of clients to run Project software.
 - Project Web App
     > I a browser-based interface that allows project managers, team members, and portfolio managers to work with and report on Project Server information.
 
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/5a2625c8-e074-41a0-b1d5-56348f4facfe)
+
+
 ## External Links
 - Overview - [Link](https://getlicensingready.com/HandoutStore/Project%20Server%202019%20v22.40.pdf)
 - Video EDU - [Link](https://youtu.be/z9oeP8VHap4?feature=shared)
