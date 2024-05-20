@@ -32,12 +32,9 @@ Microsoft Project Server stores project information in a central SQL Server data
 ### **Server License + CAL**
 > Purchase a Server license for each server, and then purchase Client Access Licenses (CALs) for either users or devices.
 - **Server License**
-  - Exchange Server Standard License
-  - Exchange Server Enterprise License
+  - Project Server License
 - **Client Acess License (CAL)**
-  - Exchange Server Standard CALs - User / Device
-  - Exchange Server Enterprise CALs - User / Device
-  - Exchange Server Enterprise CALs with Services - User / Device
+  - Project Server Standard CALs - User / Device
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/dc765c0e-e126-4718-a032-4420330db4eb)
 
