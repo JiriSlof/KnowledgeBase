@@ -89,6 +89,8 @@ Users have a choice of clients to run Project software.
 - Project Web App
     > I a browser-based interface that allows project managers, team members, and portfolio managers to work with and report on Project Server information (requires CAL).
 
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/334e0695-d664-4ab9-b73f-fc3b62c504f2)
+
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/37f8c3c7-ef7e-4b7d-9fee-a18ab75c845f)
 
 #### *Team member tooling reference*:
