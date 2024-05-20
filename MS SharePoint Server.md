@@ -82,7 +82,9 @@ SharePoint Server can be implemented in 3 different deployment scenarios "Intran
 
 
 ## License Mobility
-TBD
+- License Mobility is not available for SharePoint Server.
+- Licenses can be reassigned to servers no more frequently than once every 90 days.
+- License Mobility across Server Farm is benefit of Software Assurence.
 
 ## License Suites
 - Microsoft Core CAL Suite
