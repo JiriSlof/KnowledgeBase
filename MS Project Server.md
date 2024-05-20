@@ -1,11 +1,15 @@
-# Microsoft Project
+# Microsoft Project 
 Microsoft Project is project management software product, developed and sold by Microsoft. It is designed to assist a project manager in developing a schedule, assigning resources to tasks, tracking progress, managing the budget, and analyzing workloads.
 
 Microsoft Project Server stores project information in a central SQL Server database, protected from unauthorized access and corruption. A Project Administrator can control security defining users and access rights. The Project Center supports reports across an organization at the project level.
 
 ## Editions
-- TBD
-- TBD
+### Server
+- Microsoft Project Server (single edition)
+### Clients
+- Microsoft Project Standard (offline)
+- Microsoft Professional  Standard
+- Microsoft Web App (webapp)
 
 ## Versions
 - Microsoft Project Server 2016 (obsolete)
@@ -40,7 +44,7 @@ Microsoft Project Server stores project information in a central SQL Server data
 ## License Rules
 
 ### Server License (per Instance)
-- Purchase a Server license for each server instance.
+ - A single server license must be assigned to the physical server to run single instance.
 
 ### **Client Acess License (CAL)**
 - Purchase Client Access Licenses (CALs) for either users or devices connecting to Server.
