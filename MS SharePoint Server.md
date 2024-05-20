@@ -96,6 +96,7 @@ SharePoint Server can be implemented in 3 different deployment scenarios "Intran
 ## Software Assurence
 - SharePoint Server licenses purchased with Software Assurance have License Mobility across Server Farms rights which allows the reassignment of Server licenses to other physical servers in a server farm as often as required.
 - Customers with active Software Assurance may alternatively deploy SharePoint Server Subscription Edition.
+- Disaster Recovery Rights available to SA customers to use software for conditional disaster recovery purposes. For each Instance of eligible server software Customer runs in a Physical OSE or Virtual OSE on a Licensed Server, it may temporarily run a backup Instance in a Physical OSE or Virtual OSE on either, another one of its Servers dedicated to disaster recovery.
 
 ## Licensing External Users
 No CALs are required for external users.
