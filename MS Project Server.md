@@ -4,9 +4,9 @@ Microsoft Project is project management software product, developed and sold by 
 Microsoft Project Server stores project information in a central SQL Server database, protected from unauthorized access and corruption. A Project Administrator can control security defining users and access rights. The Project Center supports reports across an organization at the project level.
 
 ## Editions
-#### Server
+#### *Server*
 - Microsoft Project Server (single edition)
-#### Clients
+#### *Clients*
 - Microsoft Project Standard (offline)
 - Microsoft Professional  Standard
 - Microsoft Web App (webapp)
