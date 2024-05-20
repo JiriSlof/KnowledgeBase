@@ -15,7 +15,6 @@ Microsoft Project Server stores project information in a central SQL Server data
 - Microsoft Project Server 2016 (obsolete)
 - Microsoft Project Server 2016
 - Microsoft Project Server 2019
-- Microsoft Project Server Subscription Edition (2022)
 
 ## Requirements
 - Microsoft Windows Server
