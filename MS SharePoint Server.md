@@ -1,4 +1,5 @@
 # Microsoft SharePoint Server
+SharePoint Server is one of Microsoft's server solutions. Provides a secure place to store, organize, or share information and data. The most important functions include the creation of intranets, extranets, corporate social networks, corporate search, and corporate application storage.
 
 ## Editions
 - SharePoint Server
