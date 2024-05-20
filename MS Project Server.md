@@ -94,15 +94,14 @@ Users have a choice of clients to run Project software.
 
 
 #### *Team member tooling reference*:
-| _Member Role_                   | Project Professional | Project Web App |
-|---------------------------------|:--------------------:|:---------------:|
-| Project Managers                |           ✓          |        ✓        |
-| Project Management Office (PMO) |           ✓          |        ✓        |
-| Resource Managers               |           ✓          |        ✓        |
-| Team Members                    |                      |        ✓        |
-| Executives                      |                      |        ✓        |
-| Portfolio Analyst               |                      |        ✓        |
-
+| _Member Role_                   | Project Standard | Project Professional | Project Web App |
+|---------------------------------|:----------------:|:--------------------:|:---------------:|
+| Project Managers                |         ✓        |           ✓          |        ✓        |
+| Project Management Office (PMO) |                  |           ✓          |        ✓        |
+| Resource Managers               |                  |           ✓          |        ✓        |
+| Team Members                    |                  |                      |        ✓        |
+| Executives                      |                  |                      |        ✓        |
+| Portfolio Analyst               |                  |                      |        ✓        |
 
 ## External Links
 - Overview - [Link](https://getlicensingready.com/HandoutStore/Project%20Server%202019%20v22.40.pdf)
