@@ -85,11 +85,11 @@ Users have a choice of clients to run Project software.
 - Project Standard
     > Is a standalone desktop application for project managers to create and manage projects without connection to Project Server.
 - Project Professional
-    > Is a desktop application that enables project managers to create and manage projects, and publish them to Project Server to allow collaboration within the complete project team.
+    > Is a desktop application that enables project managers to create and manage projects, and publish them to Project Server to allow collaboration within the complete project team (includes device CAL).
 - Project Web App
-    > I a browser-based interface that allows project managers, team members, and portfolio managers to work with and report on Project Server information.
+    > I a browser-based interface that allows project managers, team members, and portfolio managers to work with and report on Project Server information (requires CAL).
 
-![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/5a2625c8-e074-41a0-b1d5-56348f4facfe)
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/37f8c3c7-ef7e-4b7d-9fee-a18ab75c845f)
 
 
 ## External Links
