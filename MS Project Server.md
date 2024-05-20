@@ -90,10 +90,7 @@ Users have a choice of clients to run Project software.
     > I a browser-based interface that allows project managers, team members, and portfolio managers to work with and report on Project Server information (requires CAL).
 
 
-![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/ce894e01-ecc5-4779-8538-46184679d5c0)
-
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/3f30784f-6c5a-4245-bb2f-084e98255ccf)
-
 
 
 #### *Team member tooling reference*:
