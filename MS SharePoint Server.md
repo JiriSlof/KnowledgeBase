@@ -96,8 +96,8 @@ TBD
 ## Licensing External Users
 No CALs are required for external users.
 
-## Downgrading versions and editions
-TBD
+## Downgrading Rights
+None.
 
 ## Licensing Virtual Machines (VMs) / Containers
 A Server license must be assigned to a single physical server which licenses SharePoint Server to be run in either the physical operating system environment or a single virtual machine on that server.
