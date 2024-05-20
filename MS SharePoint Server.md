@@ -1,8 +1,8 @@
 # Microsoft SharePoint Server
 
 ## Editions
-- SharePoint Enterprise
-- TBD
+- SharePoint Server
+- SharePoint Server Subscription Edition (Online)
 
 ## Versions
 - SharePoint Enterprise 2016
@@ -21,7 +21,7 @@
 #### **Server License + CAL**
 > Purchase a Server license for each server, and then purchase Client Access Licenses (CALs) for users or devices.
 - **Server License**
-  - Exchange Server Standard License
+  - SharePoint Server License
 - **Client Acess License (CAL)**
   - SharePoint Standard CAL - User / Device CAL
   - SharePoint Enterprise CAL - User / Device CAL
@@ -31,6 +31,10 @@
 > - *SharePoint Enterprise CAL can be added only to user / device with assigned SharePoint Standard CAL.*
 
 ## License Rules
+### **Server License**
+- Microsoft SharePoint Server license must be assigned to each server to run SharePoint Server services.
+
+### **Client Acess License (CAL)**
 Microsoft SharePoint Server offers different levels of functionality, and there are CALs which correspond to this.
 - **SharePoint Standard CAL**
   > Delivers only the core capabilities of SharePoint.
