@@ -44,32 +44,31 @@ Microsoft Project Server stores project information in a central SQL Server data
  - A single server license must be assigned to the physical server to run single instance.
 
 ### **Client Acess License (CAL)**
-- Purchase Client Access Licenses (CALs) for either users or devices connecting to Server.
+- Purchase Client Access Licenses (CALs) for either users or devices connecting to Project Server.
 
-
-
-
-Organizations with Project Professional 2021 licenses also receive one Project Server 2019 Device CAL for each license.
+> [!TIP]  
+> *Organizations with Project Professional 2021 licenses also receive one Project Server 2019 Device CAL for each license.*
 
 ## License Mobility
-TBD
+- License Mobility is not available for Exchange Server.
+- Licenses can be reassigned to servers no more frequently than once every 90 days.
 
 ## License Suites
-TBD
+None.
 
 ## Software Assurance
-TBD
+- Exchange Server licenses purchased with Software Assurance have License Mobility across Server Farms rights which allows the reassignment of Server licenses to other physical servers in a server farm as often as required.
+- Disaster Recovery Rights available to SA customers to use software for conditional disaster recovery purposes. For each Instance of eligible server software Customer runs in a Physical OSE or Virtual OSE on a Licensed Server, it may temporarily run a backup Instance in a Physical OSE or Virtual OSE on either, another one of its Servers dedicated to disaster recovery.
 
 ## Licensing External Users
 - External users are users who are not the licensee’s or its affiliates’ employees or on-site agents or contractors.
 - External users are licensed with either User or Device CALs.
 
 ## Downgrade Rights
-TBD
+None.
 
 ## Licensing Virtual Machines (VMs)/Containers
-TBD
-
+A Server license must be assigned to a single physical server which licenses Project Server to be run in either the physical operating system environment or a single virtual machine on that server.
 
 ## Failover Scenarios
 ####  Server License without SA
@@ -83,7 +82,13 @@ TBD
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/b546f4d4-b7c9-4b95-a73d-229a0df8a4fc)
 
 ## Project Server Clients
-TBD
+Users have a choice of clients to run Project software.
+- Project Standard
+    > Is a standalone desktop application for project managers to create and manage projects without connection to Project Server.
+- Project Professional
+    > Is a desktop application that enables project managers to create and manage projects, and publish them to Project Server to allow collaboration within the complete project team.
+- Project Web App
+    > I a browser-based interface that allows project managers, team members, and portfolio managers to work with and report on Project Server information.
 
 ## External Links
 - Overview - [Link](https://getlicensingready.com/HandoutStore/Project%20Server%202019%20v22.40.pdf)
