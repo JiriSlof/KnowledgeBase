@@ -88,8 +88,17 @@ Users have a choice of clients to run Project software.
     > Is a desktop application that enables project managers to create and manage projects, and publish them to Project Server to allow collaboration within the complete project team (includes device CAL).
 - Project Web App
     > I a browser-based interface that allows project managers, team members, and portfolio managers to work with and report on Project Server information (requires CAL).
-
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/37f8c3c7-ef7e-4b7d-9fee-a18ab75c845f)
+
+#### *Team member tooling reference*:
+| _Member Role_                   | Project Professional | Project Web App |
+|---------------------------------|:--------------------:|:---------------:|
+| Project Managers                |           ✓          |        ✓        |
+| Project Management Office (PMO) |           ✓          |        ✓        |
+| Resource Managers               |           ✓          |        ✓        |
+| Team Members                    |                      |        ✓        |
+| Executives                      |                      |        ✓        |
+| Portfolio Analyst               |                      |        ✓        |
 
 
 ## External Links
