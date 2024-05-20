@@ -33,6 +33,7 @@
 ## License Rules
 ### **Server License**
 - Microsoft SharePoint Server license must be assigned to each server to run SharePoint Server services.
+- For Products under the Server/CAL License Model, customer may use one Running Instance of server software in either a Physical OSE or Virtual OSE on a Licensed Server for each License it acquires.
 
 ### **Client Acess License (CAL)**
 Microsoft SharePoint Server offers different levels of functionality, and there are CALs which correspond to this.
@@ -80,14 +81,14 @@ SharePoint Server can be implemented in 3 different deployment scenarios "Intran
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/b36ece15-3ac4-46ee-9a6c-6ced4098cae8)
 
 
-
-
-
 ## License Mobility
 TBD
 
 ## License Suites
-TBD
+- Microsoft Core CAL Suite
+  > Contains SharePoint Server Standard CAL.
+- Microsoft Enterprise CAL Suite
+  > Contains SharePoint Server Enterprise CAL.
 
 ## Software Assurence
 - SharePoint Server licenses purchased with Software Assurance have License Mobility across Server Farms rights which allows the reassignment of Server licenses to other physical servers in a server farm as often as required.
