@@ -22,7 +22,7 @@ Device and User licenses are available for Windows Desktop.
 - Licese by Device
   > Device licenses are assigned to an individual device and any user may use Windows on that device.
 - Licese by User
-  > User licenses are assigned to a user who may then use Windows 11 on up to 5 devices.
+  > User licenses are assigned to a user who may then use Windows on up to 5 devices.
   - Windows VDA per User
   - Windows Enterprise per User
   - Windows Enterprise per User Add-on
