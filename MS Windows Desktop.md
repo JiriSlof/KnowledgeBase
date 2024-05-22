@@ -1,4 +1,5 @@
 # Microsoft Windows Desktop
+Microsoft Windows is a product line of proprietary graphical operating systems developed and marketed by Microsoft.
 
 ## Editions
 - Windows Home
@@ -53,27 +54,6 @@ A "Volume" license is designed for large businesses, education, and government e
 | Windows Enterprise LTSC 2021 	|  ✓  	|                                 	|             ✓            	|                                           	|
 | Windows 11 Enterprise        	|     	|                ✓                	|             ✓            	|                     ✓                     	|
 | Windows VDA                  	|     	|                ✓                	|             ✓            	|                     ✓                     	|
-
-
-
-{| class="wikitable" 
-|-
-! Underlying Qualified OS
-! Windows 10<br />Upgrade
-! Windows 11<br />Upgrade
-|-
-| Winddows 10 Enterprise / Pro
-| N/A
-| ✓
-|-
-| Winddows 8/8.1 Enterprise / Pro
-| ✓
-| ✓
-|-
-| Winddows 7 Enterprise / Proffesional / Ultimate
-| ✓
-| 
-|}
 
 #### Qualifying OS
 - Winddows 11 Enterprise / Pro
