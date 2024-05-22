@@ -34,6 +34,7 @@ Device and User licenses are available for Windows Desktop.
 Microsoft offers various licensing types to accommodate the diverse needs of users and organizations.
 
 ### Retail Licenses
+A full Packaged Product (FPP) is the retail version of a Microsoft licensed product.
 Ideal for small businesses or individual users requiring a one-time purchase of Microsoft Office products.
 A "Retail" license refers to the one you acquire when purchasing a copy of Windows from your local store or an online retailer. The Windows Retail license and product key can be transfered to another computer as long as you deactivate the old device.
 
