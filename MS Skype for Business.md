@@ -45,9 +45,9 @@ A Client Access Licenses (CALs) must be purchased for either users or devices.
 - **Skype for Business Standard CAL**
   - The instant messaging and presence integration functionality.
   - This CAL must be assigned for either users or devices acessing Skype for Business server.
-- **Skype for Business Enterprise CAL**
+- **Skype for Business Enterprise CAL** (additive)
   - For audio, video and web conferencing in addition to the Standard CAL.
-- **Skype for Business Plus CAL**
+- **Skype for Business Plus CAL** (additive)
   - For enterprise voice and telephony in addition to the Standard CAL.
 
 > [!NOTE]  
