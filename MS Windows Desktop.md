@@ -24,7 +24,7 @@ Microsoft Windows is a product line of proprietary graphical operating systems d
   - Windows VDA per User
   - Windows Enterprise per User Add-on
 
-![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/296346f3-9fbf-408c-9b68-05e17f04cc31)
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/04260281-2d00-4aca-b6b0-ec23e6d9d84e)
 
 
 ## License Types
