@@ -56,6 +56,12 @@ A "Volume" license is designed for large businesses, education, and government e
 | Windows VDA                  	|     	|                ✓                	|             ✓            	|                     ✓                     	|
 
 #### Qualifying OS
+| Underlying Qualified OS                         	| Windows 10 Upgrade 	| Windows 11 Upgrade 	|
+|-------------------------------------------------	|:------------------:	|:------------------:	|
+| Winddows 10 Enterprise / Pro                    	|         N/A        	|          ✓         	|
+| Winddows 8/8.1 Enterprise / Pro                 	|          ✓         	|          ✓         	|
+| Winddows 7 Enterprise / Proffesional / Ultimate 	|          ✓         	|                    	|
+
 - Winddows 11 Enterprise / Pro
 - Winddows 10 Enterprise / Pro
 - Winddows 8/8.1 Enterprise / Pro
