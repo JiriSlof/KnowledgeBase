@@ -58,8 +58,6 @@ TBD
 TBD
 
 ## Software Assurance
-Windows 11 Pro and Windows Enterprise LTSC 2021 licenses do not include Software Assurance.
-
 Windows 11 Enterprise includes Software Assurance which gives the following rights:
 - Virtual Desktop Access
   > Rights to access virtual machines hosted in a Virtual Desktop Infrastructure.
@@ -70,6 +68,9 @@ Windows 11 Enterprise includes Software Assurance which gives the following righ
 - Flexible Virtualization Benefit
   > Rights to install software on Authorized Outsourcers’ servers.
 - Ongoing access to new Long-Term Servicing Channel builds.
+
+> [!NOTE]  
+> *Windows 11 Pro and Windows Enterprise LTSC 2021 licenses do not include Software Assurance.*
 
 ## Downgrade Rights
 
