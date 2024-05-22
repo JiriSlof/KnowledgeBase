@@ -38,6 +38,12 @@ Tailored for organizations that need to purchase licenses in bulk, providing fle
 - Windows 11 Pro / Enterprise / Enterprise LTSC
 - Windows 10 Pro / Enterprise / Enterprise LTSC
 
+> [!IMPORTANT]  
+> - *Licenses that are purchased through the volume licensing agreements are upgrade licenses only.*
+> - *There needs to be a quialifying operating system already on device, before volume license can be assigned to it.*
+
+
+
 #### Qualifying OS
 - Winddows 11 Enterprise / Pro
 - Winddows 10 Enterprise / Pro
