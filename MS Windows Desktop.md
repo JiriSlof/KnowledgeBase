@@ -74,8 +74,8 @@ A "Volume" license is designed for large businesses, education, and government e
 | Windows 11 Enterprise        	|     	|                ✓                	|             ✓            	|                     ✓                     	|
 | Windows 10 VDA                	|     	|                ✓                	|             ✓            	|                     ✓                     	|
 
-|       Windows 10 Offering       	| Open License 	| Open Value and <br>Subscription 	| Select Plus and <br>MPSA 	| Enterprise Agreement <br>and Subscription 	|
-|:-------------------------------:	|:------------:	|:-------------------------------:	|:------------------------:	|:-----------------------------------------:	|
+| _Windows 11 Offering_           	| Open License 	| Open Value and <br>Subscription 	| Select Plus and <br>MPSA 	| Enterprise Agreement <br>and Subscription 	|
+|---------------------------------	|:------------:	|:-------------------------------:	|:------------------------:	|:-----------------------------------------:	|
 | Windows 10 Pro                  	|       ✓      	|                                 	|             ✓            	|                                           	|
 | Windows 10 Enterprise LTSC 2019 	|       ✓      	|                                 	|             ✓            	|                                           	|
 | Windows 10 Enterprise           	|       ✓      	|                ✓                	|             ✓            	|                     ✓                     	|
