@@ -32,6 +32,9 @@ Device and User licenses are available for Windows Desktop.
 
 ## License Types
 Microsoft offers various licensing types to accommodate the diverse needs of users and organizations.
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/ca22b465-e241-4162-b940-45e3b4ccb987)
+
+
 
 ### Retail Licenses
 A full Packaged Product (FPP) is the retail version of a Microsoft licensed product.
