@@ -38,7 +38,7 @@ A full Packaged Product (FPP) is the retail version of a Microsoft licensed prod
 Ideal for small businesses or individual users requiring a one-time purchase of Microsoft Office products.
 A "Retail" license refers to the one you acquire when purchasing a copy of Windows from your local store or an online retailer. The Windows Retail license and product key can be transfered to another computer as long as you deactivate the old device.
 
-![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/292364e2-8d03-4346-bdcf-9897bd84ef00)
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/22a4634c-2313-4654-949e-a735ec074938)
 
 
 #### Retail License Availability
