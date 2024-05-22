@@ -34,7 +34,6 @@ For using management software such as Microsoft System Center, a *Management Lic
 - System Center Orchestrator (SCO) CML - OSE / User
 - System Center Operations Manager CML (SCOM) - OSE / User
 - System Center Service Manager CML (SCSM) - OSE / User
-
 - Advanced Threat Analytics Client Management License (ML) *!! TO Be CONFIRMED !!*
 - Microsoft Audit and Control Management Server CAL *!! TO Be CONFIRMED !!*
 
