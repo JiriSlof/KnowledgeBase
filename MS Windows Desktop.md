@@ -67,13 +67,12 @@ A "Volume" license is designed for large businesses, education, and government e
 > - *The only exception is that customers can acquire the Windows VDA license to remotely access Windows 11 running in a virtual environment regardless of whether the user’s device has a Qualifying Operating System or not.*
 
 #### Windows 10 / 11 availability in Volume Licensing
-| _Windows 11 Offering_        	| CSP 	| Open Value and <br>Subscription 	| Select Plus and <br>MPSA 	| Enterprise Agreement <br>and Subscription 	|
-|------------------------------	|:---:	|:-------------------------------:	|:------------------------:	|:-----------------------------------------:	|
-| Windows 11 Pro               	|  ✓  	|                                 	|             ✓            	|                                           	|
-| Windows Enterprise LTSC 2021 	|  ✓  	|                                 	|             ✓            	|                                           	|
-| Windows 11 Enterprise        	|     	|                ✓                	|             ✓            	|                     ✓                     	|
-| Windows 10 VDA                	|     	|                ✓                	|             ✓            	|                     ✓                     	|
-
+| _Windows 11 Offering_           	| Open License <br>CSP 	| Open Value and <br>Subscription 	| Select Plus and <br>MPSA 	| Enterprise Agreement <br>and Subscription 	|
+|---------------------------------	|:--------------------:	|:-------------------------------:	|:------------------------:	|:-----------------------------------------:	|
+| Windows 11 Pro                  	|           ✓          	|                                 	|             ✓            	|                                           	|
+| Windows 11 Enterprise LTSC 2021 	|           ✓          	|                                 	|             ✓            	|                                           	|
+| Windows 11 Enterprise           	|                      	|                ✓                	|             ✓            	|                     ✓                     	|
+| Windows 11 VDA                  	|                      	|                ✓                	|             ✓            	|                     ✓                     	|
 | _Windows 10 Offering_           	| Open License <br>CSP 	| Open Value and <br>Subscription 	| Select Plus and <br>MPSA 	| Enterprise Agreement <br>and Subscription 	|
 |---------------------------------	|:--------------------:	|:-------------------------------:	|:------------------------:	|:-----------------------------------------:	|
 | Windows 10 Pro                  	|           ✓          	|                                 	|             ✓            	|                                           	|
