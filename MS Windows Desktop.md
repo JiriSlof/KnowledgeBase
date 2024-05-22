@@ -58,7 +58,7 @@ Tailored for organizations that need to purchase licenses in bulk, providing fle
 
 A "Volume" license is designed for large businesses, education, and government entities. Usually, a volume license allows organizations to use one master product key to activate any installation of Windows. 
 
-![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/7bd67097-356d-4214-9909-57cf5cb33a03)
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/80d4fbfa-934d-4e1a-a5b3-0eb84b772f45)
 
 
 > [!IMPORTANT]  
