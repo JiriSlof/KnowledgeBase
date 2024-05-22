@@ -42,12 +42,13 @@ Tailored for organizations that need to purchase licenses in bulk, providing fle
 > - *Licenses that are purchased through the volume licensing agreements are upgrade licenses only.*
 > - *There needs to be a quialifying operating system already on device, before volume license can be assigned to it.*
 
-| Windows 11 Offering          	| CSP 	| Open Value and&lt;br&gt;Subscription 	| Select Plus and <br>MPSA 	| Enterprise Agreement <br>and Subscription 	|
-|------------------------------	|:---:	|:------------------------------------:	|:------------------------:	|:-----------------------------------------:	|
-| Windows 11 Pro               	|  ✓  	|                                      	|             ✓            	|                                           	|
-| Windows Enterprise LTSC 2021 	|  ✓  	|                                      	|             ✓            	|                                           	|
-| Windows 11 Enterprise        	|     	|                   ✓                  	|             ✓            	|                     ✓                     	|
-| Windows VDA                  	|     	|                   ✓                  	|             ✓            	|                     ✓                     	|
+| Windows 11 Offering          	| CSP 	| Open Value and <br>Subscription 	| Select Plus and <br>MPSA 	| Enterprise Agreement <br>and Subscription 	|
+|------------------------------	|:---:	|:-------------------------------:	|:------------------------:	|:-----------------------------------------:	|
+| Windows 11 Pro               	|  ✓  	|                                 	|             ✓            	|                                           	|
+| Windows Enterprise LTSC 2021 	|  ✓  	|                                 	|             ✓            	|                                           	|
+| Windows 11 Enterprise        	|     	|                ✓                	|             ✓            	|                     ✓                     	|
+| Windows VDA                  	|     	|                ✓                	|             ✓            	|                     ✓                     	|
+
 #### Qualifying OS
 - Winddows 11 Enterprise / Pro
 - Winddows 10 Enterprise / Pro
