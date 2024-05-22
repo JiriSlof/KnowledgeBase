@@ -59,20 +59,20 @@ TBD
 TBD
 
 ## Downgrade Rights
-|                           	| EOM 	| Volume 	|   Volume   	|
-| Can be donwgraded to:     	| Pro 	|   Pro  	| Enterprise 	|
-|---------------------------	|:---:	|:------:	|:----------:	|
-| Windows 10 Enterprise     	|     	|        	|      ✓     	|
-| Windows 10 Pro            	|  ✓  	|    ✓   	|      ✓     	|
-| Windows 8/8.1 Enterprise  	|     	|        	|      ✓     	|
-| Windows 8/8.1 Pro         	|     	|    ✓   	|      ✓     	|
-| Windows 7 Enterprise      	|     	|        	|      ✓     	|
-| Window 7 Professional     	|     	|    ✓   	|      ✓     	|
-| Windows Vista Enterprise  	|     	|        	|      ✓     	|
-| Windows Vista Business    	|     	|    ✓   	|      ✓     	|
-| Windows XP Professional   	|     	|    ✓   	|      ✓     	|
-| Windows 2000 Professional 	|     	|    ✓   	|      ✓     	|
-| Windows 95 / 98 / NT      	|     	|    ✓   	|      ✓     	|
+
+| Can be donwgraded to:     	| EOM<br>Pro 	| Volume<br>Pro 	| Volume<br>Enterprise 	|
+|---------------------------	|:----------:	|:-------------:	|:--------------------:	|
+| Windows 10 Enterprise     	|            	|               	|           ✓          	|
+| Windows 10 Pro            	|      ✓     	|       ✓       	|           ✓          	|
+| Windows 8/8.1 Enterprise  	|            	|               	|           ✓          	|
+| Windows 8/8.1 Pro         	|            	|       ✓       	|           ✓          	|
+| Windows 7 Enterprise      	|            	|               	|           ✓          	|
+| Window 7 Professional     	|            	|       ✓       	|           ✓          	|
+| Windows Vista Enterprise  	|            	|               	|           ✓          	|
+| Windows Vista Business    	|            	|       ✓       	|           ✓          	|
+| Windows XP Professional   	|            	|       ✓       	|           ✓          	|
+| Windows 2000 Professional 	|            	|       ✓       	|           ✓          	|
+| Windows 95 / 98 / NT      	|            	|       ✓       	|           ✓          	|
 
 ## Licensing virtual machines (VMs)/containers
 TBD
