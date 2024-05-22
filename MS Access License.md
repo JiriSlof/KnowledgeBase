@@ -72,6 +72,7 @@ The Microsoft Server Client Access License (CAL) Suites consist of two offerings
 Microsoft Client Access License (CAL) Suite Bridges are used when you are transitioning from a CAL Suite (on premises) to a comparable Product and Online Service combination. As such, CAL Suite Bridges are comprised of those CAL Suite workloads that are not included in Office 365 or Enterprise Mobility + Security. CAL Suite Bridges allow existing CAL Suites customers to retain their current software access to those CAL Suite workloads that are not licensed through the corresponding online service.
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/874b161c-c95d-4e98-be3b-4fe87b2f21af)
+[Licensing_brief_PLT_CAL_Suite_Bridges_Overview.pdf](https://github.com/JiriSlof/KnowledgeBase/files/15400715/Licensing_brief_PLT_CAL_Suite_Bridges_Overview.pdf)
 
 
 ## External sources
