@@ -34,6 +34,10 @@ Microsoft Project Server stores project information in a central SQL Server data
   - Project Server License
 - **Client Acess License (CAL)**
   - Project Server Standard CALs - User / Device
+ 
+> [!TIP]
+> - *Microsoft Project Server has onlz single type of license.*
+> - *Microsoft Project Server has only single type of CAL - Project Server Standard CAL.*
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/dc765c0e-e126-4718-a032-4420330db4eb)
 
