@@ -20,6 +20,12 @@ Microsoft Windows is a product line of proprietary graphical operating systems d
 ## License Model
 - Licese by Device
 - Licese by User
+  - Windows Enterprise per User
+  - Windows VDA per User
+  - Windows Enterprise per User Add-on
+
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/296346f3-9fbf-408c-9b68-05e17f04cc31)
+
 
 ## License Types
 Microsoft offers various licensing types to accommodate the diverse needs of users and organizations.
