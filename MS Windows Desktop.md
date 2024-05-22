@@ -88,5 +88,5 @@ Windows 11 Enterprise includes Software Assurance which gives the following righ
 | Windows 2000 Professional 	|            	|       ✓       	|           ✓          	|
 | Windows 95 / 98 / NT      	|            	|       ✓       	|           ✓          	|
 
-## Licensing virtual machines (VMs)/containers
+## Licensing Virtual Machines (VMs) / Containers
 TBD
