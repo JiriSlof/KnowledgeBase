@@ -27,8 +27,6 @@ Device and User licenses are available for Windows Desktop.
   - Windows Enterprise per User
   - Windows Enterprise per User Add-on
 
-![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/2eaad441-916b-4983-96a7-bcad5b93a216)
-
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/04260281-2d00-4aca-b6b0-ec23e6d9d84e)
 
 
@@ -40,7 +38,7 @@ A full Packaged Product (FPP) is the retail version of a Microsoft licensed prod
 Ideal for small businesses or individual users requiring a one-time purchase of Microsoft Office products.
 A "Retail" license refers to the one you acquire when purchasing a copy of Windows from your local store or an online retailer. The Windows Retail license and product key can be transfered to another computer as long as you deactivate the old device.
 
-![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/22a4634c-2313-4654-949e-a735ec074938)
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/2eaad441-916b-4983-96a7-bcad5b93a216)
 
 
 #### Retail License Availability
