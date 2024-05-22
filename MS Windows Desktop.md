@@ -90,6 +90,7 @@ A "Volume" license is designed for large businesses, education, and government e
 
 ### Subscription Licenses
 Such as Microsoft 365, offer ongoing access to Microsoft products, ensuring users always have the latest versions.
+![Microsoft_365_logo](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/cd53a58d-1d26-4a79-b756-ec17204c90a6)
 
 ### Educational, Non-Profit, and Government Licenses
 
