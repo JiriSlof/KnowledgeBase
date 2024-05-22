@@ -50,9 +50,7 @@ Come pre-installed on new hardware, offering a cost-effective solution for those
 - Windows 11 Home / Pro
 - Windows 10 Home / Pro
 
-![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/cc56b16f-1510-4d8b-aec3-0814f36bd233)
-
-![main-qimg-e230c80cbe6958f797094d661f4bd484-lq](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/f2b42122-279b-41a6-a271-619539919680)
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/f2b42122-279b-41a6-a271-619539919680)
 
 
 
