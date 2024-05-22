@@ -157,3 +157,5 @@ Servicing Channels allow customers to designate how frequently their individual 
 Windows 10 Qualifying OS Requirements - [Link](https://download.microsoft.com/download/3/D/4/3D42BDC2-6725-4B29-B75A-A5B04179958B/Licensing_brief_PLT_Windows_10_qualifying_operating_%20system_requirements.pdf)
 
 Windows 11 Qualifying OS Requirements - [Link](https://download.microsoft.com/download/3/D/4/3D42BDC2-6725-4B29-B75A-A5B04179958B/Licensing_brief_PLT_Windows_qualifying_operating_%20system_requirements.pdf)
+
+Commercial Licensing Guide - [Link](https://wwlpdocumentsearch.blob.core.windows.net/prodv2/Windows_11_Commercial_Licensing_Guide.pdf) 
