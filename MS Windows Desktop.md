@@ -29,12 +29,8 @@ Device and User licenses are available for Windows Desktop.
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/04260281-2d00-4aca-b6b0-ec23e6d9d84e)
 
-
 ## License Types
 Microsoft offers various licensing types to accommodate the diverse needs of users and organizations.
-![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/ca22b465-e241-4162-b940-45e3b4ccb987)
-
-
 
 ### Retail Licenses
 A full Packaged Product (FPP) is the retail version of a Microsoft licensed product.
@@ -61,6 +57,9 @@ Come pre-installed on new hardware, offering a cost-effective solution for those
 Tailored for organizations that need to purchase licenses in bulk, providing flexibility and potential cost savings.
 
 A "Volume" license is designed for large businesses, education, and government entities. Usually, a volume license allows organizations to use one master product key to activate any installation of Windows. 
+
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/7bd67097-356d-4214-9909-57cf5cb33a03)
+
 
 > [!IMPORTANT]  
 > - *Licenses that are purchased through the volume licensing agreements are upgrade licenses only.*
