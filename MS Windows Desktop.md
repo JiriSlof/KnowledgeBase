@@ -73,6 +73,7 @@ A "Volume" license is designed for large businesses, education, and government e
 | Windows 11 Enterprise LTSC 2021 	|           ✓          	|                                 	|             ✓            	|                                           	|
 | Windows 11 Enterprise           	|                      	|                ✓                	|             ✓            	|                     ✓                     	|
 | Windows 11 VDA                  	|                      	|                ✓                	|             ✓            	|                     ✓                     	|
+
 | _Windows 10 Offering_           	| Open License <br>CSP 	| Open Value and <br>Subscription 	| Select Plus and <br>MPSA 	| Enterprise Agreement <br>and Subscription 	|
 |---------------------------------	|:--------------------:	|:-------------------------------:	|:------------------------:	|:-----------------------------------------:	|
 | Windows 10 Pro                  	|           ✓          	|                                 	|             ✓            	|                                           	|
