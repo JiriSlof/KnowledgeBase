@@ -10,9 +10,9 @@
 - Windows SE
 
 ## Versions
-- Windows 7 (obsolete)
-- Windows 8 (obsolete)
-- Windows 8.1 (obsolete)
+- Windows 7 *(obsolete)*
+- Windows 8 *(obsolete)*
+- Windows 8.1 *(obsolete)*
 - Windows 10
 - Windows 11
 
