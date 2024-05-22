@@ -25,6 +25,12 @@ Microsoft Exchange Server is a mail server and calendaring server and server man
   - Exchange Server Enterprise CALs - User / Device
   - Exchange Server Enterprise CALs with Services - User / Device
 
+ 
+> [!WARNING]
+> - *Exchange Server Enterprise CALs are only the additive CALs.*
+> - *Exchange Server Enterprise CAL and Exchange Server Enterprise CAL with Service  can be added only to user / device with assigned Exchange Server Standard CAL.*
+
+
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/246e540a-7b45-4d7f-8665-87d1b38a063c)
 
 ## License Rules
