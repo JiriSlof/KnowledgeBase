@@ -58,7 +58,8 @@ Tailored for organizations that need to purchase licenses in bulk, providing fle
 
 A "Volume" license is designed for large businesses, education, and government entities. Usually, a volume license allows organizations to use one master product key to activate any installation of Windows. 
 
-![MS_Volume](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/e944d328-51ee-4bad-b8d7-9864e08d4961)
+##![MS_Volume](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/e944d328-51ee-4bad-b8d7-9864e08d4961)
+![MS_Volume](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/89cda18c-02bf-4cdb-9110-430b80c2b6c8)
 
 
 > [!IMPORTANT]  
@@ -91,9 +92,9 @@ A "Volume" license is designed for large businesses, education, and government e
 ### Subscription Licenses
 Such as Microsoft 365, offer ongoing access to Microsoft products, ensuring users always have the latest versions.
 
-![Windows-365-2021-Logo-PNG480p-Vector69Com-768x136](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/c27418c3-7b87-48a5-b1d0-e23a8e28794e)
+![Windows-365](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/c27418c3-7b87-48a5-b1d0-e23a8e28794e)
 
-![Windows-365](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/a6bb9ea8-6bc2-40cc-bce7-519cf56bcf0c)
+
 
 ### Educational, Non-Profit, and Government Licenses
 
