@@ -20,7 +20,7 @@
 - Licese by Device
 - Licese by User
 
-## License Types
+## License Types & Rules
 Microsoft offers various licensing types to accommodate the diverse needs of users and organizations.
 
 ### Retail Licenses
@@ -61,8 +61,6 @@ Tailored for organizations that need to purchase licenses in bulk, providing fle
 Such as Microsoft 365, offer ongoing access to Microsoft products, ensuring users always have the latest versions.
 
 ### Educational, Non-Profit, and Government Licenses
-
-## License Rules
 
 ## License Mobility
 TBD
