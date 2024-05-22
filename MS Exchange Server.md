@@ -42,11 +42,11 @@ Microsoft Exchange Server is a mail server and calendaring server and server man
 A Client Access Licenses (CALs) must be purchased for either users or devices.
 - **Exchange Server Standard CALs**
   - Email and calendar information.
-- **Exchange Server Enterprise CAL**
+- **Exchange Server Enterprise CAL** (additive)
   - Unified Messaging.
   - Integrated archiving functionality
   - Information protection capabilities.
-- **Exchange Server Enterprise CAL with Services with active SA**
+- **Exchange Server Enterprise CAL with Services with active SA** (additive)
   - Same capabilities as Exchange Server Enterprise CAL.
   - Additionaly includes the rights to Data Loss Prevention and Exchange Online Protection.
 
