@@ -41,6 +41,7 @@ Tailored for organizations that need to purchase licenses in bulk, providing fle
 > [!IMPORTANT]  
 > - *Licenses that are purchased through the volume licensing agreements are upgrade licenses only.*
 > - *There needs to be a quialifying operating system already on device, before volume license can be assigned to it.*
+> - *The only exception to this is that customers can acquire the Windows VDA license to remotely access Windows 11 running in a virtual environment regardless of whether the user’s device has a Qualifying Operating System or not.*
 
 #### Windows 11 availability in Volume Licensing
 | _Windows 11 Offering_        	| CSP 	| Open Value and <br>Subscription 	| Select Plus and <br>MPSA 	| Enterprise Agreement <br>and Subscription 	|
