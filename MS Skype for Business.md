@@ -33,7 +33,7 @@ Skype for Business is a communications service that connects people for conversa
 > - *Everyone acessing Skype For Bussiness Server need to have a Standard CAL assigned.*
  
 > [!WARNING]
-> - Skype for Business Enterprise CAL and Skype for Business Plus CAL are only the additive CALs.*
+> - *Skype for Business Enterprise CAL and Skype for Business Plus CAL are only the additive CALs.*
 > - *Enterprise CAL or Plus CAL can be added only to user / device with assigned Skype for Business Standard CAL.*
 
 ![image](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/03768e17-3170-47f3-bbf1-5e80045dec4b)
