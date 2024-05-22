@@ -101,7 +101,7 @@ Windows 11 Enterprise includes Software Assurance which gives the following righ
 
 ## Downgrade Rights
 
-| Can be donwgraded to:     	| EOM<br>Pro 	| Volume<br>Pro 	| Volume<br>Enterprise 	|
+| Can be donwgraded to:     	| OEM<br>Pro 	| Volume<br>Pro 	| Volume<br>Enterprise 	|
 |---------------------------	|:----------:	|:-------------:	|:--------------------:	|
 | Windows 10 Enterprise     	|            	|               	|           ✓          	|
 | Windows 10 Pro            	|      ✓     	|       ✓       	|           ✓          	|
