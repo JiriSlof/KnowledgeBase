@@ -40,18 +40,22 @@ A "Retail" license refers to the one you acquire when purchasing a copy of Windo
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/2eaad441-916b-4983-96a7-bcad5b93a216)
 
-
 #### Retail License Availability
 - Windows 11 Home / Pro
 - Windows 10 Home / Pro
 
 ### OEM Licenses
 Come pre-installed on new hardware, offering a cost-effective solution for those purchasing new devices.
+
+#### OEM License Availability
 - Windows 11 Home / Pro
 - Windows 10 Home / Pro
 
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/cc56b16f-1510-4d8b-aec3-0814f36bd233)
+
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/f2b42122-279b-41a6-a271-619539919680)
 
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/cc56b16f-1510-4d8b-aec3-0814f36bd233)
 
 
 ### Volume Licenses
