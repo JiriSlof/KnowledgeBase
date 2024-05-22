@@ -16,25 +16,49 @@
 - Windows 10
 - Windows 11
 
-## License model
+## License Model
 - Licese by Device
 - Licese by User
 
-## License unit restriction
+## License Types
+Microsoft offers various licensing types to accommodate the diverse needs of users and organizations.
 
-## License mobility
+### Retail Licenses
+Ideal for small businesses or individual users requiring a one-time purchase of Microsoft Office products.
+- Windows 11 Home / Pro
+- Windows 10 Home / Enterprise / Enterprise LTSC
+
+### OEM Licenses
+Come pre-installed on new hardware, offering a cost-effective solution for those purchasing new devices.
+
+### Volume Licenses
+Tailored for organizations that need to purchase licenses in bulk, providing flexibility and potential cost savings.
+- Windows 10 Home / Enterprise / Enterprise LTSC
+- Windows 10 Home / Enterprise / Enterprise LTSC
+
+#### Qualifying OS
+- Winddows 11 Enterprise / Pro
+- Winddows 10 Enterprise / Pro
+- Winddows 8/8.1 Enterprise / Pro
+- Winddows 7 Enterprise / Proffesional / Ultimate
+
+### Subscription Licenses
+Such as Microsoft 365, offer ongoing access to Microsoft products, ensuring users always have the latest versions.
+
+### Educational, Non-Profit, and Government Licenses
+
+## License Rules
+
+## License Mobility
 TBD
 
 ## License Suites
 TBD
 
-## Software assurance
+## Software Assurance
 TBD
 
-## Licensing external users
-N/A
-
-## Downgrading versions and editions
+## Downgrade Rights
 TBD
 
 ## Licensing virtual machines (VMs)/containers
