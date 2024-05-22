@@ -27,6 +27,8 @@ Device and User licenses are available for Windows Desktop.
   - Windows Enterprise per User
   - Windows Enterprise per User Add-on
 
+![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/2eaad441-916b-4983-96a7-bcad5b93a216)
+
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/04260281-2d00-4aca-b6b0-ec23e6d9d84e)
 
 
