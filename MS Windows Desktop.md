@@ -1,4 +1,4 @@
-# Microsoft Windows
+# Microsoft Windows Desktop
 
 ## Editions
 - Windows Home
