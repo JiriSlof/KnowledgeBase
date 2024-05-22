@@ -66,13 +66,21 @@ A "Volume" license is designed for large businesses, education, and government e
 > - *There needs to be a quialifying operating system already on device, before volume license can be assigned to it.*
 > - *The only exception is that customers can acquire the Windows VDA license to remotely access Windows 11 running in a virtual environment regardless of whether the user’s device has a Qualifying Operating System or not.*
 
-#### Windows 11 availability in Volume Licensing
+#### Windows 10 / 11 availability in Volume Licensing
 | _Windows 11 Offering_        	| CSP 	| Open Value and <br>Subscription 	| Select Plus and <br>MPSA 	| Enterprise Agreement <br>and Subscription 	|
 |------------------------------	|:---:	|:-------------------------------:	|:------------------------:	|:-----------------------------------------:	|
 | Windows 11 Pro               	|  ✓  	|                                 	|             ✓            	|                                           	|
 | Windows Enterprise LTSC 2021 	|  ✓  	|                                 	|             ✓            	|                                           	|
 | Windows 11 Enterprise        	|     	|                ✓                	|             ✓            	|                     ✓                     	|
-| Windows VDA                  	|     	|                ✓                	|             ✓            	|                     ✓                     	|
+| Windows 10 VDA                	|     	|                ✓                	|             ✓            	|                     ✓                     	|
+
+|       Windows 10 Offering       	| Open License 	| Open Value and <br>Subscription 	| Select Plus and <br>MPSA 	| Enterprise Agreement <br>and Subscription 	|
+|:-------------------------------:	|:------------:	|:-------------------------------:	|:------------------------:	|:-----------------------------------------:	|
+| Windows 10 Pro                  	|       ✓      	|                                 	|             ✓            	|                                           	|
+| Windows 10 Enterprise LTSC 2019 	|       ✓      	|                                 	|             ✓            	|                                           	|
+| Windows 10 Enterprise           	|       ✓      	|                ✓                	|             ✓            	|                     ✓                     	|
+| Windows 10 VDA                  	|              	|                ✓                	|             ✓            	|                     ✓                     	|
+
 
 #### Qualifying OS
 - Winddows 11 Enterprise / Pro
