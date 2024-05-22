@@ -28,7 +28,7 @@ Microsoft offers various licensing types to accommodate the diverse needs of use
 Ideal for small businesses or individual users requiring a one-time purchase of Microsoft Office products.
 A "Retail" license refers to the one you acquire when purchasing a copy of Windows from your local store or an online retailer. The Windows Retail license and product key can be transfered to another computer as long as you deactivate the old device.
 
-### Retail License Availability
+#### Retail License Availability
 - Windows 11 Home / Pro
 - Windows 10 Home / Pro
 
