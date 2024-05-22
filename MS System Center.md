@@ -13,11 +13,11 @@ Microsoft System Center is a suite of software products designed to simplify the
 ## Suited Products
 - System Center Operations Manager (SCOM)
   > *Monitor health, capacity, and usage across applications, workloads, and infrastructure.*
-- System Center Orchestrator
+- System Center Orchestrator (SCO)
   > *Automate your datacenter tasks; efficiently create and execute runbooks using native PowerShell scripts.*
 - System Center Virtual Machine Manager (VMM)
   > *Deploy and manage your virtualized, software-defined datacenter with a comprehensive solution for networking, storage, compute, and security.*
-- System Center Service Manager
+- System Center Service Manager (SCSM)
   > *Automated service delivery tool for incident resolution, change control, and asset lifecycle management.*
 - System Center Data Protection Manager (DPM)
   > *Protect your data with backup, storage, and recovery for private cloud deployments, physical machines, clients, and server applications.*
