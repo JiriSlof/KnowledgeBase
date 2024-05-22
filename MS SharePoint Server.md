@@ -44,7 +44,7 @@ Microsoft SharePoint Server offers different levels of functionality, and there 
   - *Communities* - an integrated collaboration platform.
   - *Content* - enterprise content management (ECM) for the masses.
   - *Search* - people and expertise search, visual previews, visual best bets.
-- **SharePoint Enterprise  CAL**
+- **SharePoint Enterprise  CAL** (additive)
   >  Delivers the full capabilities of SharePoint.
   - *Sites* - a single infrastructure for all your business websites.
   - *Communities* - an integrated collaboration platform.
