@@ -119,7 +119,7 @@ TBD
 ## Windows Activation
 Every copy of Windows 11 must be activated with a valid product key.
 
-### Full Packaged Product (FPP) Activation
+### OEM  / Retail Activation
 -  Via the Internet
 -  Via the Telephone
 
