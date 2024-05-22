@@ -4,7 +4,7 @@
 To access server software legally, a *Client Access License* (CAL) may be required. A CAL is not a software product, rather, it is a license that gives a user the right to access the services of the server.
 For using management software such as Microsoft System Center, a *Management License* (ML) may be required for the device being managed.
 
-## Individual Access Licenses
+## Individual Product Access Licenses
 
 ### Windows Server
 - Windows Server CAL - User / Device
