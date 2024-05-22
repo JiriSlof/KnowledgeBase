@@ -1,4 +1,4 @@
-TO BE DONE
+***TO BE FINALIZED***
 
 # Microsoft Acess Licenses
 To access server software legally, a *Client Access License* (CAL) may be required. A CAL is not a software product, rather, it is a license that gives a user the right to access the services of the server.
