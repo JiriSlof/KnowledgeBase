@@ -24,8 +24,8 @@ For using management software such as Microsoft System Center, a *Management Lic
 
 ### Skype for Business Server
 - Skype for Business Server Standard CAL - User / Device
-- Skype for Business Server Enterprise CAL (Conference) - User / Device
-- Skype for Business Server  Plus CAL (Enterprise Voice + Telefony) - User / Device
+- Skype for Business Server Enterprise CAL (Conference) - User / Device (additive)
+- Skype for Business Server  Plus CAL (Enterprise Voice + Telefony) - User / Device (additive)
 
 ### Microsoft System Center
 - Microsoft Endpoint Configuration Manager CML (SCCM) - OSE / User
