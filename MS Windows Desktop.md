@@ -10,9 +10,9 @@
 - Windows SE
 
 ## Versions
-- Windows 7
-- Windows 8
-- Windows 8.1
+- Windows 7 (obsolete)
+- Windows 8 (obsolete)
+- Windows 8.1 (obsolete)
 - Windows 10
 - Windows 11
 
@@ -20,11 +20,14 @@
 - Licese by Device
 - Licese by User
 
-## License Types & Rules
+## License Types
 Microsoft offers various licensing types to accommodate the diverse needs of users and organizations.
 
 ### Retail Licenses
 Ideal for small businesses or individual users requiring a one-time purchase of Microsoft Office products.
+A "Retail" license refers to the one you acquire when purchasing a copy of Windows from your local store or an online retailer. The Windows Retail license and product key can be transfered to another computer as long as you deactivate the old device.
+
+### Retail License Availability
 - Windows 11 Home / Pro
 - Windows 10 Home / Pro
 
@@ -35,8 +38,8 @@ Come pre-installed on new hardware, offering a cost-effective solution for those
 
 ### Volume Licenses
 Tailored for organizations that need to purchase licenses in bulk, providing flexibility and potential cost savings.
-- Windows 11 Pro / Enterprise / Enterprise LTSC
-- Windows 10 Pro / Enterprise / Enterprise LTSC
+
+A "Volume" license is designed for large businesses, education, and government entities. Usually, a volume license allows organizations to use one master product key to activate any installation of Windows. 
 
 > [!IMPORTANT]  
 > - *Licenses that are purchased through the volume licensing agreements are upgrade licenses only.*
