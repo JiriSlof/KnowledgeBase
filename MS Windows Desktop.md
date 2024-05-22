@@ -26,15 +26,17 @@ Microsoft offers various licensing types to accommodate the diverse needs of use
 ### Retail Licenses
 Ideal for small businesses or individual users requiring a one-time purchase of Microsoft Office products.
 - Windows 11 Home / Pro
-- Windows 10 Home / Enterprise / Enterprise LTSC
+- Windows 10 Home / Pro
 
 ### OEM Licenses
 Come pre-installed on new hardware, offering a cost-effective solution for those purchasing new devices.
+- Windows 11 Home / Pro
+- Windows 10 Home / Pro
 
 ### Volume Licenses
 Tailored for organizations that need to purchase licenses in bulk, providing flexibility and potential cost savings.
-- Windows 10 Home / Enterprise / Enterprise LTSC
-- Windows 10 Home / Enterprise / Enterprise LTSC
+- Windows 11 Pro / Enterprise / Enterprise LTSC
+- Windows 10 Pro / Enterprise / Enterprise LTSC
 
 #### Qualifying OS
 - Winddows 11 Enterprise / Pro
@@ -56,7 +58,18 @@ TBD
 TBD
 
 ## Software Assurance
-TBD
+Windows 11 Pro and Windows Enterprise LTSC 2021 licenses do not include Software Assurance.
+
+Windows 11 Enterprise includes Software Assurance which gives the following rights:
+- Virtual Desktop Access
+  > Rights to access virtual machines hosted in a Virtual Desktop Infrastructure.
+- Local virtualization
+  > Rights to access up to four virtual OSEs on a licensed device.
+- MDOP
+  > Microsoft Desktop Optimization Pack tools.
+- Flexible Virtualization Benefit
+  > Rights to install software on Authorized Outsourcers’ servers.
+- Ongoing access to new Long-Term Servicing Channel builds.
 
 ## Downgrade Rights
 
