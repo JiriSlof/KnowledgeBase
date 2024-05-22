@@ -113,6 +113,39 @@ Windows 11 Enterprise includes Software Assurance which gives the following righ
 TBD
 
 
+## Windows Activation
+Every copy of Windows 11 must be activated with a valid product key.
+
+### Full Packaged Product (FPP) Activation
+-  Via the Internet
+-  Via the Telephone
+
+### Volume Activation
+- Key Management Services (KMS)
+  > Activation is done against a service hosted within an organization, enabling organizations to activate systems within their network, eliminating the need for individual computers to connect to Microsoft.
+- Multiple Activation Key (MAK)
+  > Volume license key that is used for one-time activation with activation services that are hosted by Microsoft. This method is useful for smaller organizations, and for computers which are infrequently connected to the organization’s network.
+- Active Directory-based activation
+  > Is a role service that allows organizations to use Active Directory Domain Services (ADDS) to simplify the task of maintaining volume activation services for a network.
+
+
+## Servicing Channels
+Servicing Channels allow customers to designate how frequently their individual devices are updated for new features.
+
+- General Availability Channel
+  - New functionality is provided with annual feature update releases.
+  - As long as a device isn't set to defer feature updates, any device in this channel will install a feature update as soon as it's released.
+  - Applies to both Windows Pro and Enterprise editions.
+- Long-Therm Servicing Channel (LTSC)
+	- Feature updates every 2-3 years.
+	- Regular cadense for security and quality fixes to stay up to date.
+	- Each LTS has 5years mainstream + 5years extended support.
+  - A Windows Enterprise LTSC edition is available through some Volume Licensing agreements and CSP.
+  - Used for specialized systems—such as PCs that control medical equipment, point-of-sale systems, and ATMs—often.
+  - Windows Enterprise customers may choose to deploy this edition.
+
+
+
 ## External Links
 
 Windows 10 Qualifying OS Requirements - [Link](https://download.microsoft.com/download/3/D/4/3D42BDC2-6725-4B29-B75A-A5B04179958B/Licensing_brief_PLT_Windows_10_qualifying_operating_%20system_requirements.pdf)
