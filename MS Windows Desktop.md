@@ -95,12 +95,6 @@ A "Volume" license is designed for large businesses, education, and government e
 | Windows 7 Home Premium, Home Basic, Starter Edition |                                                   |                                      |                                                   |                                       |
 
 
-
-- Winddows 11 Enterprise / Pro
-- Winddows 10 Enterprise / Pro
-- Winddows 8/8.1 Enterprise / Pro
-- Winddows 7 Enterprise / Proffesional / Ultimate
-
 ### Subscription Licenses
 Such as Microsoft 365, offer ongoing access to Microsoft products, ensuring users always have the latest versions.
 
