@@ -83,6 +83,20 @@ A "Volume" license is designed for large businesses, education, and government e
 
 
 #### Qualifying OS
+| Qualifying Operating Systems                      | Windows 10 <br>(EA)/Open ValueCompany Wide(OV-OW) | Windows 10<br>(MPSA)/SelectPlus/Open | Windows 11 <br>(EA)/Open ValueCompany Wide(OV-OW) | Windows 11 <br>(MPSA)/SelectPlus/Open |
+|---------------------------------------------------|:-------------------------------------------------:|:------------------------------------:|:-------------------------------------------------:|:-------------------------------------:|
+| Windows 11 Enterprise, Pro,Pro for Workstations   |                                                   |                                      |                         ✓                         |                   ✓                   |
+| Windows 11 Education, Home                        |                                                   |                                      |                                                   |                                       |
+| Windows 10 Enterprise, Pro,Pro for Workstations   |                         ✓                         |                   ✓                  |                         ✓                         |                   ✓                   |
+| Windows 10 Education, Home                        |                                                   |                                      |                                                   |                                       |
+| Windows 8/8.1 Enterprise, Pro                     |                         ✓                         |                   ✓                  |                         ✓                         |                   ✓                   |
+| Windows 8/8.1                                     |                                                   |                                      |                                                   |                                       |
+| Windows 7 Enterprise,Professional,Ultimate        |                         ✓                         |                   ✓                  |                                                   |                                       |
+| Windows 7 Home Premium,Home Basic,Starter Edition |                                                   |                                      |                                                   |                                       |
+
+
+
+
 - Winddows 11 Enterprise / Pro
 - Winddows 10 Enterprise / Pro
 - Winddows 8/8.1 Enterprise / Pro
