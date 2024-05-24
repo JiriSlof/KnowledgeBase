@@ -106,11 +106,13 @@ Such as Microsoft 365, offer ongoing access to Microsoft products, ensuring user
 ![Windows-365](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/c27418c3-7b87-48a5-b1d0-e23a8e28794e)
 
 
-
 ### Educational, Non-Profit, and Government Licenses
 
-## License Mobility
-TBD
+## License Mobility & Reassignement
+- License Mobility is not available for Windows Desktop.
+- Per Device license assignment is permanent unless Customer has Software Assurance for that device.
+- The Licensed User must be the Primary User of at least one device licensed with a Qualifying OS. This one device must also be the Primary User’s primary work device.
+- VDA Per Device and Per User licenses may be assigned to any user or device.
 
 ## License Suites
 TBD
@@ -147,7 +149,7 @@ Windows 11 Enterprise includes Software Assurance which gives the following righ
 | Windows 95 / 98 / NT      	|            	|       ✓       	|           ✓          	|
 
 ## Licensing Virtual Machines (VMs) / Containers
-TBD
+Virtual Desktop Infrastructure (VDI)
 
 
 ## Windows Activation
@@ -186,7 +188,5 @@ Servicing Channels allow customers to designate how frequently their individual 
 ## External Links
 
 Windows 10 Qualifying OS Requirements - [Link](https://download.microsoft.com/download/3/D/4/3D42BDC2-6725-4B29-B75A-A5B04179958B/Licensing_brief_PLT_Windows_10_qualifying_operating_%20system_requirements.pdf)
-
 Windows 11 Qualifying OS Requirements - [Link](https://download.microsoft.com/download/3/D/4/3D42BDC2-6725-4B29-B75A-A5B04179958B/Licensing_brief_PLT_Windows_qualifying_operating_%20system_requirements.pdf)
-
 Commercial Licensing Guide - [Link](https://wwlpdocumentsearch.blob.core.windows.net/prodv2/Windows_11_Commercial_Licensing_Guide.pdf) 
