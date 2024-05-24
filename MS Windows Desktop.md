@@ -89,7 +89,7 @@ Qualifying Operating Systems can be acquired by:
 
 Windows upgrade licenses acquired through a Commercial Licensing agreement may only be installed or activated on devices licensed to run one of the Qualifying Operating Systems below:
 
-| Qualifying Operating Systems - Per Device Licenses  | Windows 10 <br>(EA)/Open Value Company Wide(OV-OW) | Windows 10<br>(MPSA)/SelectPlus/Open | Windows 11 <br>(EA)/Open Value Company Wide(OV-OW) | Windows 11 <br>(MPSA)/SelectPlus/Open |
+| Qualifying Operating Systems (Per Device Licenses)  | Windows 10 <br>(EA)/Open Value Company Wide(OV-OW) | Windows 10<br>(MPSA)/SelectPlus/Open | Windows 11 <br>(EA)/Open Value Company Wide(OV-OW) | Windows 11 <br>(MPSA)/SelectPlus/Open |
 |-----------------------------------------------------|:--------------------------------------------------:|:------------------------------------:|:--------------------------------------------------:|:-------------------------------------:|
 | Windows 11 Enterprise, Pro, Pro for Workstations    |                                                    |                                      |                          ✓                         |                   ✓                   |
 | Windows 11 Education, Home                          |                                                    |                                      |                                                    |                                       |
