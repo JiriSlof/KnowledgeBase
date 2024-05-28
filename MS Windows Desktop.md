@@ -39,19 +39,18 @@ A "Retail" license refers to the one you acquire when purchasing a copy of Windo
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/2eaad441-916b-4983-96a7-bcad5b93a216)
 
-#### Retail License Availability
+#### Retail License Availability (per device)
 - Windows 11 Home / Pro
 - Windows 10 Home / Pro
 
-### OEM Licenses
+### OEM Licenses (per device)
 Come pre-installed on new hardware, offering a cost-effective solution for those purchasing new devices.
 
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/cc56b16f-1510-4d8b-aec3-0814f36bd233)
 
-#### OEM License Availability
+#### OEM License Availability (per device)
 - Windows 11 Home / Pro
 - Windows 10 Home / Pro
-
 
 ### Volume Licenses
 Tailored for organizations that need to purchase licenses in bulk, providing flexibility and potential cost savings.
@@ -100,7 +99,7 @@ Windows upgrade licenses acquired through a Commercial Licensing agreement may o
 | Windows 7 Enterprise, Professional, Ultimate        |                          ✓                         |                   ✓                  |                                                    |                                       |
 | Windows 7 Home Premium, Home Basic, Starter Edition |                                                    |                                      |                                                    |                                       |
 
-### Subscription Licenses
+### Subscription Licenses (per user / device)
 Such as Microsoft 365, offer ongoing access to Microsoft products, ensuring users always have the latest versions.
 
 ![Windows-365](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/c27418c3-7b87-48a5-b1d0-e23a8e28794e)
