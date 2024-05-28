@@ -65,8 +65,7 @@ Windows Server is a group of server operating systems that has been developed by
 > - *There is no specific installation media - instead an Essentials product key is used to activate the Standard edition of Windows Server and you get all the same features.*
 > - *Windows Server Essentials is available to be purchased through OEMs only.*
 
-
-# License Mobility & Reassignement
+## License Mobility & Reassignement
 - License Mobility is not available for Windows Server.
 - Licenses can be reassigned to servers no more frequently than once every 90 days.
 - License Mobility IS available for the External Connector licenses.
@@ -152,7 +151,6 @@ Customers can choose to deploy an earlier version and, sometimes, an alternative
 ### License across Server Farm for Virtual Machine
 - Elibility to use license model for VM is restricted to custmers using Core licenses and CALs with Software Assurance or Software Subscriptions licenses.
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/e32dbfe5-d5a6-4ac1-9b4e-b00bf5629e16)
-
 
 ## Volume Activation
 - Key Management Services (KMS)	
