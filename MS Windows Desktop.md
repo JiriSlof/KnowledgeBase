@@ -111,17 +111,17 @@ Such as Microsoft 365, offer ongoing access to Microsoft products, ensuring user
 	- An Academic Volume License Agreement is an economic way for schools and institutions to acquire multiple licenses for software.
  	- Academic Volume License Agreement = Windows Upgrade Only.
  	- There are four types of volume licenses available
-  		- Campus
-    	- School
-     	- Academic Open
-      - Academic Select
+  	- Campus
+    - School
+    - Academic Open
+     - Academic Select
 - Nonprofit
 	- Microsoft provides grants and discounts for eligible nonprofit organizations.
 	- Include cloud services like Microsoft 365, Office 365, Azure and Dynamics 365, Surface hardware, and on-premises software.
 - Government
 	-  Microsoft has government licensing offerings for eligible organizations that provide special pricing and terms that better align to the way government organizations acquire software licenses and cloud services.
  	-  For small to midsize government organizations through Open Value for Government, Open Value Subscription for Government, SCP
-  	-  For midsize to large government organizations through EA for Government, MPSA, Select Plus for Government
+  -  For midsize to large government organizations through EA for Government, MPSA, Select Plus for Government
 
 ## License Mobility & Reassignement
 - License Mobility is not available for Windows Desktop.
