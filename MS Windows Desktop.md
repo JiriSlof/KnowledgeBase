@@ -112,9 +112,9 @@ Such as Microsoft 365, offer ongoing access to Microsoft products, ensuring user
  	- Academic Volume License Agreement = Windows Upgrade Only.
  	- There are four types of volume licenses available
   		- Campus
-    		- School
-     		- Academic Open
-      		- Academic Select
+    	- School
+     	- Academic Open
+      - Academic Select
 - Nonprofit
 	- Microsoft provides grants and discounts for eligible nonprofit organizations.
 	- Include cloud services like Microsoft 365, Office 365, Azure and Dynamics 365, Surface hardware, and on-premises software.
