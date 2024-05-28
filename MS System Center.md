@@ -89,7 +89,7 @@ Microsoft System Center is a suite of software products designed to simplify the
 |                                                    Included in Core CAL Suite                                                     |                                                                           ✓                                                                     |                                                                   ✓                                                              |                                                                                                                                                                             |
 |                                                    Included in Enterprise CAL Suite                                               |                                                                           ✓                                                                     |                                                                   ✓                                                              |                                                                                                                                                                             |
 
-## License Mobility
+## License Mobility & Reassignement
 - License Mobility is benefit of SA.
 - License Mobility across Server Farms is NOT available as an SA benefit.
 
