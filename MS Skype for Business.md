@@ -59,7 +59,7 @@ A Client Access Licenses (CALs) must be purchased for either users or devices.
 > - *Skype for Business Enterprise CAL and Business Plus CAL are only the additive CALs.*
 > - *Both Enterprise CAL and Business Plus CAL can added only in addition to the Standard CAL.*
 
-## License Mobility
+## License Mobility & Reassignement
 - License Mobility is not available for Exchange Server.
 - Licenses can be reassigned to servers no more frequently than once every 90 days.
 
