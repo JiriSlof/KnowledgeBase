@@ -66,8 +66,7 @@ Windows Server is a group of server operating systems that has been developed by
 > - *Windows Server Essentials is available to be purchased through OEMs only.*
 
 
-
-## License Mobility
+# License Mobility & Reassignement
 - License Mobility is not available for Windows Server.
 - Licenses can be reassigned to servers no more frequently than once every 90 days.
 - License Mobility IS available for the External Connector licenses.
