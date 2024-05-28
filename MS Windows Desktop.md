@@ -106,6 +106,9 @@ Such as Microsoft 365, offer ongoing access to Microsoft products, ensuring user
 
 
 ### Educational, Non-Profit, and Government Licenses
+- Academic => An Academic Volume License Agreement is an economic way for schools and institutions to acquire multiple licenses for software. There are four types of volume licenses available—Campus, School, Academic Open, and Academic Select. Academic Volume License Agreement = Windows Upgrade Only.
+- Nonprofit => Microsoft provides grants and discounts for eligible nonprofit organizations, including cloud services like Microsoft 365, Office 365, Azure and Dynamics 365, Surface hardware, and on-premises software.
+- Government => 
 
 ## License Mobility & Reassignement
 - License Mobility is not available for Windows Desktop.
@@ -113,8 +116,6 @@ Such as Microsoft 365, offer ongoing access to Microsoft products, ensuring user
 - The Licensed User must be the Primary User of at least one device licensed with a Qualifying OS. This one device must also be the Primary User’s primary work device.
 - VDA Per Device and Per User licenses may be assigned to any user or device.
 
-## License Suites
-TBD
 
 ## Software Assurance
 Windows 11 Enterprise includes Software Assurance which gives the following rights:
