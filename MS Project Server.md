@@ -52,7 +52,7 @@ Microsoft Project Server stores project information in a central SQL Server data
 > [!TIP]  
 > *Organizations with Project Professional 2021 licenses also receive one Project Server 2019 Device CAL for each license.*
 
-## License Mobility
+## License Mobility & Reassignement
 - License Mobility is not available for Exchange Server.
 - Licenses can be reassigned to servers no more frequently than once every 90 days.
 
