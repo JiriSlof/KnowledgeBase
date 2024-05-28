@@ -80,7 +80,7 @@ A Client Access Licenses (CALs) must be purchased for either users or devices.
 | In-Place Hold2                                                                                                                               	|                                	|                     ✓	                  	|
 | Information protection and control (IPC): transport protection rules,  Outlook protection rules, Information Rights Management (IRM) search  	|                                	|                     ✓	                  	|
 
-## License Mobility
+## License Mobility & Reassignement
 - License Mobility is not available for Exchange Server.
 - Licenses can be reassigned to servers no more frequently than once every 90 days.
 - License Mobility across Server Farms IS benefit of Software Assurance.
