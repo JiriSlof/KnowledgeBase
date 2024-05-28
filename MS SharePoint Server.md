@@ -82,7 +82,7 @@ SharePoint Server can be implemented in 3 different deployment scenarios "Intran
 ![obrazek](https://github.com/JiriSlof/KnowledgeBase/assets/168433423/b36ece15-3ac4-46ee-9a6c-6ced4098cae8)
 
 
-## License Mobility
+## License Mobility & Reassignement
 - License Mobility is not available for SharePoint Server.
 - Licenses can be reassigned to servers no more frequently than once every 90 days.
 - License Mobility across Server Farm is benefit of Software Assurence.
