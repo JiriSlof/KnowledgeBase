@@ -196,6 +196,7 @@ Servicing Channels allow customers to designate how frequently their individual 
   - Used for specialized systems—such as PCs that control medical equipment, point-of-sale systems, and ATMs—often.
   - Windows Enterprise customers may choose to deploy this edition.
 
+#### Windows 10 / 11 Servicing Channel availability:
 |     Edition     	| General Availability Channel 	| Long-Term Servicing Channel 	| Insider Program 	|
 |:---------------:	|:----------------------------:	|:---------------------------:	|:---------------:	|
 | Home            	|               -              	|              -              	|        ✓        	|
