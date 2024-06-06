@@ -196,7 +196,14 @@ Servicing Channels allow customers to designate how frequently their individual 
   - Used for specialized systems—such as PCs that control medical equipment, point-of-sale systems, and ATMs—often.
   - Windows Enterprise customers may choose to deploy this edition.
 
-
+|     Edition     	| General Availability Channel 	| Long-Term Servicing Channel 	| Insider Program 	|
+|:---------------:	|:----------------------------:	|:---------------------------:	|:---------------:	|
+| Home            	|               -              	|              -              	|        ✓        	|
+| Pro             	|               ✓              	|              -              	|        ✓        	|
+| Enterprise      	|               ✓              	|              -              	|        ✓        	|
+| Enterprise LTSC 	|               -              	|              ✓              	|        -        	|
+| Pro Education   	|               ✓              	|              -              	|        ✓        	|
+| Education       	|               ✓              	|              -              	|        ✓        	|
 
 ## External Links
 
